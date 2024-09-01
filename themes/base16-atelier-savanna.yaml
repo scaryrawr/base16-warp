@@ -1,0 +1,25 @@
+name: Atelier Savanna # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#478c90'
+cursor: '#478c90'
+background: '#171c19'
+foreground: '#87928a'
+details: darker
+terminal_colors:
+  normal:
+    black: '#171c19'
+    blue: '#478c90'
+    cyan: '#1c9aa0'
+    green: '#489963'
+    magenta: '#55859b'
+    red: '#b16139'
+    white: '#87928a'
+    yellow: '#a07e3b'
+  bright:
+    black: '#5f6d64'
+    blue: '#478c90'
+    cyan: '#1c9aa0'
+    green: '#489963'
+    magenta: '#55859b'
+    red: '#b16139'
+    white: '#ecf4ee'
+    yellow: '#a07e3b'

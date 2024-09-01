@@ -1,0 +1,25 @@
+name: Hardcore # by Chris Caller
+accent: '#66d9ef'
+cursor: '#66d9ef'
+background: '#212121'
+foreground: '#cdcdcd'
+details: darker
+terminal_colors:
+  normal:
+    black: '#212121'
+    blue: '#66d9ef'
+    cyan: '#708387'
+    green: '#a6e22e'
+    magenta: '#9e6ffe'
+    red: '#f92672'
+    white: '#cdcdcd'
+    yellow: '#e6db74'
+  bright:
+    black: '#4a4a4a'
+    blue: '#66d9ef'
+    cyan: '#708387'
+    green: '#a6e22e'
+    magenta: '#9e6ffe'
+    red: '#f92672'
+    white: '#ffffff'
+    yellow: '#e6db74'

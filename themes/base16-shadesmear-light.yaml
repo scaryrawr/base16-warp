@@ -1,0 +1,25 @@
+name: ShadeSmear Light # by Kyle Giammarco (http://kyle.giammar.co)
+accent: '#376388'
+cursor: '#376388'
+background: '#dbdbdb'
+foreground: '#232323'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#dbdbdb'
+    blue: '#376388'
+    cyan: '#c57d42'
+    green: '#71983b'
+    magenta: '#d7ab54'
+    red: '#cc5450'
+    white: '#232323'
+    yellow: '#307878'
+  bright:
+    black: '#4e4e4e'
+    blue: '#376388'
+    cyan: '#c57d42'
+    green: '#71983b'
+    magenta: '#d7ab54'
+    red: '#cc5450'
+    white: '#e4e4e4'
+    yellow: '#307878'

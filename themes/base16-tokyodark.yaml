@@ -1,0 +1,25 @@
+name: Tokyodark # by Tiagovla (https://github.com/tiagovla/)
+accent: '#95c561'
+cursor: '#95c561'
+background: '#11121d'
+foreground: '#abb2bf'
+details: darker
+terminal_colors:
+  normal:
+    black: '#11121d'
+    blue: '#95c561'
+    cyan: '#a485dd'
+    green: '#d7a65f'
+    magenta: '#ee6d85'
+    red: '#a485dd'
+    white: '#abb2bf'
+    yellow: '#7199ee'
+  bright:
+    black: '#393a45'
+    blue: '#95c561'
+    cyan: '#a485dd'
+    green: '#d7a65f'
+    magenta: '#ee6d85'
+    red: '#a485dd'
+    white: '#2c2d38'
+    yellow: '#7199ee'

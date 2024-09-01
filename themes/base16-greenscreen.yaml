@@ -1,0 +1,25 @@
+name: Green Screen # by Chris Kempson (http://chriskempson.com)
+accent: '#009900'
+cursor: '#009900'
+background: '#001100'
+foreground: '#00bb00'
+details: darker
+terminal_colors:
+  normal:
+    black: '#001100'
+    blue: '#009900'
+    cyan: '#005500'
+    green: '#00bb00'
+    magenta: '#00bb00'
+    red: '#007700'
+    white: '#00bb00'
+    yellow: '#007700'
+  bright:
+    black: '#007700'
+    blue: '#009900'
+    cyan: '#005500'
+    green: '#00bb00'
+    magenta: '#00bb00'
+    red: '#007700'
+    white: '#00ff00'
+    yellow: '#007700'

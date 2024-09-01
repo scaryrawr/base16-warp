@@ -1,0 +1,25 @@
+name: Rosé Pine Moon # by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+accent: '#c4a7e7'
+cursor: '#c4a7e7'
+background: '#232136'
+foreground: '#e0def4'
+details: darker
+terminal_colors:
+  normal:
+    black: '#232136'
+    blue: '#c4a7e7'
+    cyan: '#9ccfd8'
+    green: '#3e8fb0'
+    magenta: '#f6c177'
+    red: '#eb6f92'
+    white: '#e0def4'
+    yellow: '#ea9a97'
+  bright:
+    black: '#6e6a86'
+    blue: '#c4a7e7'
+    cyan: '#9ccfd8'
+    green: '#3e8fb0'
+    magenta: '#f6c177'
+    red: '#eb6f92'
+    white: '#56526e'
+    yellow: '#ea9a97'

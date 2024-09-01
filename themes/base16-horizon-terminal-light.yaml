@@ -1,0 +1,25 @@
+name: Horizon Terminal Light # by Michaël Ball (http://github.com/michael-ball/)
+accent: '#26bbd9'
+cursor: '#26bbd9'
+background: '#fdf0ed'
+foreground: '#403c3d'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fdf0ed'
+    blue: '#26bbd9'
+    cyan: '#59e1e3'
+    green: '#29d398'
+    magenta: '#ee64ac'
+    red: '#e95678'
+    white: '#403c3d'
+    yellow: '#fadad1'
+  bright:
+    black: '#bdb3b1'
+    blue: '#26bbd9'
+    cyan: '#59e1e3'
+    green: '#29d398'
+    magenta: '#ee64ac'
+    red: '#e95678'
+    white: '#201c1d'
+    yellow: '#fadad1'

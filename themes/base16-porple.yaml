@@ -1,0 +1,25 @@
+name: Porple # by Niek den Breeje (https://github.com/AuditeMarlow)
+accent: '#8485ce'
+cursor: '#8485ce'
+background: '#292c36'
+foreground: '#d8d8d8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#292c36'
+    blue: '#8485ce'
+    cyan: '#64878f'
+    green: '#95c76f'
+    magenta: '#b74989'
+    red: '#f84547'
+    white: '#d8d8d8'
+    yellow: '#efa16b'
+  bright:
+    black: '#65568a'
+    blue: '#8485ce'
+    cyan: '#64878f'
+    green: '#95c76f'
+    magenta: '#b74989'
+    red: '#f84547'
+    white: '#f8f8f8'
+    yellow: '#efa16b'

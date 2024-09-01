@@ -1,0 +1,25 @@
+name: Nord # by arcticicestudio
+accent: '#81a1c1'
+cursor: '#81a1c1'
+background: '#2e3440'
+foreground: '#e5e9f0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2e3440'
+    blue: '#81a1c1'
+    cyan: '#88c0d0'
+    green: '#a3be8c'
+    magenta: '#b48ead'
+    red: '#bf616a'
+    white: '#e5e9f0'
+    yellow: '#ebcb8b'
+  bright:
+    black: '#4c566a'
+    blue: '#81a1c1'
+    cyan: '#88c0d0'
+    green: '#a3be8c'
+    magenta: '#b48ead'
+    red: '#bf616a'
+    white: '#8fbcbb'
+    yellow: '#ebcb8b'

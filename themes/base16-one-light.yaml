@@ -1,0 +1,25 @@
+name: One Light # by Daniel Pfeifer (http://github.com/purpleKarrot)
+accent: '#4078f2'
+cursor: '#4078f2'
+background: '#fafafa'
+foreground: '#383a42'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fafafa'
+    blue: '#4078f2'
+    cyan: '#0184bc'
+    green: '#50a14f'
+    magenta: '#a626a4'
+    red: '#ca1243'
+    white: '#383a42'
+    yellow: '#c18401'
+  bright:
+    black: '#a0a1a7'
+    blue: '#4078f2'
+    cyan: '#0184bc'
+    green: '#50a14f'
+    magenta: '#a626a4'
+    red: '#ca1243'
+    white: '#090a0b'
+    yellow: '#c18401'

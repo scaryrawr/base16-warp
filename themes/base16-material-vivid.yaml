@@ -1,0 +1,25 @@
+name: Material Vivid # by joshyrobot
+accent: '#2196f3'
+cursor: '#2196f3'
+background: '#202124'
+foreground: '#80868b'
+details: darker
+terminal_colors:
+  normal:
+    black: '#202124'
+    blue: '#2196f3'
+    cyan: '#00bcd4'
+    green: '#00e676'
+    magenta: '#673ab7'
+    red: '#f44336'
+    white: '#80868b'
+    yellow: '#ffeb3b'
+  bright:
+    black: '#44464d'
+    blue: '#2196f3'
+    cyan: '#00bcd4'
+    green: '#00e676'
+    magenta: '#673ab7'
+    red: '#f44336'
+    white: '#ffffff'
+    yellow: '#ffeb3b'

@@ -1,0 +1,25 @@
+name: Ayu Light # by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+accent: '#36a3d9'
+cursor: '#36a3d9'
+background: '#fafafa'
+foreground: '#5c6773'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fafafa'
+    blue: '#36a3d9'
+    cyan: '#4cbf99'
+    green: '#86b300'
+    magenta: '#a37acc'
+    red: '#f07178'
+    white: '#5c6773'
+    yellow: '#f2ae49'
+  bright:
+    black: '#abb0b6'
+    blue: '#36a3d9'
+    cyan: '#4cbf99'
+    green: '#86b300'
+    magenta: '#a37acc'
+    red: '#f07178'
+    white: '#1a1f29'
+    yellow: '#f2ae49'

@@ -1,0 +1,25 @@
+name: Ayu Mirage # by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+accent: '#5ccfe6'
+cursor: '#5ccfe6'
+background: '#171b24'
+foreground: '#cccac2'
+details: darker
+terminal_colors:
+  normal:
+    black: '#171b24'
+    blue: '#5ccfe6'
+    cyan: '#95e6cb'
+    green: '#d5ff80'
+    magenta: '#d4bfff'
+    red: '#f28779'
+    white: '#cccac2'
+    yellow: '#ffd173'
+  bright:
+    black: '#707a8c'
+    blue: '#5ccfe6'
+    cyan: '#95e6cb'
+    green: '#d5ff80'
+    magenta: '#d4bfff'
+    red: '#f28779'
+    white: '#f3f4f5'
+    yellow: '#ffd173'

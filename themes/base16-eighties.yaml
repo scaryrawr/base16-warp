@@ -1,0 +1,25 @@
+name: Eighties # by Chris Kempson (http://chriskempson.com)
+accent: '#6699cc'
+cursor: '#6699cc'
+background: '#2d2d2d'
+foreground: '#d3d0c8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2d2d2d'
+    blue: '#6699cc'
+    cyan: '#66cccc'
+    green: '#99cc99'
+    magenta: '#cc99cc'
+    red: '#f2777a'
+    white: '#d3d0c8'
+    yellow: '#ffcc66'
+  bright:
+    black: '#747369'
+    blue: '#6699cc'
+    cyan: '#66cccc'
+    green: '#99cc99'
+    magenta: '#cc99cc'
+    red: '#f2777a'
+    white: '#f2f0ec'
+    yellow: '#ffcc66'

@@ -1,0 +1,25 @@
+name: Grayscale Light # by Alexandre Gavioli (https://github.com/Alexx2/)
+accent: '#686868'
+cursor: '#686868'
+background: '#f7f7f7'
+foreground: '#464646'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f7f7f7'
+    blue: '#686868'
+    cyan: '#868686'
+    green: '#8e8e8e'
+    magenta: '#747474'
+    red: '#7c7c7c'
+    white: '#464646'
+    yellow: '#a0a0a0'
+  bright:
+    black: '#ababab'
+    blue: '#686868'
+    cyan: '#868686'
+    green: '#8e8e8e'
+    magenta: '#747474'
+    red: '#7c7c7c'
+    white: '#101010'
+    yellow: '#a0a0a0'

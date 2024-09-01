@@ -1,0 +1,25 @@
+name: Precious Dark Eleven # by 4lex4 &lt;4lex49@zoho.com&gt;
+accent: '#68b0ee'
+cursor: '#68b0ee'
+background: '#1c1e20'
+foreground: '#b8b7b6'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1c1e20'
+    blue: '#68b0ee'
+    cyan: '#42bda7'
+    green: '#95b658'
+    magenta: '#b799fe'
+    red: '#ff8782'
+    white: '#b8b7b6'
+    yellow: '#d0a543'
+  bright:
+    black: '#858585'
+    blue: '#68b0ee'
+    cyan: '#42bda7'
+    green: '#95b658'
+    magenta: '#b799fe'
+    red: '#ff8782'
+    white: '#b8b7b6'
+    yellow: '#d0a543'

@@ -1,0 +1,25 @@
+name: Atelier Plateau # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#7272ca'
+cursor: '#7272ca'
+background: '#1b1818'
+foreground: '#8a8585'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1b1818'
+    blue: '#7272ca'
+    cyan: '#5485b6'
+    green: '#4b8b8b'
+    magenta: '#8464c4'
+    red: '#ca4949'
+    white: '#8a8585'
+    yellow: '#a06e3b'
+  bright:
+    black: '#655d5d'
+    blue: '#7272ca'
+    cyan: '#5485b6'
+    green: '#4b8b8b'
+    magenta: '#8464c4'
+    red: '#ca4949'
+    white: '#f4ecec'
+    yellow: '#a06e3b'

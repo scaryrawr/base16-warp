@@ -1,0 +1,25 @@
+name: Humanoid dark # by Thomas (tasmo) Friese
+accent: '#00a6fb'
+cursor: '#00a6fb'
+background: '#232629'
+foreground: '#f8f8f2'
+details: darker
+terminal_colors:
+  normal:
+    black: '#232629'
+    blue: '#00a6fb'
+    cyan: '#0dd9d6'
+    green: '#02d849'
+    magenta: '#f15ee3'
+    red: '#f11235'
+    white: '#f8f8f2'
+    yellow: '#ffb627'
+  bright:
+    black: '#60615d'
+    blue: '#00a6fb'
+    cyan: '#0dd9d6'
+    green: '#02d849'
+    magenta: '#f15ee3'
+    red: '#f11235'
+    white: '#fcfcfc'
+    yellow: '#ffb627'

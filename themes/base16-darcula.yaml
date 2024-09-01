@@ -1,0 +1,25 @@
+name: Darcula # by jetbrains
+accent: '#9876aa'
+cursor: '#9876aa'
+background: '#2b2b2b'
+foreground: '#a9b7c6'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2b2b2b'
+    blue: '#9876aa'
+    cyan: '#629755'
+    green: '#6a8759'
+    magenta: '#cc7832'
+    red: '#4eade5'
+    white: '#a9b7c6'
+    yellow: '#bbb529'
+  bright:
+    black: '#606366'
+    blue: '#9876aa'
+    cyan: '#629755'
+    green: '#6a8759'
+    magenta: '#cc7832'
+    red: '#4eade5'
+    white: '#ffffff'
+    yellow: '#bbb529'

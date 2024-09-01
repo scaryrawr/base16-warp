@@ -1,0 +1,25 @@
+name: Gruvbox light, medium # by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+accent: '#076678'
+cursor: '#076678'
+background: '#fbf1c7'
+foreground: '#504945'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fbf1c7'
+    blue: '#076678'
+    cyan: '#427b58'
+    green: '#79740e'
+    magenta: '#8f3f71'
+    red: '#9d0006'
+    white: '#504945'
+    yellow: '#b57614'
+  bright:
+    black: '#bdae93'
+    blue: '#076678'
+    cyan: '#427b58'
+    green: '#79740e'
+    magenta: '#8f3f71'
+    red: '#9d0006'
+    white: '#282828'
+    yellow: '#b57614'

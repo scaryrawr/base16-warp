@@ -1,0 +1,25 @@
+name: Atelier Heath Light # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#516aec'
+cursor: '#516aec'
+background: '#f7f3f7'
+foreground: '#695d69'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f7f3f7'
+    blue: '#516aec'
+    cyan: '#159393'
+    green: '#918b3b'
+    magenta: '#7b59c0'
+    red: '#ca402b'
+    white: '#695d69'
+    yellow: '#bb8a35'
+  bright:
+    black: '#9e8f9e'
+    blue: '#516aec'
+    cyan: '#159393'
+    green: '#918b3b'
+    magenta: '#7b59c0'
+    red: '#ca402b'
+    white: '#1b181b'
+    yellow: '#bb8a35'

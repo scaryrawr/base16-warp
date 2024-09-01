@@ -1,0 +1,25 @@
+name: Windows 10 # by Fergus Collins (https://github.com/C-Fergus)
+accent: '#3b78ff'
+cursor: '#3b78ff'
+background: '#0c0c0c'
+foreground: '#cccccc'
+details: darker
+terminal_colors:
+  normal:
+    black: '#0c0c0c'
+    blue: '#3b78ff'
+    cyan: '#61d6d6'
+    green: '#16c60c'
+    magenta: '#b4009e'
+    red: '#e74856'
+    white: '#cccccc'
+    yellow: '#f9f1a5'
+  bright:
+    black: '#767676'
+    blue: '#3b78ff'
+    cyan: '#61d6d6'
+    green: '#16c60c'
+    magenta: '#b4009e'
+    red: '#e74856'
+    white: '#f2f2f2'
+    yellow: '#f9f1a5'

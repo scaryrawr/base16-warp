@@ -1,0 +1,25 @@
+name: Precious Light White # by 4lex4 &lt;4lex49@zoho.com&gt;
+accent: '#186daa'
+cursor: '#186daa'
+background: '#ffffff'
+foreground: '#555555'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#ffffff'
+    blue: '#186daa'
+    cyan: '#087767'
+    green: '#557301'
+    magenta: '#7b4ecb'
+    red: '#af4947'
+    white: '#555555'
+    yellow: '#876500'
+  bright:
+    black: '#848484'
+    blue: '#186daa'
+    cyan: '#087767'
+    green: '#557301'
+    magenta: '#7b4ecb'
+    red: '#af4947'
+    white: '#555555'
+    yellow: '#876500'

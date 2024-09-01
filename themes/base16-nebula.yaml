@@ -1,0 +1,25 @@
+name: Nebula # by Gabriel Fontes (https://github.com/Misterio77)
+accent: '#4d6bb6'
+cursor: '#4d6bb6'
+background: '#22273b'
+foreground: '#a4a6a9'
+details: darker
+terminal_colors:
+  normal:
+    black: '#22273b'
+    blue: '#4d6bb6'
+    cyan: '#226f68'
+    green: '#6562a8'
+    magenta: '#716cae'
+    red: '#777abc'
+    white: '#a4a6a9'
+    yellow: '#4f9062'
+  bright:
+    black: '#6e6f72'
+    blue: '#4d6bb6'
+    cyan: '#226f68'
+    green: '#6562a8'
+    magenta: '#716cae'
+    red: '#777abc'
+    white: '#8dbdaa'
+    yellow: '#4f9062'

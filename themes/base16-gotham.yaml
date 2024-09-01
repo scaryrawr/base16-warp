@@ -1,0 +1,25 @@
+name: Gotham # by Andrea Leopardi (arranged by Brett Jones)
+accent: '#195466'
+cursor: '#195466'
+background: '#0c1014'
+foreground: '#599cab'
+details: darker
+terminal_colors:
+  normal:
+    black: '#0c1014'
+    blue: '#195466'
+    cyan: '#2aa889'
+    green: '#33859e'
+    magenta: '#888ca6'
+    red: '#c23127'
+    white: '#599cab'
+    yellow: '#edb443'
+  bright:
+    black: '#0a3749'
+    blue: '#195466'
+    cyan: '#2aa889'
+    green: '#33859e'
+    magenta: '#888ca6'
+    red: '#c23127'
+    white: '#d3ebe9'
+    yellow: '#edb443'

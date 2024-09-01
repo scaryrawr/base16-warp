@@ -1,0 +1,25 @@
+name: summercamp # by zoe firi (zoefiri.github.io)
+accent: '#489bf0'
+cursor: '#489bf0'
+background: '#1c1810'
+foreground: '#736e55'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1c1810'
+    blue: '#489bf0'
+    cyan: '#5aebbc'
+    green: '#5ceb5a'
+    magenta: '#ff8080'
+    red: '#e35142'
+    white: '#736e55'
+    yellow: '#f2ff27'
+  bright:
+    black: '#504b38'
+    blue: '#489bf0'
+    cyan: '#5aebbc'
+    green: '#5ceb5a'
+    magenta: '#ff8080'
+    red: '#e35142'
+    white: '#f8f5de'
+    yellow: '#f2ff27'

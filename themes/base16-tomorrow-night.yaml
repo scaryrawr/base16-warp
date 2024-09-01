@@ -1,0 +1,25 @@
+name: Tomorrow Night # by Chris Kempson (http://chriskempson.com)
+accent: '#81a2be'
+cursor: '#81a2be'
+background: '#1d1f21'
+foreground: '#c5c8c6'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1d1f21'
+    blue: '#81a2be'
+    cyan: '#8abeb7'
+    green: '#b5bd68'
+    magenta: '#b294bb'
+    red: '#cc6666'
+    white: '#c5c8c6'
+    yellow: '#f0c674'
+  bright:
+    black: '#969896'
+    blue: '#81a2be'
+    cyan: '#8abeb7'
+    green: '#b5bd68'
+    magenta: '#b294bb'
+    red: '#cc6666'
+    white: '#ffffff'
+    yellow: '#f0c674'

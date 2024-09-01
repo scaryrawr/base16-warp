@@ -1,0 +1,25 @@
+name: Gruber # by Patel, Nimai &lt;nimai.m.patel@gmail.com&gt;, colors from www.github.com/rexim/gruber-darker-theme
+accent: '#96a6c8'
+cursor: '#96a6c8'
+background: '#181818'
+foreground: '#f4f4ff'
+details: darker
+terminal_colors:
+  normal:
+    black: '#181818'
+    blue: '#96a6c8'
+    cyan: '#95a99f'
+    green: '#73c936'
+    magenta: '#9e95c7'
+    red: '#f43841'
+    white: '#f4f4ff'
+    yellow: '#ffdd33'
+  bright:
+    black: '#52494e'
+    blue: '#96a6c8'
+    cyan: '#95a99f'
+    green: '#73c936'
+    magenta: '#9e95c7'
+    red: '#f43841'
+    white: '#e4e4ef'
+    yellow: '#ffdd33'

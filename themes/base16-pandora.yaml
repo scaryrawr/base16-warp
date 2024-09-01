@@ -1,0 +1,25 @@
+name: pandora # by Cassandra Fox
+accent: '#008080'
+cursor: '#008080'
+background: '#131213'
+foreground: '#f15c99'
+details: darker
+terminal_colors:
+  normal:
+    black: '#131213'
+    blue: '#008080'
+    cyan: '#714ca6'
+    green: '#9ddf69'
+    magenta: '#a24030'
+    red: '#b00b69'
+    white: '#f15c99'
+    yellow: '#ffcc00'
+  bright:
+    black: '#ffbee3'
+    blue: '#008080'
+    cyan: '#714ca6'
+    green: '#9ddf69'
+    magenta: '#a24030'
+    red: '#b00b69'
+    white: '#632227'
+    yellow: '#ffcc00'

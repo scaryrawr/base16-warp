@@ -1,0 +1,25 @@
+name: OneDark Dark # by olimorris (https://github.com/olimorris)
+accent: '#61afef'
+cursor: '#61afef'
+background: '#000000'
+foreground: '#abb2bf'
+details: darker
+terminal_colors:
+  normal:
+    black: '#000000'
+    blue: '#61afef'
+    cyan: '#2bbac5'
+    green: '#89ca78'
+    magenta: '#d55fde'
+    red: '#ef596f'
+    white: '#abb2bf'
+    yellow: '#e5c07b'
+  bright:
+    black: '#434852'
+    blue: '#61afef'
+    cyan: '#2bbac5'
+    green: '#89ca78'
+    magenta: '#d55fde'
+    red: '#ef596f'
+    white: '#c8ccd4'
+    yellow: '#e5c07b'

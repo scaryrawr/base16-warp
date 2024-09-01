@@ -1,0 +1,25 @@
+name: Nord Light # by threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+accent: '#3b6ea8'
+cursor: '#3b6ea8'
+background: '#e5e9f0'
+foreground: '#2e3440'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#e5e9f0'
+    blue: '#3b6ea8'
+    cyan: '#398eac'
+    green: '#4f894c'
+    magenta: '#97365b'
+    red: '#99324b'
+    white: '#2e3440'
+    yellow: '#9a7500'
+  bright:
+    black: '#aebacf'
+    blue: '#3b6ea8'
+    cyan: '#398eac'
+    green: '#4f894c'
+    magenta: '#97365b'
+    red: '#99324b'
+    white: '#29838d'
+    yellow: '#9a7500'

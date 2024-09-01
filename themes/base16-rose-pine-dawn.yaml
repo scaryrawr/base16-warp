@@ -1,0 +1,25 @@
+name: Rosé Pine Dawn # by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+accent: '#907aa9'
+cursor: '#907aa9'
+background: '#faf4ed'
+foreground: '#575279'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#faf4ed'
+    blue: '#907aa9'
+    cyan: '#56949f'
+    green: '#286983'
+    magenta: '#ea9d34'
+    red: '#b4637a'
+    white: '#575279'
+    yellow: '#d7827e'
+  bright:
+    black: '#9893a5'
+    blue: '#907aa9'
+    cyan: '#56949f'
+    green: '#286983'
+    magenta: '#ea9d34'
+    red: '#b4637a'
+    white: '#cecacd'
+    yellow: '#d7827e'

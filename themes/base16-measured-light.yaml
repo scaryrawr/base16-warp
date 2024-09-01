@@ -1,0 +1,25 @@
+name: Measured Light # by Measured (https://measured.co)
+accent: '#0158ad'
+cursor: '#0158ad'
+background: '#fdf9f5'
+foreground: '#292929'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fdf9f5'
+    blue: '#0158ad'
+    cyan: '#01716f'
+    green: '#0c680c'
+    magenta: '#6645c2'
+    red: '#ac1f35'
+    white: '#292929'
+    yellow: '#645a00'
+  bright:
+    black: '#5a5a5a'
+    blue: '#0158ad'
+    cyan: '#01716f'
+    green: '#0c680c'
+    magenta: '#6645c2'
+    red: '#ac1f35'
+    white: '#000000'
+    yellow: '#645a00'

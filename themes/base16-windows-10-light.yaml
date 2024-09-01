@@ -1,0 +1,25 @@
+name: Windows 10 Light # by Fergus Collins (https://github.com/C-Fergus)
+accent: '#0037da'
+cursor: '#0037da'
+background: '#f2f2f2'
+foreground: '#767676'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f2f2f2'
+    blue: '#0037da'
+    cyan: '#3a96dd'
+    green: '#13a10e'
+    magenta: '#881798'
+    red: '#c50f1f'
+    white: '#767676'
+    yellow: '#c19c00'
+  bright:
+    black: '#cccccc'
+    blue: '#0037da'
+    cyan: '#3a96dd'
+    green: '#13a10e'
+    magenta: '#881798'
+    red: '#c50f1f'
+    white: '#0c0c0c'
+    yellow: '#c19c00'

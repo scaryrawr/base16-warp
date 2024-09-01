@@ -1,0 +1,25 @@
+name: standardized-light # by ali (https://github.com/ali-githb/base16-standardized-scheme)
+accent: '#3173c5'
+cursor: '#3173c5'
+background: '#ffffff'
+foreground: '#444444'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#ffffff'
+    blue: '#3173c5'
+    cyan: '#00998f'
+    green: '#31861f'
+    magenta: '#9e57c2'
+    red: '#d03e3e'
+    white: '#444444'
+    yellow: '#ad8200'
+  bright:
+    black: '#767676'
+    blue: '#3173c5'
+    cyan: '#00998f'
+    green: '#31861f'
+    magenta: '#9e57c2'
+    red: '#d03e3e'
+    white: '#222222'
+    yellow: '#ad8200'

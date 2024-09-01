@@ -1,0 +1,25 @@
+name: Pico # by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+accent: '#83769c'
+cursor: '#83769c'
+background: '#000000'
+foreground: '#5f574f'
+details: darker
+terminal_colors:
+  normal:
+    black: '#000000'
+    blue: '#83769c'
+    cyan: '#29adff'
+    green: '#00e756'
+    magenta: '#ff77a8'
+    red: '#ff004d'
+    white: '#5f574f'
+    yellow: '#fff024'
+  bright:
+    black: '#008751'
+    blue: '#83769c'
+    cyan: '#29adff'
+    green: '#00e756'
+    magenta: '#ff77a8'
+    red: '#ff004d'
+    white: '#fff1e8'
+    yellow: '#fff024'

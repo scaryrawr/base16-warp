@@ -1,0 +1,25 @@
+name: Gruvbox dark, pale # by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+accent: '#83adad'
+cursor: '#83adad'
+background: '#262626'
+foreground: '#dab997'
+details: darker
+terminal_colors:
+  normal:
+    black: '#262626'
+    blue: '#83adad'
+    cyan: '#85ad85'
+    green: '#afaf00'
+    magenta: '#d485ad'
+    red: '#d75f5f'
+    white: '#dab997'
+    yellow: '#ffaf00'
+  bright:
+    black: '#8a8a8a'
+    blue: '#83adad'
+    cyan: '#85ad85'
+    green: '#afaf00'
+    magenta: '#d485ad'
+    red: '#d75f5f'
+    white: '#ebdbb2'
+    yellow: '#ffaf00'

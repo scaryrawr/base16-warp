@@ -1,0 +1,25 @@
+name: Heetch Dark # by Geoffrey Teale (tealeg@gmail.com)
+accent: '#bd0152'
+cursor: '#bd0152'
+background: '#190134'
+foreground: '#bdb6c5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#190134'
+    blue: '#bd0152'
+    cyan: '#f80059'
+    green: '#c33678'
+    magenta: '#82034c'
+    red: '#27d9d5'
+    white: '#bdb6c5'
+    yellow: '#8f6c97'
+  bright:
+    black: '#7b6d8b'
+    blue: '#bd0152'
+    cyan: '#f80059'
+    green: '#c33678'
+    magenta: '#82034c'
+    red: '#27d9d5'
+    white: '#feffff'
+    yellow: '#8f6c97'

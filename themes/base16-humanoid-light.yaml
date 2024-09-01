@@ -1,0 +1,25 @@
+name: Humanoid light # by Thomas (tasmo) Friese
+accent: '#0082c9'
+cursor: '#0082c9'
+background: '#f8f8f2'
+foreground: '#232629'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f8f8f2'
+    blue: '#0082c9'
+    cyan: '#008e8e'
+    green: '#388e3c'
+    magenta: '#700f98'
+    red: '#b0151a'
+    white: '#232629'
+    yellow: '#ffb627'
+  bright:
+    black: '#c0c0bd'
+    blue: '#0082c9'
+    cyan: '#008e8e'
+    green: '#388e3c'
+    magenta: '#700f98'
+    red: '#b0151a'
+    white: '#070708'
+    yellow: '#ffb627'

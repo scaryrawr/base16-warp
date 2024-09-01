@@ -1,0 +1,25 @@
+name: Eva Dim # by kjakapat (https://github.com/kjakapat)
+accent: '#1ae1dc'
+cursor: '#1ae1dc'
+background: '#2a3b4d'
+foreground: '#9fa2a6'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2a3b4d'
+    blue: '#1ae1dc'
+    cyan: '#4b8f77'
+    green: '#5de561'
+    magenta: '#9c6cd3'
+    red: '#c4676c'
+    white: '#9fa2a6'
+    yellow: '#cfd05d'
+  bright:
+    black: '#55799c'
+    blue: '#1ae1dc'
+    cyan: '#4b8f77'
+    green: '#5de561'
+    magenta: '#9c6cd3'
+    red: '#c4676c'
+    white: '#ffffff'
+    yellow: '#cfd05d'

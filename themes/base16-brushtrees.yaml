@@ -1,0 +1,25 @@
+name: Brush Trees # by Abraham White &lt;abelincoln.white@gmail.com&gt;
+accent: '#868cb3'
+cursor: '#868cb3'
+background: '#e3efef'
+foreground: '#6d828e'
+details: darker
+terminal_colors:
+  normal:
+    black: '#e3efef'
+    blue: '#868cb3'
+    cyan: '#86b3b3'
+    green: '#87b386'
+    magenta: '#b386b2'
+    red: '#b38686'
+    white: '#6d828e'
+    yellow: '#aab386'
+  bright:
+    black: '#98afb5'
+    blue: '#868cb3'
+    cyan: '#86b3b3'
+    green: '#87b386'
+    magenta: '#b386b2'
+    red: '#b38686'
+    white: '#485867'
+    yellow: '#aab386'

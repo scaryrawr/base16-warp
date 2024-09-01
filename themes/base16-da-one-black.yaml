@@ -1,0 +1,25 @@
+name: Da One Black # by NNB (https://github.com/NNBnh)
+accent: '#6bb8ff'
+cursor: '#6bb8ff'
+background: '#000000'
+foreground: '#ffffff'
+details: darker
+terminal_colors:
+  normal:
+    black: '#000000'
+    blue: '#6bb8ff'
+    cyan: '#8af5ff'
+    green: '#98c379'
+    magenta: '#e799ff'
+    red: '#fa7883'
+    white: '#ffffff'
+    yellow: '#ff9470'
+  bright:
+    black: '#888888'
+    blue: '#6bb8ff'
+    cyan: '#8af5ff'
+    green: '#98c379'
+    magenta: '#e799ff'
+    red: '#fa7883'
+    white: '#ffffff'
+    yellow: '#ff9470'

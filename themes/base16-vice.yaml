@@ -1,0 +1,25 @@
+name: vice # by Thomas Leon Highbaugh thighbaugh@zoho.com
+accent: '#00eaff'
+cursor: '#00eaff'
+background: '#17191e'
+foreground: '#8b9cbe'
+details: darker
+terminal_colors:
+  normal:
+    black: '#17191e'
+    blue: '#00eaff'
+    cyan: '#8265ff'
+    green: '#0badff'
+    magenta: '#00f6d9'
+    red: '#ff29a8'
+    white: '#8b9cbe'
+    yellow: '#f0ffaa'
+  bright:
+    black: '#383a47'
+    blue: '#00eaff'
+    cyan: '#8265ff'
+    green: '#0badff'
+    magenta: '#00f6d9'
+    red: '#ff29a8'
+    white: '#f4f4f7'
+    yellow: '#f0ffaa'

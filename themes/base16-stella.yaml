@@ -1,0 +1,25 @@
+name: Stella # by Shrimpram
+accent: '#a5aad4'
+cursor: '#a5aad4'
+background: '#2b213c'
+foreground: '#998bad'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2b213c'
+    blue: '#a5aad4'
+    cyan: '#9bc7bf'
+    green: '#acc79b'
+    magenta: '#c594ff'
+    red: '#c79987'
+    white: '#998bad'
+    yellow: '#c7c691'
+  bright:
+    black: '#655978'
+    blue: '#a5aad4'
+    cyan: '#9bc7bf'
+    green: '#acc79b'
+    magenta: '#c594ff'
+    red: '#c79987'
+    white: '#ebdcff'
+    yellow: '#c7c691'

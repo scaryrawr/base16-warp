@@ -1,0 +1,25 @@
+name: Mellow Purple # by gidsi
+accent: '#550068'
+cursor: '#550068'
+background: '#1e0528'
+foreground: '#ffeeff'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1e0528'
+    blue: '#550068'
+    cyan: '#b900b1'
+    green: '#05cb0d'
+    magenta: '#8991bb'
+    red: '#00d9e9'
+    white: '#ffeeff'
+    yellow: '#955ae7'
+  bright:
+    black: '#320f55'
+    blue: '#550068'
+    cyan: '#b900b1'
+    green: '#05cb0d'
+    magenta: '#8991bb'
+    red: '#00d9e9'
+    white: '#f8c0ff'
+    yellow: '#955ae7'

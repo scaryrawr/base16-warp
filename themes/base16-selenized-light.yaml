@@ -1,0 +1,25 @@
+name: selenized-light # by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+accent: '#006dce'
+cursor: '#006dce'
+background: '#fbf3db'
+foreground: '#53676d'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fbf3db'
+    blue: '#006dce'
+    cyan: '#00978a'
+    green: '#428b00'
+    magenta: '#825dc0'
+    red: '#cc1729'
+    white: '#53676d'
+    yellow: '#a78300'
+  bright:
+    black: '#909995'
+    blue: '#006dce'
+    cyan: '#00978a'
+    green: '#428b00'
+    magenta: '#825dc0'
+    red: '#cc1729'
+    white: '#3a4d53'
+    yellow: '#a78300'

@@ -1,0 +1,25 @@
+name: Outrun Dark # by Hugo Delahousse (http://github.com/hugodelahousse/)
+accent: '#66b0ff'
+cursor: '#66b0ff'
+background: '#00002a'
+foreground: '#d0d0fa'
+details: darker
+terminal_colors:
+  normal:
+    black: '#00002a'
+    blue: '#66b0ff'
+    cyan: '#0ef0f0'
+    green: '#59f176'
+    magenta: '#f10596'
+    red: '#ff4242'
+    white: '#d0d0fa'
+    yellow: '#f3e877'
+  bright:
+    black: '#50507a'
+    blue: '#66b0ff'
+    cyan: '#0ef0f0'
+    green: '#59f176'
+    magenta: '#f10596'
+    red: '#ff4242'
+    white: '#f5f5ff'
+    yellow: '#f3e877'

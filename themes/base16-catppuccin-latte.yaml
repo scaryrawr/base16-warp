@@ -1,0 +1,25 @@
+name: Catppuccin Latte # by https://github.com/catppuccin/catppuccin
+accent: '#1e66f5'
+cursor: '#1e66f5'
+background: '#eff1f5'
+foreground: '#4c4f69'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#eff1f5'
+    blue: '#1e66f5'
+    cyan: '#179299'
+    green: '#40a02b'
+    magenta: '#8839ef'
+    red: '#d20f39'
+    white: '#4c4f69'
+    yellow: '#df8e1d'
+  bright:
+    black: '#bcc0cc'
+    blue: '#1e66f5'
+    cyan: '#179299'
+    green: '#40a02b'
+    magenta: '#8839ef'
+    red: '#d20f39'
+    white: '#7287fd'
+    yellow: '#df8e1d'

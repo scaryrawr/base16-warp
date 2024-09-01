@@ -1,0 +1,25 @@
+name: Material Palenight # by Nate Peterson
+accent: '#82aaff'
+cursor: '#82aaff'
+background: '#292d3e'
+foreground: '#959dcb'
+details: darker
+terminal_colors:
+  normal:
+    black: '#292d3e'
+    blue: '#82aaff'
+    cyan: '#89ddff'
+    green: '#c3e88d'
+    magenta: '#c792ea'
+    red: '#f07178'
+    white: '#959dcb'
+    yellow: '#ffcb6b'
+  bright:
+    black: '#676e95'
+    blue: '#82aaff'
+    cyan: '#89ddff'
+    green: '#c3e88d'
+    magenta: '#c792ea'
+    red: '#f07178'
+    white: '#ffffff'
+    yellow: '#ffcb6b'

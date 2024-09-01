@@ -1,0 +1,25 @@
+name: Spacemacs # by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+accent: '#4f97d7'
+cursor: '#4f97d7'
+background: '#1f2022'
+foreground: '#a3a3a3'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1f2022'
+    blue: '#4f97d7'
+    cyan: '#2d9574'
+    green: '#67b11d'
+    magenta: '#a31db1'
+    red: '#f2241f'
+    white: '#a3a3a3'
+    yellow: '#b1951d'
+  bright:
+    black: '#585858'
+    blue: '#4f97d7'
+    cyan: '#2d9574'
+    green: '#67b11d'
+    magenta: '#a31db1'
+    red: '#f2241f'
+    white: '#f8f8f8'
+    yellow: '#b1951d'

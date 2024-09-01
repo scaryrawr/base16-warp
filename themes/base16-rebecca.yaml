@@ -1,0 +1,25 @@
+name: Rebecca # by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+accent: '#2de0a7'
+cursor: '#2de0a7'
+background: '#292a44'
+foreground: '#f1eff8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#292a44'
+    blue: '#2de0a7'
+    cyan: '#8eaee0'
+    green: '#6dfedf'
+    magenta: '#7aa5ff'
+    red: '#a0a0c5'
+    white: '#f1eff8'
+    yellow: '#ae81ff'
+  bright:
+    black: '#666699'
+    blue: '#2de0a7'
+    cyan: '#8eaee0'
+    green: '#6dfedf'
+    magenta: '#7aa5ff'
+    red: '#a0a0c5'
+    white: '#53495d'
+    yellow: '#ae81ff'

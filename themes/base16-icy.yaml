@@ -1,0 +1,25 @@
+name: Icy Dark # by icyphox (https://icyphox.ga)
+accent: '#00bcd4'
+cursor: '#00bcd4'
+background: '#021012'
+foreground: '#095b67'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#021012'
+    blue: '#00bcd4'
+    cyan: '#26c6da'
+    green: '#4dd0e1'
+    magenta: '#00acc1'
+    red: '#16c1d9'
+    white: '#095b67'
+    yellow: '#80deea'
+  bright:
+    black: '#052e34'
+    blue: '#00bcd4'
+    cyan: '#26c6da'
+    green: '#4dd0e1'
+    magenta: '#00acc1'
+    red: '#16c1d9'
+    white: '#109cb0'
+    yellow: '#80deea'

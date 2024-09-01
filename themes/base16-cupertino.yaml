@@ -1,0 +1,25 @@
+name: Cupertino # by Defman21
+accent: '#0000ff'
+cursor: '#0000ff'
+background: '#ffffff'
+foreground: '#404040'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#ffffff'
+    blue: '#0000ff'
+    cyan: '#318495'
+    green: '#007400'
+    magenta: '#a90d91'
+    red: '#c41a15'
+    white: '#404040'
+    yellow: '#826b28'
+  bright:
+    black: '#808080'
+    blue: '#0000ff'
+    cyan: '#318495'
+    green: '#007400'
+    magenta: '#a90d91'
+    red: '#c41a15'
+    white: '#5e5e5e'
+    yellow: '#826b28'

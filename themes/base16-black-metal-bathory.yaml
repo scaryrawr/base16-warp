@@ -1,0 +1,25 @@
+name: Black Metal (Bathory) # by metalelf0 (https://github.com/metalelf0)
+accent: '#888888'
+cursor: '#888888'
+background: '#000000'
+foreground: '#c1c1c1'
+details: darker
+terminal_colors:
+  normal:
+    black: '#000000'
+    blue: '#888888'
+    cyan: '#aaaaaa'
+    green: '#fbcb97'
+    magenta: '#999999'
+    red: '#5f8787'
+    white: '#c1c1c1'
+    yellow: '#e78a53'
+  bright:
+    black: '#333333'
+    blue: '#888888'
+    cyan: '#aaaaaa'
+    green: '#fbcb97'
+    magenta: '#999999'
+    red: '#5f8787'
+    white: '#c1c1c1'
+    yellow: '#e78a53'

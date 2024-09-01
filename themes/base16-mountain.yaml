@@ -1,0 +1,25 @@
+name: Mountain # by gnsfujiwara (https://github.com/gnsfujiwara)
+accent: '#8f8aac'
+cursor: '#8f8aac'
+background: '#0f0f0f'
+foreground: '#cacaca'
+details: darker
+terminal_colors:
+  normal:
+    black: '#0f0f0f'
+    blue: '#8f8aac'
+    cyan: '#8aabac'
+    green: '#8aac8b'
+    magenta: '#ac8aac'
+    red: '#ac8a8c'
+    white: '#cacaca'
+    yellow: '#aca98a'
+  bright:
+    black: '#4c4c4c'
+    blue: '#8f8aac'
+    cyan: '#8aabac'
+    green: '#8aac8b'
+    magenta: '#ac8aac'
+    red: '#ac8a8c'
+    white: '#f0f0f0'
+    yellow: '#aca98a'

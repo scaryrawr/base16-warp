@@ -1,0 +1,25 @@
+name: Colors # by mrmrs (http://clrs.cc)
+accent: '#0074d9'
+cursor: '#0074d9'
+background: '#111111'
+foreground: '#bbbbbb'
+details: darker
+terminal_colors:
+  normal:
+    black: '#111111'
+    blue: '#0074d9'
+    cyan: '#7fdbff'
+    green: '#2ecc40'
+    magenta: '#b10dc9'
+    red: '#ff4136'
+    white: '#bbbbbb'
+    yellow: '#ffdc00'
+  bright:
+    black: '#777777'
+    blue: '#0074d9'
+    cyan: '#7fdbff'
+    green: '#2ecc40'
+    magenta: '#b10dc9'
+    red: '#ff4136'
+    white: '#ffffff'
+    yellow: '#ffdc00'

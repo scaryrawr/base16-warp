@@ -1,0 +1,25 @@
+name: Nova # by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+accent: '#83afe5'
+cursor: '#83afe5'
+background: '#3c4c55'
+foreground: '#c5d4dd'
+details: darker
+terminal_colors:
+  normal:
+    black: '#3c4c55'
+    blue: '#83afe5'
+    cyan: '#f2c38f'
+    green: '#7fc1ca'
+    magenta: '#9a93e1'
+    red: '#83afe5'
+    white: '#c5d4dd'
+    yellow: '#a8ce93'
+  bright:
+    black: '#899ba6'
+    blue: '#83afe5'
+    cyan: '#f2c38f'
+    green: '#7fc1ca'
+    magenta: '#9a93e1'
+    red: '#83afe5'
+    white: '#556873'
+    yellow: '#a8ce93'

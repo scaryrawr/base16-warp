@@ -1,0 +1,25 @@
+name: lime # by limelier
+accent: '#2b926f'
+cursor: '#2b926f'
+background: '#1a1a2f'
+foreground: '#818175'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1a1a2f'
+    blue: '#2b926f'
+    cyan: '#4cad83'
+    green: '#8cd97c'
+    magenta: '#1b825f'
+    red: '#ff662a'
+    white: '#818175'
+    yellow: '#ffd15e'
+  bright:
+    black: '#313140'
+    blue: '#2b926f'
+    cyan: '#4cad83'
+    green: '#8cd97c'
+    magenta: '#1b825f'
+    red: '#ff662a'
+    white: '#fff8e1'
+    yellow: '#ffd15e'

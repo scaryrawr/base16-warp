@@ -1,0 +1,25 @@
+name: Atelier Forest # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#407ee7'
+cursor: '#407ee7'
+background: '#1b1918'
+foreground: '#a8a19f'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1b1918'
+    blue: '#407ee7'
+    cyan: '#3d97b8'
+    green: '#7b9726'
+    magenta: '#6666ea'
+    red: '#f22c40'
+    white: '#a8a19f'
+    yellow: '#c38418'
+  bright:
+    black: '#766e6b'
+    blue: '#407ee7'
+    cyan: '#3d97b8'
+    green: '#7b9726'
+    magenta: '#6666ea'
+    red: '#f22c40'
+    white: '#f1efee'
+    yellow: '#c38418'

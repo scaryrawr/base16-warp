@@ -1,0 +1,25 @@
+name: Rosé Pine # by Emilia Dunfelt &lt;edun@dunfelt.se&gt;
+accent: '#c4a7e7'
+cursor: '#c4a7e7'
+background: '#191724'
+foreground: '#e0def4'
+details: darker
+terminal_colors:
+  normal:
+    black: '#191724'
+    blue: '#c4a7e7'
+    cyan: '#9ccfd8'
+    green: '#31748f'
+    magenta: '#f6c177'
+    red: '#eb6f92'
+    white: '#e0def4'
+    yellow: '#ebbcba'
+  bright:
+    black: '#6e6a86'
+    blue: '#c4a7e7'
+    cyan: '#9ccfd8'
+    green: '#31748f'
+    magenta: '#f6c177'
+    red: '#eb6f92'
+    white: '#524f67'
+    yellow: '#ebbcba'

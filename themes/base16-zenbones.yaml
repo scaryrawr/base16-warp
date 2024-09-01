@@ -1,0 +1,25 @@
+name: Zenbones # by mcchrish
+accent: '#cf86c1'
+cursor: '#cf86c1'
+background: '#191919'
+foreground: '#b279a7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#191919'
+    blue: '#cf86c1'
+    cyan: '#61abda'
+    green: '#d68c67'
+    magenta: '#65b8c1'
+    red: '#3d3839'
+    white: '#b279a7'
+    yellow: '#8bae68'
+  bright:
+    black: '#b77e64'
+    blue: '#cf86c1'
+    cyan: '#61abda'
+    green: '#d68c67'
+    magenta: '#65b8c1'
+    red: '#3d3839'
+    white: '#bbbbbb'
+    yellow: '#8bae68'

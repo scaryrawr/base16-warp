@@ -1,0 +1,25 @@
+name: Summerfruit Dark # by Christopher Corley (http://christop.club/)
+accent: '#3777e6'
+cursor: '#3777e6'
+background: '#151515'
+foreground: '#d0d0d0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#151515'
+    blue: '#3777e6'
+    cyan: '#1faaaa'
+    green: '#00c918'
+    magenta: '#ad00a1'
+    red: '#ff0086'
+    white: '#d0d0d0'
+    yellow: '#aba800'
+  bright:
+    black: '#505050'
+    blue: '#3777e6'
+    cyan: '#1faaaa'
+    green: '#00c918'
+    magenta: '#ad00a1'
+    red: '#ff0086'
+    white: '#ffffff'
+    yellow: '#aba800'

@@ -1,0 +1,25 @@
+name: Qualia # by isaacwhanson
+accent: '#50cacd'
+cursor: '#50cacd'
+background: '#101010'
+foreground: '#c0c0c0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#101010'
+    blue: '#50cacd'
+    cyan: '#c8c874'
+    green: '#80c990'
+    magenta: '#e0af85'
+    red: '#efa6a2'
+    white: '#c0c0c0'
+    yellow: '#e6a3dc'
+  bright:
+    black: '#454545'
+    blue: '#50cacd'
+    cyan: '#c8c874'
+    green: '#80c990'
+    magenta: '#e0af85'
+    red: '#efa6a2'
+    white: '#454545'
+    yellow: '#e6a3dc'

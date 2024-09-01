@@ -1,0 +1,25 @@
+name: Horizon Light # by Michaël Ball (http://github.com/michael-ball/)
+accent: '#da103f'
+cursor: '#da103f'
+background: '#fdf0ed'
+foreground: '#403c3d'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fdf0ed'
+    blue: '#da103f'
+    cyan: '#dc3318'
+    green: '#94e1b0'
+    magenta: '#1d8991'
+    red: '#f7939b'
+    white: '#403c3d'
+    yellow: '#fbe0d9'
+  bright:
+    black: '#bdb3b1'
+    blue: '#da103f'
+    cyan: '#dc3318'
+    green: '#94e1b0'
+    magenta: '#1d8991'
+    red: '#f7939b'
+    white: '#201c1d'
+    yellow: '#fbe0d9'

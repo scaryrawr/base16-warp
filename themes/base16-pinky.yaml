@@ -1,0 +1,25 @@
+name: pinky # by Benjamin (https://github.com/b3nj5m1n)
+accent: '#00ffff'
+cursor: '#00ffff'
+background: '#171517'
+foreground: '#f5f5f5'
+details: darker
+terminal_colors:
+  normal:
+    black: '#171517'
+    blue: '#00ffff'
+    cyan: '#6600ff'
+    green: '#ff0066'
+    magenta: '#007fff'
+    red: '#ffa600'
+    white: '#f5f5f5'
+    yellow: '#20df6c'
+  bright:
+    black: '#383338'
+    blue: '#00ffff'
+    cyan: '#6600ff'
+    green: '#ff0066'
+    magenta: '#007fff'
+    red: '#ffa600'
+    white: '#f7f3f7'
+    yellow: '#20df6c'

@@ -1,0 +1,25 @@
+name: Tokyo Night Terminal Light # by Michaël Ball
+accent: '#34548a'
+cursor: '#34548a'
+background: '#d5d6db'
+foreground: '#4c505e'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#d5d6db'
+    blue: '#34548a'
+    cyan: '#0f4b6e'
+    green: '#33635c'
+    magenta: '#5a4a78'
+    red: '#8c4351'
+    white: '#4c505e'
+    yellow: '#8f5e15'
+  bright:
+    black: '#9699a3'
+    blue: '#34548a'
+    cyan: '#0f4b6e'
+    green: '#33635c'
+    magenta: '#5a4a78'
+    red: '#8c4351'
+    white: '#1a1b26'
+    yellow: '#8f5e15'

@@ -1,0 +1,25 @@
+name: Synth Midnight Terminal Dark # by Michaël Ball (http://github.com/michael-ball/)
+accent: '#03aeff'
+cursor: '#03aeff'
+background: '#050608'
+foreground: '#c1c3c4'
+details: darker
+terminal_colors:
+  normal:
+    black: '#050608'
+    blue: '#03aeff'
+    cyan: '#42fff9'
+    green: '#06ea61'
+    magenta: '#ea5ce2'
+    red: '#b53b50'
+    white: '#c1c3c4'
+    yellow: '#c9d364'
+  bright:
+    black: '#474849'
+    blue: '#03aeff'
+    cyan: '#42fff9'
+    green: '#06ea61'
+    magenta: '#ea5ce2'
+    red: '#b53b50'
+    white: '#dddfe0'
+    yellow: '#c9d364'

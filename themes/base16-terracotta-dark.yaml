@@ -1,0 +1,25 @@
+name: Terracotta Dark # by Alexander Rossell Hayes (https://github.com/rossellhayes)
+accent: '#b0a4c3'
+cursor: '#b0a4c3'
+background: '#241d1a'
+foreground: '#b8a59d'
+details: darker
+terminal_colors:
+  normal:
+    black: '#241d1a'
+    blue: '#b0a4c3'
+    cyan: '#c0bcdb'
+    green: '#b6c68a'
+    magenta: '#d8a2b0'
+    red: '#f6998f'
+    white: '#b8a59d'
+    yellow: '#ffc37a'
+  bright:
+    black: '#594740'
+    blue: '#b0a4c3'
+    cyan: '#c0bcdb'
+    green: '#b6c68a'
+    magenta: '#d8a2b0'
+    red: '#f6998f'
+    white: '#dcd2ce'
+    yellow: '#ffc37a'

@@ -1,0 +1,25 @@
+name: Vesper # by FormalSnake (https://github.com/formalsnake)
+accent: '#8eaaaa'
+cursor: '#8eaaaa'
+background: '#101010'
+foreground: '#b7b7b7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#101010'
+    blue: '#8eaaaa'
+    cyan: '#60a592'
+    green: '#5f8787'
+    magenta: '#d69094'
+    red: '#de6e6e'
+    white: '#b7b7b7'
+    yellow: '#ffc799'
+  bright:
+    black: '#333333'
+    blue: '#8eaaaa'
+    cyan: '#60a592'
+    green: '#5f8787'
+    magenta: '#d69094'
+    red: '#de6e6e'
+    white: '#d5d5d5'
+    yellow: '#ffc799'

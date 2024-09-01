@@ -1,0 +1,25 @@
+name: Espresso # by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+accent: '#6c99bb'
+cursor: '#6c99bb'
+background: '#2d2d2d'
+foreground: '#cccccc'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2d2d2d'
+    blue: '#6c99bb'
+    cyan: '#bed6ff'
+    green: '#a5c261'
+    magenta: '#d197d9'
+    red: '#d25252'
+    white: '#cccccc'
+    yellow: '#ffc66d'
+  bright:
+    black: '#777777'
+    blue: '#6c99bb'
+    cyan: '#bed6ff'
+    green: '#a5c261'
+    magenta: '#d197d9'
+    red: '#d25252'
+    white: '#ffffff'
+    yellow: '#ffc66d'

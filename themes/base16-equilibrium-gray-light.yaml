@@ -1,0 +1,25 @@
+name: Equilibrium Gray Light # by Carlo Abelli
+accent: '#0073b5'
+cursor: '#0073b5'
+background: '#f1f1f1'
+foreground: '#474747'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f1f1f1'
+    blue: '#0073b5'
+    cyan: '#007a72'
+    green: '#637200'
+    magenta: '#4e66b6'
+    red: '#d02023'
+    white: '#474747'
+    yellow: '#9d6f00'
+  bright:
+    black: '#777777'
+    blue: '#0073b5'
+    cyan: '#007a72'
+    green: '#637200'
+    magenta: '#4e66b6'
+    red: '#d02023'
+    white: '#1b1b1b'
+    yellow: '#9d6f00'

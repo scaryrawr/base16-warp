@@ -1,0 +1,25 @@
+name: Windows 95 Light # by Fergus Collins (https://github.com/C-Fergus)
+accent: '#0000a8'
+cursor: '#0000a8'
+background: '#fcfcfc'
+foreground: '#545454'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fcfcfc'
+    blue: '#0000a8'
+    cyan: '#00a8a8'
+    green: '#00a800'
+    magenta: '#a800a8'
+    red: '#a80000'
+    white: '#545454'
+    yellow: '#a85400'
+  bright:
+    black: '#a8a8a8'
+    blue: '#0000a8'
+    cyan: '#00a8a8'
+    green: '#00a800'
+    magenta: '#a800a8'
+    red: '#a80000'
+    white: '#000000'
+    yellow: '#a85400'

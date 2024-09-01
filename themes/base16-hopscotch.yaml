@@ -1,0 +1,25 @@
+name: Hopscotch # by Jan T. Sott
+accent: '#1290bf'
+cursor: '#1290bf'
+background: '#322931'
+foreground: '#b9b5b8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#322931'
+    blue: '#1290bf'
+    cyan: '#149b93'
+    green: '#8fc13e'
+    magenta: '#c85e7c'
+    red: '#dd464c'
+    white: '#b9b5b8'
+    yellow: '#fdcc59'
+  bright:
+    black: '#797379'
+    blue: '#1290bf'
+    cyan: '#149b93'
+    green: '#8fc13e'
+    magenta: '#c85e7c'
+    red: '#dd464c'
+    white: '#ffffff'
+    yellow: '#fdcc59'

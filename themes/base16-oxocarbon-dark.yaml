@@ -1,0 +1,25 @@
+name: Oxocarbon Dark # by shaunsingh/IBM
+accent: '#42be65'
+cursor: '#42be65'
+background: '#161616'
+foreground: '#f2f4f8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#161616'
+    blue: '#42be65'
+    cyan: '#ff7eb6'
+    green: '#33b1ff'
+    magenta: '#be95ff'
+    red: '#3ddbd9'
+    white: '#f2f4f8'
+    yellow: '#ee5396'
+  bright:
+    black: '#525252'
+    blue: '#42be65'
+    cyan: '#ff7eb6'
+    green: '#33b1ff'
+    magenta: '#be95ff'
+    red: '#3ddbd9'
+    white: '#08bdba'
+    yellow: '#ee5396'

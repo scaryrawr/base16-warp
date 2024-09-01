@@ -1,0 +1,25 @@
+name: Ayu Dark # by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+accent: '#59c2ff'
+cursor: '#59c2ff'
+background: '#0f1419'
+foreground: '#e6e1cf'
+details: darker
+terminal_colors:
+  normal:
+    black: '#0f1419'
+    blue: '#59c2ff'
+    cyan: '#95e6cb'
+    green: '#b8cc52'
+    magenta: '#d2a6ff'
+    red: '#f07178'
+    white: '#e6e1cf'
+    yellow: '#ffb454'
+  bright:
+    black: '#3e4b59'
+    blue: '#59c2ff'
+    cyan: '#95e6cb'
+    green: '#b8cc52'
+    magenta: '#d2a6ff'
+    red: '#f07178'
+    white: '#f3f4f5'
+    yellow: '#ffb454'

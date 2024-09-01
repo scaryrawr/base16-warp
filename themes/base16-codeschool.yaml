@@ -1,0 +1,25 @@
+name: Codeschool # by blockloop
+accent: '#484d79'
+cursor: '#484d79'
+background: '#232c31'
+foreground: '#9ea7a6'
+details: darker
+terminal_colors:
+  normal:
+    black: '#232c31'
+    blue: '#484d79'
+    cyan: '#b02f30'
+    green: '#237986'
+    magenta: '#c59820'
+    red: '#2a5491'
+    white: '#9ea7a6'
+    yellow: '#a03b1e'
+  bright:
+    black: '#3f4944'
+    blue: '#484d79'
+    cyan: '#b02f30'
+    green: '#237986'
+    magenta: '#c59820'
+    red: '#2a5491'
+    white: '#b5d8f6'
+    yellow: '#a03b1e'

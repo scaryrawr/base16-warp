@@ -1,0 +1,25 @@
+name: ShadeSmear Dark # by Kyle Giammarco (http://kyle.giammar.co)
+accent: '#376388'
+cursor: '#376388'
+background: '#232323'
+foreground: '#dbdbdb'
+details: darker
+terminal_colors:
+  normal:
+    black: '#232323'
+    blue: '#376388'
+    cyan: '#c57d42'
+    green: '#71983b'
+    magenta: '#d7ab54'
+    red: '#cc5450'
+    white: '#dbdbdb'
+    yellow: '#307878'
+  bright:
+    black: '#c0c0c0'
+    blue: '#376388'
+    cyan: '#c57d42'
+    green: '#71983b'
+    magenta: '#d7ab54'
+    red: '#cc5450'
+    white: '#1c1c1c'
+    yellow: '#307878'

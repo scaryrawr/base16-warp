@@ -1,0 +1,25 @@
+name: Brewer # by Timothée Poisot (http://github.com/tpoisot)
+accent: '#3182bd'
+cursor: '#3182bd'
+background: '#0c0d0e'
+foreground: '#b7b8b9'
+details: darker
+terminal_colors:
+  normal:
+    black: '#0c0d0e'
+    blue: '#3182bd'
+    cyan: '#80b1d3'
+    green: '#31a354'
+    magenta: '#756bb1'
+    red: '#e31a1c'
+    white: '#b7b8b9'
+    yellow: '#dca060'
+  bright:
+    black: '#737475'
+    blue: '#3182bd'
+    cyan: '#80b1d3'
+    green: '#31a354'
+    magenta: '#756bb1'
+    red: '#e31a1c'
+    white: '#fcfdfe'
+    yellow: '#dca060'

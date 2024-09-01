@@ -1,0 +1,25 @@
+name: eris # by ed (https://codeberg.org/ed)
+accent: '#258fc4'
+cursor: '#258fc4'
+background: '#0a0920'
+foreground: '#606bac'
+details: darker
+terminal_colors:
+  normal:
+    black: '#0a0920'
+    blue: '#258fc4'
+    cyan: '#258fc4'
+    green: '#faaea2'
+    magenta: '#f768a3'
+    red: '#f768a3'
+    white: '#606bac'
+    yellow: '#faaea2'
+  bright:
+    black: '#333773'
+    blue: '#258fc4'
+    cyan: '#258fc4'
+    green: '#faaea2'
+    magenta: '#f768a3'
+    red: '#f768a3'
+    white: '#9aaae5'
+    yellow: '#faaea2'

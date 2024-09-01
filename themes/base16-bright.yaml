@@ -1,0 +1,25 @@
+name: Bright # by Chris Kempson (http://chriskempson.com)
+accent: '#6fb3d2'
+cursor: '#6fb3d2'
+background: '#000000'
+foreground: '#e0e0e0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#000000'
+    blue: '#6fb3d2'
+    cyan: '#76c7b7'
+    green: '#a1c659'
+    magenta: '#d381c3'
+    red: '#fb0120'
+    white: '#e0e0e0'
+    yellow: '#fda331'
+  bright:
+    black: '#b0b0b0'
+    blue: '#6fb3d2'
+    cyan: '#76c7b7'
+    green: '#a1c659'
+    magenta: '#d381c3'
+    red: '#fb0120'
+    white: '#ffffff'
+    yellow: '#fda331'

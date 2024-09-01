@@ -1,0 +1,25 @@
+name: Moonlight # by Jeremy Swinarton (https://github.com/jswinarton)
+accent: '#40ffff'
+cursor: '#40ffff'
+background: '#212337'
+foreground: '#a3ace1'
+details: darker
+terminal_colors:
+  normal:
+    black: '#212337'
+    blue: '#40ffff'
+    cyan: '#04d1f9'
+    green: '#2df4c0'
+    magenta: '#b994f1'
+    red: '#ff5370'
+    white: '#a3ace1'
+    yellow: '#ffc777'
+  bright:
+    black: '#748cd6'
+    blue: '#40ffff'
+    cyan: '#04d1f9'
+    green: '#2df4c0'
+    magenta: '#b994f1'
+    red: '#ff5370'
+    white: '#ef43fa'
+    yellow: '#ffc777'

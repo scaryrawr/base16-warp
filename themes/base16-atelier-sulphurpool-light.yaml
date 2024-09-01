@@ -1,0 +1,25 @@
+name: Atelier Sulphurpool Light # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#3d8fd1'
+cursor: '#3d8fd1'
+background: '#f5f7ff'
+foreground: '#5e6687'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f5f7ff'
+    blue: '#3d8fd1'
+    cyan: '#22a2c9'
+    green: '#ac9739'
+    magenta: '#6679cc'
+    red: '#c94922'
+    white: '#5e6687'
+    yellow: '#c08b30'
+  bright:
+    black: '#898ea4'
+    blue: '#3d8fd1'
+    cyan: '#22a2c9'
+    green: '#ac9739'
+    magenta: '#6679cc'
+    red: '#c94922'
+    white: '#202746'
+    yellow: '#c08b30'

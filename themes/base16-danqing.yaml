@@ -1,0 +1,25 @@
+name: DanQing # by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+accent: '#b0a4e3'
+cursor: '#b0a4e3'
+background: '#2d302f'
+foreground: '#e0f0ef'
+details: darker
+terminal_colors:
+  normal:
+    black: '#2d302f'
+    blue: '#b0a4e3'
+    cyan: '#30dff3'
+    green: '#8ab361'
+    magenta: '#cca4e3'
+    red: '#f9906f'
+    white: '#e0f0ef'
+    yellow: '#f0c239'
+  bright:
+    black: '#9da8a3'
+    blue: '#b0a4e3'
+    cyan: '#30dff3'
+    green: '#8ab361'
+    magenta: '#cca4e3'
+    red: '#f9906f'
+    white: '#fcfefd'
+    yellow: '#f0c239'

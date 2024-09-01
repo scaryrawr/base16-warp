@@ -1,0 +1,25 @@
+name: Pop # by Chris Kempson (http://chriskempson.com)
+accent: '#0e5a94'
+cursor: '#0e5a94'
+background: '#000000'
+foreground: '#d0d0d0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#000000'
+    blue: '#0e5a94'
+    cyan: '#00aabb'
+    green: '#37b349'
+    magenta: '#b31e8d'
+    red: '#eb008a'
+    white: '#d0d0d0'
+    yellow: '#f8ca12'
+  bright:
+    black: '#505050'
+    blue: '#0e5a94'
+    cyan: '#00aabb'
+    green: '#37b349'
+    magenta: '#b31e8d'
+    red: '#eb008a'
+    white: '#ffffff'
+    yellow: '#f8ca12'

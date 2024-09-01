@@ -1,0 +1,25 @@
+name: iA Dark # by iA Inc. (modified by aramisgithub)
+accent: '#8eccdd'
+cursor: '#8eccdd'
+background: '#1a1a1a'
+foreground: '#cccccc'
+details: darker
+terminal_colors:
+  normal:
+    black: '#1a1a1a'
+    blue: '#8eccdd'
+    cyan: '#7c9cae'
+    green: '#83a471'
+    magenta: '#b98eb2'
+    red: '#d88568'
+    white: '#cccccc'
+    yellow: '#b99353'
+  bright:
+    black: '#767676'
+    blue: '#8eccdd'
+    cyan: '#7c9cae'
+    green: '#83a471'
+    magenta: '#b98eb2'
+    red: '#d88568'
+    white: '#f8f8f8'
+    yellow: '#b99353'

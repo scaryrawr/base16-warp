@@ -1,0 +1,25 @@
+name: Solar Flare Light # by Chuck Harmston (https://chuck.harmston.ch)
+accent: '#33b5e1'
+cursor: '#33b5e1'
+background: '#f5f7fa'
+foreground: '#586875'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f5f7fa'
+    blue: '#33b5e1'
+    cyan: '#52cbb0'
+    green: '#7cc844'
+    magenta: '#a363d5'
+    red: '#ef5253'
+    white: '#586875'
+    yellow: '#e4b51c'
+  bright:
+    black: '#85939e'
+    blue: '#33b5e1'
+    cyan: '#52cbb0'
+    green: '#7cc844'
+    magenta: '#a363d5'
+    red: '#ef5253'
+    white: '#18262f'
+    yellow: '#e4b51c'

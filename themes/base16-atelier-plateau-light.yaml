@@ -1,0 +1,25 @@
+name: Atelier Plateau Light # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#7272ca'
+cursor: '#7272ca'
+background: '#f4ecec'
+foreground: '#585050'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f4ecec'
+    blue: '#7272ca'
+    cyan: '#5485b6'
+    green: '#4b8b8b'
+    magenta: '#8464c4'
+    red: '#ca4949'
+    white: '#585050'
+    yellow: '#a06e3b'
+  bright:
+    black: '#7e7777'
+    blue: '#7272ca'
+    cyan: '#5485b6'
+    green: '#4b8b8b'
+    magenta: '#8464c4'
+    red: '#ca4949'
+    white: '#1b1818'
+    yellow: '#a06e3b'

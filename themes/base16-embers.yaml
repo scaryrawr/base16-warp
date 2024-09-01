@@ -1,0 +1,25 @@
+name: Embers # by Jannik Siebert (https://github.com/janniks)
+accent: '#6d5782'
+cursor: '#6d5782'
+background: '#16130f'
+foreground: '#a39a90'
+details: darker
+terminal_colors:
+  normal:
+    black: '#16130f'
+    blue: '#6d5782'
+    cyan: '#576d82'
+    green: '#57826d'
+    magenta: '#82576d'
+    red: '#826d57'
+    white: '#a39a90'
+    yellow: '#6d8257'
+  bright:
+    black: '#5a5047'
+    blue: '#6d5782'
+    cyan: '#576d82'
+    green: '#57826d'
+    magenta: '#82576d'
+    red: '#826d57'
+    white: '#dbd6d1'
+    yellow: '#6d8257'

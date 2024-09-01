@@ -1,0 +1,25 @@
+name: Tokyodark Terminal # by Tiagovla (https://github.com/tiagovla/)
+accent: '#7199ee'
+cursor: '#7199ee'
+background: '#11121d'
+foreground: '#a0a8cd'
+details: darker
+terminal_colors:
+  normal:
+    black: '#11121d'
+    blue: '#7199ee'
+    cyan: '#38a89d'
+    green: '#95c561'
+    magenta: '#a485dd'
+    red: '#ee6d85'
+    white: '#a0a8cd'
+    yellow: '#d7a65f'
+  bright:
+    black: '#282c34'
+    blue: '#7199ee'
+    cyan: '#38a89d'
+    green: '#95c561'
+    magenta: '#a485dd'
+    red: '#ee6d85'
+    white: '#a0a8cd'
+    yellow: '#d7a65f'

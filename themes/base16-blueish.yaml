@@ -1,0 +1,25 @@
+name: Blueish # by Ben Mayoras
+accent: '#82aaff'
+cursor: '#82aaff'
+background: '#182430'
+foreground: '#c8e1f8'
+details: darker
+terminal_colors:
+  normal:
+    black: '#182430'
+    blue: '#82aaff'
+    cyan: '#5fd1ff'
+    green: '#c3e88d'
+    magenta: '#ff84dd'
+    red: '#4ce587'
+    white: '#c8e1f8'
+    yellow: '#82aaff'
+  bright:
+    black: '#616d78'
+    blue: '#82aaff'
+    cyan: '#5fd1ff'
+    green: '#c3e88d'
+    magenta: '#ff84dd'
+    red: '#4ce587'
+    white: '#8f98a0'
+    yellow: '#82aaff'

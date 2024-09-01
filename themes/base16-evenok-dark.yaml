@@ -1,0 +1,25 @@
+name: Evenok Dark # by Mekeor Melire
+accent: '#00aff2'
+cursor: '#00aff2'
+background: '#000000'
+foreground: '#d0d0d0'
+details: darker
+terminal_colors:
+  normal:
+    black: '#000000'
+    blue: '#00aff2'
+    cyan: '#00bab3'
+    green: '#54bc5c'
+    magenta: '#9095ff'
+    red: '#f5708a'
+    white: '#d0d0d0'
+    yellow: '#b8a300'
+  bright:
+    black: '#505050'
+    blue: '#00aff2'
+    cyan: '#00bab3'
+    green: '#54bc5c'
+    magenta: '#9095ff'
+    red: '#f5708a'
+    white: '#ffffff'
+    yellow: '#b8a300'

@@ -1,0 +1,25 @@
+name: Circus # by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+accent: '#639ee4'
+cursor: '#639ee4'
+background: '#191919'
+foreground: '#a7a7a7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#191919'
+    blue: '#639ee4'
+    cyan: '#4bb1a7'
+    green: '#84b97c'
+    magenta: '#b888e2'
+    red: '#dc657d'
+    white: '#a7a7a7'
+    yellow: '#c3ba63'
+  bright:
+    black: '#5f5a60'
+    blue: '#639ee4'
+    cyan: '#4bb1a7'
+    green: '#84b97c'
+    magenta: '#b888e2'
+    red: '#dc657d'
+    white: '#ffffff'
+    yellow: '#c3ba63'

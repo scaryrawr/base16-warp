@@ -1,0 +1,25 @@
+name: Primer Light # by Jimmy Lin
+accent: '#0366d6'
+cursor: '#0366d6'
+background: '#fafbfc'
+foreground: '#2f363d'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#fafbfc'
+    blue: '#0366d6'
+    cyan: '#79b8ff'
+    green: '#28a745'
+    magenta: '#ea4aaa'
+    red: '#d73a49'
+    white: '#2f363d'
+    yellow: '#ffd33d'
+  bright:
+    black: '#959da5'
+    blue: '#0366d6'
+    cyan: '#79b8ff'
+    green: '#28a745'
+    magenta: '#ea4aaa'
+    red: '#d73a49'
+    white: '#1b1f23'
+    yellow: '#ffd33d'

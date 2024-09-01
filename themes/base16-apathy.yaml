@@ -1,0 +1,25 @@
+name: Apathy # by Jannik Siebert (https://github.com/janniks)
+accent: '#96883e'
+cursor: '#96883e'
+background: '#031a16'
+foreground: '#81b5ac'
+details: darker
+terminal_colors:
+  normal:
+    black: '#031a16'
+    blue: '#96883e'
+    cyan: '#963e4c'
+    green: '#883e96'
+    magenta: '#4c963e'
+    red: '#3e9688'
+    white: '#81b5ac'
+    yellow: '#3e4c96'
+  bright:
+    black: '#2b685e'
+    blue: '#96883e'
+    cyan: '#963e4c'
+    green: '#883e96'
+    magenta: '#4c963e'
+    red: '#3e9688'
+    white: '#d2e7e4'
+    yellow: '#3e4c96'

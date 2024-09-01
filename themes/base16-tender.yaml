@@ -1,0 +1,25 @@
+name: tender # by Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+accent: '#b3deef'
+cursor: '#b3deef'
+background: '#282828'
+foreground: '#eeeeee'
+details: darker
+terminal_colors:
+  normal:
+    black: '#282828'
+    blue: '#b3deef'
+    cyan: '#73cef4'
+    green: '#c9d05c'
+    magenta: '#d3b987'
+    red: '#f43753'
+    white: '#eeeeee'
+    yellow: '#ffc24b'
+  bright:
+    black: '#4c4c4c'
+    blue: '#b3deef'
+    cyan: '#73cef4'
+    green: '#c9d05c'
+    magenta: '#d3b987'
+    red: '#f43753'
+    white: '#feffff'
+    yellow: '#ffc24b'

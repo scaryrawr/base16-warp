@@ -1,0 +1,25 @@
+name: Fruit Soda # by jozip
+accent: '#2931df'
+cursor: '#2931df'
+background: '#f1ecf1'
+foreground: '#515151'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f1ecf1'
+    blue: '#2931df'
+    cyan: '#0f9cfd'
+    green: '#47f74c'
+    magenta: '#611fce'
+    red: '#fe3e31'
+    white: '#515151'
+    yellow: '#f7e203'
+  bright:
+    black: '#b5b4b6'
+    blue: '#2931df'
+    cyan: '#0f9cfd'
+    green: '#47f74c'
+    magenta: '#611fce'
+    red: '#fe3e31'
+    white: '#2d2c2c'
+    yellow: '#f7e203'

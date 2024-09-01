@@ -1,0 +1,25 @@
+name: Kimber # by Mishka Nguyen (https://github.com/akhsiM)
+accent: '#537c9c'
+cursor: '#537c9c'
+background: '#222222'
+foreground: '#dedee7'
+details: darker
+terminal_colors:
+  normal:
+    black: '#222222'
+    blue: '#537c9c'
+    cyan: '#78b4b4'
+    green: '#99c899'
+    magenta: '#86cacd'
+    red: '#c88c8c'
+    white: '#dedee7'
+    yellow: '#d8b56d'
+  bright:
+    black: '#644646'
+    blue: '#537c9c'
+    cyan: '#78b4b4'
+    green: '#99c899'
+    magenta: '#86cacd'
+    red: '#c88c8c'
+    white: '#ffffe6'
+    yellow: '#d8b56d'

@@ -1,0 +1,25 @@
+name: Atelier Savanna Light # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#478c90'
+cursor: '#478c90'
+background: '#ecf4ee'
+foreground: '#526057'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#ecf4ee'
+    blue: '#478c90'
+    cyan: '#1c9aa0'
+    green: '#489963'
+    magenta: '#55859b'
+    red: '#b16139'
+    white: '#526057'
+    yellow: '#a07e3b'
+  bright:
+    black: '#78877d'
+    blue: '#478c90'
+    cyan: '#1c9aa0'
+    green: '#489963'
+    magenta: '#55859b'
+    red: '#b16139'
+    white: '#171c19'
+    yellow: '#a07e3b'

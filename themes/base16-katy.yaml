@@ -1,0 +1,25 @@
+name: Katy # by George Essig (https://github.com/gessig)
+accent: '#82aaff'
+cursor: '#82aaff'
+background: '#292d3e'
+foreground: '#959dcb'
+details: darker
+terminal_colors:
+  normal:
+    black: '#292d3e'
+    blue: '#82aaff'
+    cyan: '#83b7e5'
+    green: '#78c06e'
+    magenta: '#c792ea'
+    red: '#6e98e1'
+    white: '#959dcb'
+    yellow: '#e0a557'
+  bright:
+    black: '#676e95'
+    blue: '#82aaff'
+    cyan: '#83b7e5'
+    green: '#78c06e'
+    magenta: '#c792ea'
+    red: '#6e98e1'
+    white: '#ffffff'
+    yellow: '#e0a557'

@@ -1,0 +1,25 @@
+name: Atelier Seaside Light # by Bram de Haan (http://atelierbramdehaan.nl)
+accent: '#3d62f5'
+cursor: '#3d62f5'
+background: '#f4fbf4'
+foreground: '#5e6e5e'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#f4fbf4'
+    blue: '#3d62f5'
+    cyan: '#1999b3'
+    green: '#29a329'
+    magenta: '#ad2bee'
+    red: '#e6193c'
+    white: '#5e6e5e'
+    yellow: '#98981b'
+  bright:
+    black: '#809980'
+    blue: '#3d62f5'
+    cyan: '#1999b3'
+    green: '#29a329'
+    magenta: '#ad2bee'
+    red: '#e6193c'
+    white: '#131513'
+    yellow: '#98981b'

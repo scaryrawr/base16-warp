@@ -1,0 +1,25 @@
+name: Da One Ocean # by NNB (https://github.com/NNBnh)
+accent: '#6bb8ff'
+cursor: '#6bb8ff'
+background: '#171726'
+foreground: '#ffffff'
+details: darker
+terminal_colors:
+  normal:
+    black: '#171726'
+    blue: '#6bb8ff'
+    cyan: '#8af5ff'
+    green: '#98c379'
+    magenta: '#e799ff'
+    red: '#fa7883'
+    white: '#ffffff'
+    yellow: '#ff9470'
+  bright:
+    black: '#878d96'
+    blue: '#6bb8ff'
+    cyan: '#8af5ff'
+    green: '#98c379'
+    magenta: '#e799ff'
+    red: '#fa7883'
+    white: '#ffffff'
+    yellow: '#ff9470'
