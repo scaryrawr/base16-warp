@@ -5,6 +5,15 @@ background: '#101010'
 foreground: '#b7b7b7'
 details: darker
 terminal_colors:
+  bright:
+    black: '#333333'
+    blue: '#999999'
+    cyan: '#876c4f'
+    green: '#232323'
+    magenta: '#c1c1c1'
+    red: '#dab083'
+    white: '#d5d5d5'
+    yellow: '#222222'
   normal:
     black: '#101010'
     blue: '#8eaaaa'
@@ -13,13 +22,4 @@ terminal_colors:
     magenta: '#d69094'
     red: '#de6e6e'
     white: '#b7b7b7'
-    yellow: '#ffc799'
-  bright:
-    black: '#333333'
-    blue: '#8eaaaa'
-    cyan: '#60a592'
-    green: '#5f8787'
-    magenta: '#d69094'
-    red: '#de6e6e'
-    white: '#d5d5d5'
     yellow: '#ffc799'

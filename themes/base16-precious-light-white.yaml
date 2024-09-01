@@ -5,17 +5,17 @@ background: '#ffffff'
 foreground: '#555555'
 details: lighter
 terminal_colors:
-  normal:
-    black: '#ffffff'
-    blue: '#186daa'
-    cyan: '#087767'
-    green: '#557301'
-    magenta: '#7b4ecb'
-    red: '#af4947'
-    white: '#555555'
-    yellow: '#876500'
   bright:
     black: '#848484'
+    blue: '#636363'
+    cyan: '#a93e93'
+    green: '#ededed'
+    magenta: '#555555'
+    red: '#a0570d'
+    white: '#555555'
+    yellow: '#dbdbdb'
+  normal:
+    black: '#ffffff'
     blue: '#186daa'
     cyan: '#087767'
     green: '#557301'

@@ -5,17 +5,17 @@ background: '#11121d'
 foreground: '#a0a8cd'
 details: darker
 terminal_colors:
-  normal:
-    black: '#11121d'
-    blue: '#7199ee'
-    cyan: '#38a89d'
-    green: '#95c561'
-    magenta: '#a485dd'
-    red: '#ee6d85'
-    white: '#a0a8cd'
-    yellow: '#d7a65f'
   bright:
     black: '#282c34'
+    blue: '#4a5057'
+    cyan: '#773440'
+    green: '#1a1b2a'
+    magenta: '#a0a8cd'
+    red: '#f6955b'
+    white: '#a0a8cd'
+    yellow: '#212234'
+  normal:
+    black: '#11121d'
     blue: '#7199ee'
     cyan: '#38a89d'
     green: '#95c561'
