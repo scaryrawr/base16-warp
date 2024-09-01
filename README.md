@@ -1,4 +1,4 @@
-# Base16 Warp
+# base16 warp
 
 These are [base16](https://github.com/chriskempson/base16) colorschemes for [warp](https://www.warp.dev/).
 
@@ -15,3 +15,5 @@ git clone https://github.com/scaryrawr/base16-warp $HOME/.warp
 The main goal is just to have the `themes` directory at `$HOME/.warp/themes`.
 
 Then quit warp and restart it.
+
+You can learn more about warp custom themes in their [documentation](https://docs.warp.dev/appearance/custom-themes).
