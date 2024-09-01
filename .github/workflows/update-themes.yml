@@ -19,17 +19,13 @@ jobs:
 
       - name: Base16 Builder Go
         uses: tinted-theming/base16-builder-go@latest
-      
-      - name: Build Combined Themes
-        run: |
-          ./combine-templates.sh > allthemes.json
 
       - name: commit & push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git diff --quiet || (
-            git add windows-terminal allthemes.json
+            git add themes
             git commit -m "fix: update themes"
             git push
           )
