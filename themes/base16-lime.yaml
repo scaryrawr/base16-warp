@@ -1,25 +1,26 @@
-name: lime # by limelier
-accent: '#2b926f'
-cursor: '#2b926f'
-background: '#1a1a2f'
-foreground: '#818175'
+name: "lime" 
+author: "limelier"
+accent: "#2b926f"
+cursor: "#2b926f"
+background: "#1a1a2f"
+foreground: "#818175"
 details: darker
 terminal_colors:
   bright:
-    black: '#313140'
-    blue: '#515155'
-    cyan: '#b4d97c'
-    green: '#202030'
-    magenta: '#fff2d1'
-    red: '#ff773a'
-    white: '#fff8e1'
-    yellow: '#2a2a3f'
+    black: "#313140"
+    blue: "#515155"
+    cyan: "#b4d97c"
+    green: "#202030"
+    magenta: "#fff2d1"
+    red: "#ff773a"
+    white: "#fff8e1"
+    yellow: "#2a2a3f"
   normal:
-    black: '#1a1a2f'
-    blue: '#2b926f'
-    cyan: '#4cad83'
-    green: '#8cd97c'
-    magenta: '#1b825f'
-    red: '#ff662a'
-    white: '#818175'
-    yellow: '#ffd15e'
+    black: "#1a1a2f"
+    blue: "#2b926f"
+    cyan: "#4cad83"
+    green: "#8cd97c"
+    magenta: "#1b825f"
+    red: "#ff662a"
+    white: "#818175"
+    yellow: "#ffd15e"

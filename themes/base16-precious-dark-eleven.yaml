@@ -1,25 +1,26 @@
-name: Precious Dark Eleven # by 4lex4 &lt;4lex49@zoho.com&gt;
-accent: '#68b0ee'
-cursor: '#68b0ee'
-background: '#1c1e20'
-foreground: '#b8b7b6'
+name: "Precious Dark Eleven" 
+author: "4lex4 &lt;4lex49@zoho.com&gt;"
+accent: "#68b0ee"
+cursor: "#68b0ee"
+background: "#1c1e20"
+foreground: "#b8b7b6"
 details: darker
 terminal_colors:
   bright:
-    black: '#858585'
-    blue: '#a8a8a7'
-    cyan: '#f382d8'
-    green: '#292b2d'
-    magenta: '#b8b7b6'
-    red: '#ea9755'
-    white: '#b8b7b6'
-    yellow: '#37393a'
+    black: "#858585"
+    blue: "#a8a8a7"
+    cyan: "#f382d8"
+    green: "#292b2d"
+    magenta: "#b8b7b6"
+    red: "#ea9755"
+    white: "#b8b7b6"
+    yellow: "#37393a"
   normal:
-    black: '#1c1e20'
-    blue: '#68b0ee'
-    cyan: '#42bda7'
-    green: '#95b658'
-    magenta: '#b799fe'
-    red: '#ff8782'
-    white: '#b8b7b6'
-    yellow: '#d0a543'
+    black: "#1c1e20"
+    blue: "#68b0ee"
+    cyan: "#42bda7"
+    green: "#95b658"
+    magenta: "#b799fe"
+    red: "#ff8782"
+    white: "#b8b7b6"
+    yellow: "#d0a543"

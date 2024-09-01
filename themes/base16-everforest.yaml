@@ -1,25 +1,26 @@
-name: Everforest # by Sainnhe Park (https://github.com/sainnhe)
-accent: '#7fbbb3'
-cursor: '#7fbbb3'
-background: '#2d353b'
-foreground: '#d3c6aa'
+name: "Everforest" 
+author: "Sainnhe Park (https://github.com/sainnhe)"
+accent: "#7fbbb3"
+cursor: "#7fbbb3"
+background: "#2d353b"
+foreground: "#d3c6aa"
 details: darker
 terminal_colors:
   bright:
-    black: '#859289'
-    blue: '#9da9a0'
-    cyan: '#9da9a0'
-    green: '#343f44'
-    magenta: '#e6e2cc'
-    red: '#e69875'
-    white: '#fdf6e3'
-    yellow: '#475258'
+    black: "#859289"
+    blue: "#9da9a0"
+    cyan: "#9da9a0"
+    green: "#343f44"
+    magenta: "#e6e2cc"
+    red: "#e69875"
+    white: "#fdf6e3"
+    yellow: "#475258"
   normal:
-    black: '#2d353b'
-    blue: '#7fbbb3'
-    cyan: '#83c092'
-    green: '#a7c080'
-    magenta: '#d699b6'
-    red: '#e67e80'
-    white: '#d3c6aa'
-    yellow: '#dbbc7f'
+    black: "#2d353b"
+    blue: "#7fbbb3"
+    cyan: "#83c092"
+    green: "#a7c080"
+    magenta: "#d699b6"
+    red: "#e67e80"
+    white: "#d3c6aa"
+    yellow: "#dbbc7f"

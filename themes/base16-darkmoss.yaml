@@ -1,25 +1,26 @@
-name: darkmoss # by Gabriel Avanzi (https://github.com/avanzzzi)
-accent: '#498091'
-cursor: '#498091'
-background: '#171e1f'
-foreground: '#c7c7a5'
+name: "darkmoss" 
+author: "Gabriel Avanzi (https://github.com/avanzzzi)"
+accent: "#498091"
+cursor: "#498091"
+background: "#171e1f"
+foreground: "#c7c7a5"
 details: darker
 terminal_colors:
   bright:
-    black: '#555e5f'
-    blue: '#818f80'
-    cyan: '#d27b53'
-    green: '#252c2d'
-    magenta: '#e3e3c8'
-    red: '#e6db74'
-    white: '#e1eaef'
-    yellow: '#373c3d'
+    black: "#555e5f"
+    blue: "#818f80"
+    cyan: "#d27b53"
+    green: "#252c2d"
+    magenta: "#e3e3c8"
+    red: "#e6db74"
+    white: "#e1eaef"
+    yellow: "#373c3d"
   normal:
-    black: '#171e1f'
-    blue: '#498091'
-    cyan: '#66d9ef'
-    green: '#499180'
-    magenta: '#9bc0c8'
-    red: '#ff4658'
-    white: '#c7c7a5'
-    yellow: '#fdb11f'
+    black: "#171e1f"
+    blue: "#498091"
+    cyan: "#66d9ef"
+    green: "#499180"
+    magenta: "#9bc0c8"
+    red: "#ff4658"
+    white: "#c7c7a5"
+    yellow: "#fdb11f"

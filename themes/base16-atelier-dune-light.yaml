@@ -1,25 +1,26 @@
-name: Atelier Dune Light # by Bram de Haan (http://atelierbramdehaan.nl)
-accent: '#6684e1'
-cursor: '#6684e1'
-background: '#fefbec'
-foreground: '#6e6b5e'
+name: "Atelier Dune Light" 
+author: "Bram de Haan (http://atelierbramdehaan.nl)"
+accent: "#6684e1"
+cursor: "#6684e1"
+background: "#fefbec"
+foreground: "#6e6b5e"
 details: lighter
 terminal_colors:
   bright:
-    black: '#999580'
-    blue: '#7d7a68'
-    cyan: '#d43552'
-    green: '#e8e4cf'
-    magenta: '#292824'
-    red: '#b65611'
-    white: '#20201d'
-    yellow: '#a6a28c'
+    black: "#999580"
+    blue: "#7d7a68"
+    cyan: "#d43552"
+    green: "#e8e4cf"
+    magenta: "#292824"
+    red: "#b65611"
+    white: "#20201d"
+    yellow: "#a6a28c"
   normal:
-    black: '#fefbec'
-    blue: '#6684e1'
-    cyan: '#1fad83'
-    green: '#60ac39'
-    magenta: '#b854d4'
-    red: '#d73737'
-    white: '#6e6b5e'
-    yellow: '#ae9513'
+    black: "#fefbec"
+    blue: "#6684e1"
+    cyan: "#1fad83"
+    green: "#60ac39"
+    magenta: "#b854d4"
+    red: "#d73737"
+    white: "#6e6b5e"
+    yellow: "#ae9513"

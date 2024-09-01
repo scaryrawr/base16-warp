@@ -1,25 +1,26 @@
-name: Decaf # by Alex Mirrington (https://github.com/alexmirrington)
-accent: '#90bee1'
-cursor: '#90bee1'
-background: '#2d2d2d'
-foreground: '#cccccc'
+name: "Decaf" 
+author: "Alex Mirrington (https://github.com/alexmirrington)"
+accent: "#90bee1"
+cursor: "#90bee1"
+background: "#2d2d2d"
+foreground: "#cccccc"
 details: darker
 terminal_colors:
   bright:
-    black: '#777777'
-    blue: '#b4b7b4'
-    cyan: '#ff93b3'
-    green: '#393939'
-    magenta: '#e0e0e0'
-    red: '#ffbf70'
-    white: '#ffffff'
-    yellow: '#515151'
+    black: "#777777"
+    blue: "#b4b7b4"
+    cyan: "#ff93b3"
+    green: "#393939"
+    magenta: "#e0e0e0"
+    red: "#ffbf70"
+    white: "#ffffff"
+    yellow: "#515151"
   normal:
-    black: '#2d2d2d'
-    blue: '#90bee1'
-    cyan: '#bed6ff'
-    green: '#beda78'
-    magenta: '#efb3f7'
-    red: '#ff7f7b'
-    white: '#cccccc'
-    yellow: '#ffd67c'
+    black: "#2d2d2d"
+    blue: "#90bee1"
+    cyan: "#bed6ff"
+    green: "#beda78"
+    magenta: "#efb3f7"
+    red: "#ff7f7b"
+    white: "#cccccc"
+    yellow: "#ffd67c"

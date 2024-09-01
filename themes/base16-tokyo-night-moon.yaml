@@ -1,25 +1,26 @@
-name: Tokyo Night Moon # by Ólafur Bjarki Bogason
-accent: '#82aaff'
-cursor: '#82aaff'
-background: '#222436'
-foreground: '#3b4261'
+name: "Tokyo Night Moon" 
+author: "Ólafur Bjarki Bogason"
+accent: "#82aaff"
+cursor: "#82aaff"
+background: "#222436"
+foreground: "#3b4261"
 details: darker
 terminal_colors:
   bright:
-    black: '#636da6'
-    blue: '#828bb8'
-    cyan: '#c53b53'
-    green: '#1e2030'
-    magenta: '#828bb8'
-    red: '#ffc777'
-    white: '#c8d3f5'
-    yellow: '#2d3f76'
+    black: "#636da6"
+    blue: "#828bb8"
+    cyan: "#c53b53"
+    green: "#1e2030"
+    magenta: "#828bb8"
+    red: "#ffc777"
+    white: "#c8d3f5"
+    yellow: "#2d3f76"
   normal:
-    black: '#222436'
-    blue: '#82aaff'
-    cyan: '#86e1fc'
-    green: '#c3e88d'
-    magenta: '#fca7ea'
-    red: '#ff757f'
-    white: '#3b4261'
-    yellow: '#ffc777'
+    black: "#222436"
+    blue: "#82aaff"
+    cyan: "#86e1fc"
+    green: "#c3e88d"
+    magenta: "#fca7ea"
+    red: "#ff757f"
+    white: "#3b4261"
+    yellow: "#ffc777"

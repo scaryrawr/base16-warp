@@ -1,25 +1,26 @@
-name: Aztec # by TheNeverMan (github.com/TheNeverMan)
-accent: '#5b4a9f'
-cursor: '#5b4a9f'
-background: '#101600'
-foreground: '#ffda51'
+name: "Aztec" 
+author: "TheNeverMan (github.com/TheNeverMan)"
+accent: "#5b4a9f"
+cursor: "#5b4a9f"
+background: "#101600"
+foreground: "#ffda51"
 details: darker
 terminal_colors:
   bright:
-    black: '#2e2e05'
-    blue: '#ffd129'
-    cyan: '#a928b9'
-    green: '#1a1e01'
-    magenta: '#ffe178'
-    red: '#ee8800'
-    white: '#ffeba0'
-    yellow: '#242604'
+    black: "#2e2e05"
+    blue: "#ffd129"
+    cyan: "#a928b9"
+    green: "#1a1e01"
+    magenta: "#ffe178"
+    red: "#ee8800"
+    white: "#ffeba0"
+    yellow: "#242604"
   normal:
-    black: '#101600'
-    blue: '#5b4a9f'
-    cyan: '#3d94a5'
-    green: '#63d932'
-    magenta: '#883e9f'
-    red: '#ee2e00'
-    white: '#ffda51'
-    yellow: '#eebb00'
+    black: "#101600"
+    blue: "#5b4a9f"
+    cyan: "#3d94a5"
+    green: "#63d932"
+    magenta: "#883e9f"
+    red: "#ee2e00"
+    white: "#ffda51"
+    yellow: "#eebb00"

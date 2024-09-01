@@ -1,25 +1,26 @@
-name: Shades of Purple # by Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
-accent: '#6943ff'
-cursor: '#6943ff'
-background: '#1e1e3f'
-foreground: '#c7c7c7'
+name: "Shades of Purple" 
+author: "Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)"
+accent: "#6943ff"
+cursor: "#6943ff"
+background: "#1e1e3f"
+foreground: "#c7c7c7"
 details: darker
 terminal_colors:
   bright:
-    black: '#808080'
-    blue: '#6871ff'
-    cyan: '#79e8fb'
-    green: '#43d426'
-    magenta: '#ff77ff'
-    red: '#f92a1c'
-    white: '#ffffff'
-    yellow: '#f1d000'
+    black: "#808080"
+    blue: "#6871ff"
+    cyan: "#79e8fb"
+    green: "#43d426"
+    magenta: "#ff77ff"
+    red: "#f92a1c"
+    white: "#ffffff"
+    yellow: "#f1d000"
   normal:
-    black: '#1e1e3f'
-    blue: '#6943ff'
-    cyan: '#00c5c7'
-    green: '#3ad900'
-    magenta: '#ff2c70'
-    red: '#d90429'
-    white: '#c7c7c7'
-    yellow: '#ffe700'
+    black: "#1e1e3f"
+    blue: "#6943ff"
+    cyan: "#00c5c7"
+    green: "#3ad900"
+    magenta: "#ff2c70"
+    red: "#d90429"
+    white: "#c7c7c7"
+    yellow: "#ffe700"

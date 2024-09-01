@@ -1,25 +1,26 @@
-name: Solar Flare # by Chuck Harmston (https://chuck.harmston.ch)
-accent: '#33b5e1'
-cursor: '#33b5e1'
-background: '#18262f'
-foreground: '#a6afb8'
+name: "Solar Flare" 
+author: "Chuck Harmston (https://chuck.harmston.ch)"
+accent: "#33b5e1"
+cursor: "#33b5e1"
+background: "#18262f"
+foreground: "#a6afb8"
 details: darker
 terminal_colors:
   bright:
-    black: '#667581'
-    blue: '#85939e'
-    cyan: '#d73c9a'
-    green: '#222e38'
-    magenta: '#e8e9ed'
-    red: '#e66b2b'
-    white: '#f5f7fa'
-    yellow: '#586875'
+    black: "#667581"
+    blue: "#85939e"
+    cyan: "#d73c9a"
+    green: "#222e38"
+    magenta: "#e8e9ed"
+    red: "#e66b2b"
+    white: "#f5f7fa"
+    yellow: "#586875"
   normal:
-    black: '#18262f'
-    blue: '#33b5e1'
-    cyan: '#52cbb0'
-    green: '#7cc844'
-    magenta: '#a363d5'
-    red: '#ef5253'
-    white: '#a6afb8'
-    yellow: '#e4b51c'
+    black: "#18262f"
+    blue: "#33b5e1"
+    cyan: "#52cbb0"
+    green: "#7cc844"
+    magenta: "#a363d5"
+    red: "#ef5253"
+    white: "#a6afb8"
+    yellow: "#e4b51c"

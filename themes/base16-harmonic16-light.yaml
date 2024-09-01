@@ -1,25 +1,26 @@
-name: Harmonic16 Light # by Jannik Siebert (https://github.com/janniks)
-accent: '#8b56bf'
-cursor: '#8b56bf'
-background: '#f7f9fb'
-foreground: '#405c79'
+name: "Harmonic16 Light" 
+author: "Jannik Siebert (https://github.com/janniks)"
+accent: "#8b56bf"
+cursor: "#8b56bf"
+background: "#f7f9fb"
+foreground: "#405c79"
 details: lighter
 terminal_colors:
   bright:
-    black: '#aabcce'
-    blue: '#627e99'
-    cyan: '#bf5656'
-    green: '#e5ebf1'
-    magenta: '#223b54'
-    red: '#bfbf56'
-    white: '#0b1c2c'
-    yellow: '#cbd6e2'
+    black: "#aabcce"
+    blue: "#627e99"
+    cyan: "#bf5656"
+    green: "#e5ebf1"
+    magenta: "#223b54"
+    red: "#bfbf56"
+    white: "#0b1c2c"
+    yellow: "#cbd6e2"
   normal:
-    black: '#f7f9fb'
-    blue: '#8b56bf'
-    cyan: '#568bbf'
-    green: '#56bf8b'
-    magenta: '#bf568b'
-    red: '#bf8b56'
-    white: '#405c79'
-    yellow: '#8bbf56'
+    black: "#f7f9fb"
+    blue: "#8b56bf"
+    cyan: "#568bbf"
+    green: "#56bf8b"
+    magenta: "#bf568b"
+    red: "#bf8b56"
+    white: "#405c79"
+    yellow: "#8bbf56"

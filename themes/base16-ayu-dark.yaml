@@ -1,25 +1,26 @@
-name: Ayu Dark # by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
-accent: '#59c2ff'
-cursor: '#59c2ff'
-background: '#0f1419'
-foreground: '#e6e1cf'
+name: "Ayu Dark" 
+author: "Khue Nguyen &lt;Z5483Y@gmail.com&gt;"
+accent: "#59c2ff"
+cursor: "#59c2ff"
+background: "#0f1419"
+foreground: "#e6e1cf"
 details: darker
 terminal_colors:
   bright:
-    black: '#3e4b59'
-    blue: '#bfbdb6'
-    cyan: '#e6b673'
-    green: '#131721'
-    magenta: '#e6e1cf'
-    red: '#ff8f40'
-    white: '#f3f4f5'
-    yellow: '#272d38'
+    black: "#3e4b59"
+    blue: "#bfbdb6"
+    cyan: "#e6b673"
+    green: "#131721"
+    magenta: "#e6e1cf"
+    red: "#ff8f40"
+    white: "#f3f4f5"
+    yellow: "#272d38"
   normal:
-    black: '#0f1419'
-    blue: '#59c2ff'
-    cyan: '#95e6cb'
-    green: '#b8cc52'
-    magenta: '#d2a6ff'
-    red: '#f07178'
-    white: '#e6e1cf'
-    yellow: '#ffb454'
+    black: "#0f1419"
+    blue: "#59c2ff"
+    cyan: "#95e6cb"
+    green: "#b8cc52"
+    magenta: "#d2a6ff"
+    red: "#f07178"
+    white: "#e6e1cf"
+    yellow: "#ffb454"

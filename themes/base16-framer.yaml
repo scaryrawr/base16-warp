@@ -1,25 +1,26 @@
-name: Framer # by Framer (Maintained by Jesse Hoyos)
-accent: '#20bcfc'
-cursor: '#20bcfc'
-background: '#181818'
-foreground: '#d0d0d0'
+name: "Framer" 
+author: "Framer (Maintained by Jesse Hoyos)"
+accent: "#20bcfc"
+cursor: "#20bcfc"
+background: "#181818"
+foreground: "#d0d0d0"
 details: darker
 terminal_colors:
   bright:
-    black: '#747474'
-    blue: '#b9b9b9'
-    cyan: '#b15f4a'
-    green: '#151515'
-    magenta: '#e8e8e8'
-    red: '#fc4769'
-    white: '#eeeeee'
-    yellow: '#464646'
+    black: "#747474"
+    blue: "#b9b9b9"
+    cyan: "#b15f4a"
+    green: "#151515"
+    magenta: "#e8e8e8"
+    red: "#fc4769"
+    white: "#eeeeee"
+    yellow: "#464646"
   normal:
-    black: '#181818'
-    blue: '#20bcfc'
-    cyan: '#acddfd'
-    green: '#32ccdc'
-    magenta: '#ba8cfc'
-    red: '#fd886b'
-    white: '#d0d0d0'
-    yellow: '#fecb6e'
+    black: "#181818"
+    blue: "#20bcfc"
+    cyan: "#acddfd"
+    green: "#32ccdc"
+    magenta: "#ba8cfc"
+    red: "#fd886b"
+    white: "#d0d0d0"
+    yellow: "#fecb6e"

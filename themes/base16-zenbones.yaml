@@ -1,25 +1,26 @@
-name: Zenbones # by mcchrish
-accent: '#cf86c1'
-cursor: '#cf86c1'
-background: '#191919'
-foreground: '#b279a7'
+name: "Zenbones" 
+author: "mcchrish"
+accent: "#cf86c1"
+cursor: "#cf86c1"
+background: "#191919"
+foreground: "#b279a7"
 details: darker
 terminal_colors:
   bright:
-    black: '#b77e64'
-    blue: '#6099c0'
-    cyan: '#8e8e8e'
-    green: '#de6e7c'
-    magenta: '#66a5ad'
-    red: '#e8838f'
-    white: '#bbbbbb'
-    yellow: '#819b69'
+    black: "#b77e64"
+    blue: "#6099c0"
+    cyan: "#8e8e8e"
+    green: "#de6e7c"
+    magenta: "#66a5ad"
+    red: "#e8838f"
+    white: "#bbbbbb"
+    yellow: "#819b69"
   normal:
-    black: '#191919'
-    blue: '#cf86c1'
-    cyan: '#61abda'
-    green: '#d68c67'
-    magenta: '#65b8c1'
-    red: '#3d3839'
-    white: '#b279a7'
-    yellow: '#8bae68'
+    black: "#191919"
+    blue: "#cf86c1"
+    cyan: "#61abda"
+    green: "#d68c67"
+    magenta: "#65b8c1"
+    red: "#3d3839"
+    white: "#b279a7"
+    yellow: "#8bae68"

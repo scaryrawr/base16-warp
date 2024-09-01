@@ -1,25 +1,26 @@
-name: Horizon Dark # by Michaël Ball (http://github.com/michael-ball/)
-accent: '#df5273'
-cursor: '#df5273'
-background: '#1c1e26'
-foreground: '#cbced0'
+name: "Horizon Dark" 
+author: "Michaël Ball (http://github.com/michael-ball/)"
+accent: "#df5273"
+cursor: "#df5273"
+background: "#1c1e26"
+foreground: "#cbced0"
 details: darker
 terminal_colors:
   bright:
-    black: '#6f6f70'
-    blue: '#9da0a2'
-    cyan: '#e4a382'
-    green: '#232530'
-    magenta: '#dcdfe4'
-    red: '#e58d7d'
-    white: '#e3e6ee'
-    yellow: '#2e303e'
+    black: "#6f6f70"
+    blue: "#9da0a2"
+    cyan: "#e4a382"
+    green: "#232530"
+    magenta: "#dcdfe4"
+    red: "#e58d7d"
+    white: "#e3e6ee"
+    yellow: "#2e303e"
   normal:
-    black: '#1c1e26'
-    blue: '#df5273'
-    cyan: '#24a8b4'
-    green: '#efaf8e'
-    magenta: '#b072d1'
-    red: '#e93c58'
-    white: '#cbced0'
-    yellow: '#efb993'
+    black: "#1c1e26"
+    blue: "#df5273"
+    cyan: "#24a8b4"
+    green: "#efaf8e"
+    magenta: "#b072d1"
+    red: "#e93c58"
+    white: "#cbced0"
+    yellow: "#efb993"

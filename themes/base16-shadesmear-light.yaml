@@ -1,25 +1,26 @@
-name: ShadeSmear Light # by Kyle Giammarco (http://kyle.giammar.co)
-accent: '#376388'
-cursor: '#376388'
-background: '#dbdbdb'
-foreground: '#232323'
+name: "ShadeSmear Light" 
+author: "Kyle Giammarco (http://kyle.giammar.co)"
+accent: "#376388"
+cursor: "#376388"
+background: "#dbdbdb"
+foreground: "#232323"
 details: lighter
 terminal_colors:
   bright:
-    black: '#4e4e4e'
-    blue: '#1c1c1c'
-    cyan: '#6d6d6d'
-    green: '#e4e4e4'
-    magenta: '#1c1c1c'
-    red: '#a64270'
-    white: '#e4e4e4'
-    yellow: '#c0c0c0'
+    black: "#4e4e4e"
+    blue: "#1c1c1c"
+    cyan: "#6d6d6d"
+    green: "#e4e4e4"
+    magenta: "#1c1c1c"
+    red: "#a64270"
+    white: "#e4e4e4"
+    yellow: "#c0c0c0"
   normal:
-    black: '#dbdbdb'
-    blue: '#376388'
-    cyan: '#c57d42'
-    green: '#71983b'
-    magenta: '#d7ab54'
-    red: '#cc5450'
-    white: '#232323'
-    yellow: '#307878'
+    black: "#dbdbdb"
+    blue: "#376388"
+    cyan: "#c57d42"
+    green: "#71983b"
+    magenta: "#d7ab54"
+    red: "#cc5450"
+    white: "#232323"
+    yellow: "#307878"

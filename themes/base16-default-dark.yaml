@@ -1,25 +1,26 @@
-name: Default Dark # by Chris Kempson (http://chriskempson.com)
-accent: '#7cafc2'
-cursor: '#7cafc2'
-background: '#181818'
-foreground: '#d8d8d8'
+name: "Default Dark" 
+author: "Chris Kempson (http://chriskempson.com)"
+accent: "#7cafc2"
+cursor: "#7cafc2"
+background: "#181818"
+foreground: "#d8d8d8"
 details: darker
 terminal_colors:
   bright:
-    black: '#585858'
-    blue: '#b8b8b8'
-    cyan: '#a16946'
-    green: '#282828'
-    magenta: '#e8e8e8'
-    red: '#dc9656'
-    white: '#f8f8f8'
-    yellow: '#383838'
+    black: "#585858"
+    blue: "#b8b8b8"
+    cyan: "#a16946"
+    green: "#282828"
+    magenta: "#e8e8e8"
+    red: "#dc9656"
+    white: "#f8f8f8"
+    yellow: "#383838"
   normal:
-    black: '#181818'
-    blue: '#7cafc2'
-    cyan: '#86c1b9'
-    green: '#a1b56c'
-    magenta: '#ba8baf'
-    red: '#ab4642'
-    white: '#d8d8d8'
-    yellow: '#f7ca88'
+    black: "#181818"
+    blue: "#7cafc2"
+    cyan: "#86c1b9"
+    green: "#a1b56c"
+    magenta: "#ba8baf"
+    red: "#ab4642"
+    white: "#d8d8d8"
+    yellow: "#f7ca88"

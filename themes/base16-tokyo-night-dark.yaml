@@ -1,25 +1,26 @@
-name: Tokyo Night Dark # by Michaël Ball
-accent: '#2ac3de'
-cursor: '#2ac3de'
-background: '#1a1b26'
-foreground: '#a9b1d6'
+name: "Tokyo Night Dark" 
+author: "Michaël Ball"
+accent: "#2ac3de"
+cursor: "#2ac3de"
+background: "#1a1b26"
+foreground: "#a9b1d6"
 details: darker
 terminal_colors:
   bright:
-    black: '#444b6a'
-    blue: '#787c99'
-    cyan: '#f7768e'
-    green: '#16161e'
-    magenta: '#cbccd1'
-    red: '#a9b1d6'
-    white: '#d5d6db'
-    yellow: '#2f3549'
+    black: "#444b6a"
+    blue: "#787c99"
+    cyan: "#f7768e"
+    green: "#16161e"
+    magenta: "#cbccd1"
+    red: "#a9b1d6"
+    white: "#d5d6db"
+    yellow: "#2f3549"
   normal:
-    black: '#1a1b26'
-    blue: '#2ac3de'
-    cyan: '#b4f9f8'
-    green: '#9ece6a'
-    magenta: '#bb9af7'
-    red: '#c0caf5'
-    white: '#a9b1d6'
-    yellow: '#0db9d7'
+    black: "#1a1b26"
+    blue: "#2ac3de"
+    cyan: "#b4f9f8"
+    green: "#9ece6a"
+    magenta: "#bb9af7"
+    red: "#c0caf5"
+    white: "#a9b1d6"
+    yellow: "#0db9d7"

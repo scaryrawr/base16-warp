@@ -1,25 +1,26 @@
-name: Atlas # by Alex Lende (https://ajlende.com)
-accent: '#14747e'
-cursor: '#14747e'
-background: '#002635'
-foreground: '#a1a19a'
+name: "Atlas" 
+author: "Alex Lende (https://ajlende.com)"
+accent: "#14747e"
+cursor: "#14747e"
+background: "#002635"
+foreground: "#a1a19a"
 details: darker
 terminal_colors:
   bright:
-    black: '#6c8b91'
-    blue: '#869696'
-    cyan: '#c43060'
-    green: '#00384d'
-    magenta: '#e6e6dc'
-    red: '#f08e48'
-    white: '#fafaf8'
-    yellow: '#517f8d'
+    black: "#6c8b91"
+    blue: "#869696"
+    cyan: "#c43060"
+    green: "#00384d"
+    magenta: "#e6e6dc"
+    red: "#f08e48"
+    white: "#fafaf8"
+    yellow: "#517f8d"
   normal:
-    black: '#002635'
-    blue: '#14747e'
-    cyan: '#5dd7b9'
-    green: '#7fc06e'
-    magenta: '#9a70a4'
-    red: '#ff5a67'
-    white: '#a1a19a'
-    yellow: '#ffcc1b'
+    black: "#002635"
+    blue: "#14747e"
+    cyan: "#5dd7b9"
+    green: "#7fc06e"
+    magenta: "#9a70a4"
+    red: "#ff5a67"
+    white: "#a1a19a"
+    yellow: "#ffcc1b"

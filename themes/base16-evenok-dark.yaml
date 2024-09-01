@@ -1,25 +1,26 @@
-name: Evenok Dark # by Mekeor Melire
-accent: '#00aff2'
-cursor: '#00aff2'
-background: '#000000'
-foreground: '#d0d0d0'
+name: "Evenok Dark" 
+author: "Mekeor Melire"
+accent: "#00aff2"
+cursor: "#00aff2"
+background: "#000000"
+foreground: "#d0d0d0"
 details: darker
 terminal_colors:
   bright:
-    black: '#505050'
-    blue: '#b0b0b0'
-    cyan: '#d47ada'
-    green: '#202020'
-    magenta: '#e0e0e0'
-    red: '#ee8122'
-    white: '#ffffff'
-    yellow: '#303030'
+    black: "#505050"
+    blue: "#b0b0b0"
+    cyan: "#d47ada"
+    green: "#202020"
+    magenta: "#e0e0e0"
+    red: "#ee8122"
+    white: "#ffffff"
+    yellow: "#303030"
   normal:
-    black: '#000000'
-    blue: '#00aff2'
-    cyan: '#00bab3'
-    green: '#54bc5c'
-    magenta: '#9095ff'
-    red: '#f5708a'
-    white: '#d0d0d0'
-    yellow: '#b8a300'
+    black: "#000000"
+    blue: "#00aff2"
+    cyan: "#00bab3"
+    green: "#54bc5c"
+    magenta: "#9095ff"
+    red: "#f5708a"
+    white: "#d0d0d0"
+    yellow: "#b8a300"

@@ -1,25 +1,26 @@
-name: Black Metal (Venom) # by metalelf0 (https://github.com/metalelf0)
-accent: '#888888'
-cursor: '#888888'
-background: '#000000'
-foreground: '#c1c1c1'
+name: "Black Metal (Venom)" 
+author: "metalelf0 (https://github.com/metalelf0)"
+accent: "#888888"
+cursor: "#888888"
+background: "#000000"
+foreground: "#c1c1c1"
 details: darker
 terminal_colors:
   bright:
-    black: '#333333'
-    blue: '#999999'
-    cyan: '#444444'
-    green: '#121212'
-    magenta: '#999999'
-    red: '#aaaaaa'
-    white: '#c1c1c1'
-    yellow: '#222222'
+    black: "#333333"
+    blue: "#999999"
+    cyan: "#444444"
+    green: "#121212"
+    magenta: "#999999"
+    red: "#aaaaaa"
+    white: "#c1c1c1"
+    yellow: "#222222"
   normal:
-    black: '#000000'
-    blue: '#888888'
-    cyan: '#aaaaaa'
-    green: '#f8f7f2'
-    magenta: '#999999'
-    red: '#5f8787'
-    white: '#c1c1c1'
-    yellow: '#79241f'
+    black: "#000000"
+    blue: "#888888"
+    cyan: "#aaaaaa"
+    green: "#f8f7f2"
+    magenta: "#999999"
+    red: "#5f8787"
+    white: "#c1c1c1"
+    yellow: "#79241f"
