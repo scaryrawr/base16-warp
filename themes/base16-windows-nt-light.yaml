@@ -1,25 +1,26 @@
-name: Windows NT Light # by Fergus Collins (https://github.com/C-Fergus)
-accent: '#000080'
-cursor: '#000080'
-background: '#ffffff'
-foreground: '#808080'
+name: "Windows NT Light" 
+author: "Fergus Collins (https://github.com/C-Fergus)"
+accent: "#000080"
+cursor: "#000080"
+background: "#ffffff"
+foreground: "#808080"
 details: lighter
 terminal_colors:
   bright:
-    black: '#c0c0c0'
-    blue: '#a0a0a0'
-    cyan: '#00ff00'
-    green: '#eaeaea'
-    magenta: '#404040'
-    red: '#ffff00'
-    white: '#000000'
-    yellow: '#d5d5d5'
+    black: "#c0c0c0"
+    blue: "#a0a0a0"
+    cyan: "#00ff00"
+    green: "#eaeaea"
+    magenta: "#404040"
+    red: "#ffff00"
+    white: "#000000"
+    yellow: "#d5d5d5"
   normal:
-    black: '#ffffff'
-    blue: '#000080'
-    cyan: '#008080'
-    green: '#008000'
-    magenta: '#800080'
-    red: '#800000'
-    white: '#808080'
-    yellow: '#808000'
+    black: "#ffffff"
+    blue: "#000080"
+    cyan: "#008080"
+    green: "#008000"
+    magenta: "#800080"
+    red: "#800000"
+    white: "#808080"
+    yellow: "#808000"

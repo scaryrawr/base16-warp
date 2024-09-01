@@ -1,25 +1,26 @@
-name: Stella # by Shrimpram
-accent: '#a5aad4'
-cursor: '#a5aad4'
-background: '#2b213c'
-foreground: '#998bad'
+name: "Stella" 
+author: "Shrimpram"
+accent: "#a5aad4"
+cursor: "#a5aad4"
+background: "#2b213c"
+foreground: "#998bad"
 details: darker
 terminal_colors:
   bright:
-    black: '#655978'
-    blue: '#7f7192'
-    cyan: '#c7ab87'
-    green: '#362b48'
-    magenta: '#b4a5c8'
-    red: '#8865c6'
-    white: '#ebdcff'
-    yellow: '#4d4160'
+    black: "#655978"
+    blue: "#7f7192"
+    cyan: "#c7ab87"
+    green: "#362b48"
+    magenta: "#b4a5c8"
+    red: "#8865c6"
+    white: "#ebdcff"
+    yellow: "#4d4160"
   normal:
-    black: '#2b213c'
-    blue: '#a5aad4'
-    cyan: '#9bc7bf'
-    green: '#acc79b'
-    magenta: '#c594ff'
-    red: '#c79987'
-    white: '#998bad'
-    yellow: '#c7c691'
+    black: "#2b213c"
+    blue: "#a5aad4"
+    cyan: "#9bc7bf"
+    green: "#acc79b"
+    magenta: "#c594ff"
+    red: "#c79987"
+    white: "#998bad"
+    yellow: "#c7c691"

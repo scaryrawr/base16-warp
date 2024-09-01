@@ -1,25 +1,26 @@
-name: Precious Dark Fifteen # by 4lex4 &lt;4lex49@zoho.com&gt;
-accent: '#66b0ef'
-cursor: '#66b0ef'
-background: '#23262b'
-foreground: '#bab9b6'
+name: "Precious Dark Fifteen" 
+author: "4lex4 &lt;4lex49@zoho.com&gt;"
+accent: "#66b0ef"
+cursor: "#66b0ef"
+background: "#23262b"
+foreground: "#bab9b6"
 details: darker
 terminal_colors:
   bright:
-    black: '#898989'
-    blue: '#abaaa8'
-    cyan: '#f382d8'
-    green: '#303337'
-    magenta: '#bab9b6'
-    red: '#e99857'
-    white: '#bab9b6'
-    yellow: '#3e4044'
+    black: "#898989"
+    blue: "#abaaa8"
+    cyan: "#f382d8"
+    green: "#303337"
+    magenta: "#bab9b6"
+    red: "#e99857"
+    white: "#bab9b6"
+    yellow: "#3e4044"
   normal:
-    black: '#23262b'
-    blue: '#66b0ef'
-    cyan: '#42bda7'
-    green: '#95b659'
-    magenta: '#b799ff'
-    red: '#ff8782'
-    white: '#bab9b6'
-    yellow: '#cfa546'
+    black: "#23262b"
+    blue: "#66b0ef"
+    cyan: "#42bda7"
+    green: "#95b659"
+    magenta: "#b799ff"
+    red: "#ff8782"
+    white: "#bab9b6"
+    yellow: "#cfa546"

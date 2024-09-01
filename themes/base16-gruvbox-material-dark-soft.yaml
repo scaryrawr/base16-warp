@@ -1,25 +1,26 @@
-name: Gruvbox Material Dark, Soft # by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
-accent: '#7daea3'
-cursor: '#7daea3'
-background: '#32302f'
-foreground: '#ddc7a1'
+name: "Gruvbox Material Dark, Soft" 
+author: "Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)"
+accent: "#7daea3"
+cursor: "#7daea3"
+background: "#32302f"
+foreground: "#ddc7a1"
 details: darker
 terminal_colors:
   bright:
-    black: '#7c6f64'
-    blue: '#bdae93'
-    cyan: '#bd6f3e'
-    green: '#3c3836'
-    magenta: '#ebdbb2'
-    red: '#e78a4e'
-    white: '#fbf1c7'
-    yellow: '#5a524c'
+    black: "#7c6f64"
+    blue: "#bdae93"
+    cyan: "#bd6f3e"
+    green: "#3c3836"
+    magenta: "#ebdbb2"
+    red: "#e78a4e"
+    white: "#fbf1c7"
+    yellow: "#5a524c"
   normal:
-    black: '#32302f'
-    blue: '#7daea3'
-    cyan: '#89b482'
-    green: '#a9b665'
-    magenta: '#d3869b'
-    red: '#ea6962'
-    white: '#ddc7a1'
-    yellow: '#d8a657'
+    black: "#32302f"
+    blue: "#7daea3"
+    cyan: "#89b482"
+    green: "#a9b665"
+    magenta: "#d3869b"
+    red: "#ea6962"
+    white: "#ddc7a1"
+    yellow: "#d8a657"

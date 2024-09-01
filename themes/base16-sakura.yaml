@@ -1,25 +1,26 @@
-name: Sakura # by Misterio77 (http://github.com/Misterio77)
-accent: '#006e93'
-cursor: '#006e93'
-background: '#feedf3'
-foreground: '#564448'
+name: "Sakura" 
+author: "Misterio77 (http://github.com/Misterio77)"
+accent: "#006e93"
+cursor: "#006e93"
+background: "#feedf3"
+foreground: "#564448"
 details: lighter
 terminal_colors:
   bright:
-    black: '#755f64'
-    blue: '#665055'
-    cyan: '#ba0d35'
-    green: '#f8e2e7'
-    magenta: '#42383a'
-    red: '#f6661e'
-    white: '#33292b'
-    yellow: '#e0ccd1'
+    black: "#755f64"
+    blue: "#665055"
+    cyan: "#ba0d35"
+    green: "#f8e2e7"
+    magenta: "#42383a"
+    red: "#f6661e"
+    white: "#33292b"
+    yellow: "#e0ccd1"
   normal:
-    black: '#feedf3'
-    blue: '#006e93'
-    cyan: '#1d8991'
-    green: '#2e916d'
-    magenta: '#5e2180'
-    red: '#df2d52'
-    white: '#564448'
-    yellow: '#c29461'
+    black: "#feedf3"
+    blue: "#006e93"
+    cyan: "#1d8991"
+    green: "#2e916d"
+    magenta: "#5e2180"
+    red: "#df2d52"
+    white: "#564448"
+    yellow: "#c29461"

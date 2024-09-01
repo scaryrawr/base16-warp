@@ -1,25 +1,26 @@
-name: Primer Dark # by Jimmy Lin
-accent: '#58a6ff'
-cursor: '#58a6ff'
-background: '#010409'
-foreground: '#b1bac4'
+name: "Primer Dark" 
+author: "Jimmy Lin"
+accent: "#58a6ff"
+cursor: "#58a6ff"
+background: "#010409"
+foreground: "#b1bac4"
 details: darker
 terminal_colors:
   bright:
-    black: '#484f58'
-    blue: '#8b949e'
-    cyan: '#bd561d'
-    green: '#21262d'
-    magenta: '#c9d1d9'
-    red: '#f0883e'
-    white: '#f0f6fc'
-    yellow: '#30363d'
+    black: "#484f58"
+    blue: "#8b949e"
+    cyan: "#bd561d"
+    green: "#21262d"
+    magenta: "#c9d1d9"
+    red: "#f0883e"
+    white: "#f0f6fc"
+    yellow: "#30363d"
   normal:
-    black: '#010409'
-    blue: '#58a6ff'
-    cyan: '#a5d6ff'
-    green: '#3fb950'
-    magenta: '#f778ba'
-    red: '#ff7b72'
-    white: '#b1bac4'
-    yellow: '#d29922'
+    black: "#010409"
+    blue: "#58a6ff"
+    cyan: "#a5d6ff"
+    green: "#3fb950"
+    magenta: "#f778ba"
+    red: "#ff7b72"
+    white: "#b1bac4"
+    yellow: "#d29922"

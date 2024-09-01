@@ -1,25 +1,26 @@
-name: Gotham # by Andrea Leopardi (arranged by Brett Jones)
-accent: '#195466'
-cursor: '#195466'
-background: '#0c1014'
-foreground: '#599cab'
+name: "Gotham" 
+author: "Andrea Leopardi (arranged by Brett Jones)"
+accent: "#195466"
+cursor: "#195466"
+background: "#0c1014"
+foreground: "#599cab"
 details: darker
 terminal_colors:
   bright:
-    black: '#0a3749'
-    blue: '#245361'
-    cyan: '#4e5166'
-    green: '#11151c'
-    magenta: '#99d1ce'
-    red: '#d26937'
-    white: '#d3ebe9'
-    yellow: '#091f2e'
+    black: "#0a3749"
+    blue: "#245361"
+    cyan: "#4e5166"
+    green: "#11151c"
+    magenta: "#99d1ce"
+    red: "#d26937"
+    white: "#d3ebe9"
+    yellow: "#091f2e"
   normal:
-    black: '#0c1014'
-    blue: '#195466'
-    cyan: '#2aa889'
-    green: '#33859e'
-    magenta: '#888ca6'
-    red: '#c23127'
-    white: '#599cab'
-    yellow: '#edb443'
+    black: "#0c1014"
+    blue: "#195466"
+    cyan: "#2aa889"
+    green: "#33859e"
+    magenta: "#888ca6"
+    red: "#c23127"
+    white: "#599cab"
+    yellow: "#edb443"

@@ -1,25 +1,26 @@
-name: selenized-dark # by Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
-accent: '#4695f7'
-cursor: '#4695f7'
-background: '#103c48'
-foreground: '#adbcbc'
+name: "selenized-dark" 
+author: "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali"
+accent: "#4695f7"
+cursor: "#4695f7"
+background: "#103c48"
+foreground: "#adbcbc"
 details: darker
 terminal_colors:
   bright:
-    black: '#72898f'
-    blue: '#72898f'
-    cyan: '#f275be'
-    green: '#184956'
-    magenta: '#cad8d9'
-    red: '#ed8649'
-    white: '#cad8d9'
-    yellow: '#2d5b69'
+    black: "#72898f"
+    blue: "#72898f"
+    cyan: "#f275be"
+    green: "#184956"
+    magenta: "#cad8d9"
+    red: "#ed8649"
+    white: "#cad8d9"
+    yellow: "#2d5b69"
   normal:
-    black: '#103c48'
-    blue: '#4695f7'
-    cyan: '#41c7b9'
-    green: '#75b938'
-    magenta: '#af88eb'
-    red: '#fa5750'
-    white: '#adbcbc'
-    yellow: '#dbb32d'
+    black: "#103c48"
+    blue: "#4695f7"
+    cyan: "#41c7b9"
+    green: "#75b938"
+    magenta: "#af88eb"
+    red: "#fa5750"
+    white: "#adbcbc"
+    yellow: "#dbb32d"

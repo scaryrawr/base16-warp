@@ -1,25 +1,26 @@
-name: pandora # by Cassandra Fox
-accent: '#008080'
-cursor: '#008080'
-background: '#131213'
-foreground: '#f15c99'
+name: "pandora" 
+author: "Cassandra Fox"
+accent: "#008080"
+cursor: "#008080"
+background: "#131213"
+foreground: "#f15c99"
 details: darker
 terminal_colors:
   bright:
-    black: '#ffbee3'
-    blue: '#9b2a46'
-    cyan: '#a24030'
-    green: '#2f1823'
-    magenta: '#81506a'
-    red: '#ff9153'
-    white: '#632227'
-    yellow: '#472234'
+    black: "#ffbee3"
+    blue: "#9b2a46"
+    cyan: "#a24030"
+    green: "#2f1823"
+    magenta: "#81506a"
+    red: "#ff9153"
+    white: "#632227"
+    yellow: "#472234"
   normal:
-    black: '#131213'
-    blue: '#008080'
-    cyan: '#714ca6'
-    green: '#9ddf69'
-    magenta: '#a24030'
-    red: '#b00b69'
-    white: '#f15c99'
-    yellow: '#ffcc00'
+    black: "#131213"
+    blue: "#008080"
+    cyan: "#714ca6"
+    green: "#9ddf69"
+    magenta: "#a24030"
+    red: "#b00b69"
+    white: "#f15c99"
+    yellow: "#ffcc00"

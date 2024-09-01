@@ -1,25 +1,26 @@
-name: DanQing # by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
-accent: '#b0a4e3'
-cursor: '#b0a4e3'
-background: '#2d302f'
-foreground: '#e0f0ef'
+name: "DanQing" 
+author: "Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)"
+accent: "#b0a4e3"
+cursor: "#b0a4e3"
+background: "#2d302f"
+foreground: "#e0f0ef"
 details: darker
 terminal_colors:
   bright:
-    black: '#9da8a3'
-    blue: '#cad8d2'
-    cyan: '#ca6924'
-    green: '#434846'
-    magenta: '#ecf6f2'
-    red: '#b38a61'
-    white: '#fcfefd'
-    yellow: '#5a605d'
+    black: "#9da8a3"
+    blue: "#cad8d2"
+    cyan: "#ca6924"
+    green: "#434846"
+    magenta: "#ecf6f2"
+    red: "#b38a61"
+    white: "#fcfefd"
+    yellow: "#5a605d"
   normal:
-    black: '#2d302f'
-    blue: '#b0a4e3'
-    cyan: '#30dff3'
-    green: '#8ab361'
-    magenta: '#cca4e3'
-    red: '#f9906f'
-    white: '#e0f0ef'
-    yellow: '#f0c239'
+    black: "#2d302f"
+    blue: "#b0a4e3"
+    cyan: "#30dff3"
+    green: "#8ab361"
+    magenta: "#cca4e3"
+    red: "#f9906f"
+    white: "#e0f0ef"
+    yellow: "#f0c239"

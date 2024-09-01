@@ -1,25 +1,26 @@
-name: caroline # by ed (https://codeberg.org/ed)
-accent: '#684c59'
-cursor: '#684c59'
-background: '#1c1213'
-foreground: '#a87569'
+name: "caroline" 
+author: "ed (https://codeberg.org/ed)"
+accent: "#684c59"
+cursor: "#684c59"
+background: "#1c1213"
+foreground: "#a87569"
 details: darker
 terminal_colors:
   bright:
-    black: '#6d4745'
-    blue: '#8b5d57'
-    cyan: '#893f45'
-    green: '#3a2425'
-    magenta: '#c58d7b'
-    red: '#a63650'
-    white: '#e3a68c'
-    yellow: '#563837'
+    black: "#6d4745"
+    blue: "#8b5d57"
+    cyan: "#893f45"
+    green: "#3a2425"
+    magenta: "#c58d7b"
+    red: "#a63650"
+    white: "#e3a68c"
+    yellow: "#563837"
   normal:
-    black: '#1c1213'
-    blue: '#684c59'
-    cyan: '#6b6566'
-    green: '#806c61'
-    magenta: '#a63650'
-    red: '#c24f57'
-    white: '#a87569'
-    yellow: '#f28171'
+    black: "#1c1213"
+    blue: "#684c59"
+    cyan: "#6b6566"
+    green: "#806c61"
+    magenta: "#a63650"
+    red: "#c24f57"
+    white: "#a87569"
+    yellow: "#f28171"

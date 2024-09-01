@@ -1,25 +1,26 @@
-name: PaperColor Light # by Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
-accent: '#d75f00'
-cursor: '#d75f00'
-background: '#eeeeee'
-foreground: '#444444'
+name: "PaperColor Light" 
+author: "Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)"
+accent: "#d75f00"
+cursor: "#d75f00"
+background: "#eeeeee"
+foreground: "#444444"
 details: lighter
 terminal_colors:
   bright:
-    black: '#5f8700'
-    blue: '#0087af'
-    cyan: '#005f87'
-    green: '#af0000'
-    magenta: '#005f87'
-    red: '#d70000'
-    white: '#878787'
-    yellow: '#008700'
+    black: "#5f8700"
+    blue: "#0087af"
+    cyan: "#005f87"
+    green: "#af0000"
+    magenta: "#005f87"
+    red: "#d70000"
+    white: "#878787"
+    yellow: "#008700"
   normal:
-    black: '#eeeeee'
-    blue: '#d75f00'
-    cyan: '#d75f00'
-    green: '#8700af'
-    magenta: '#005faf'
-    red: '#bcbcbc'
-    white: '#444444'
-    yellow: '#d70087'
+    black: "#eeeeee"
+    blue: "#d75f00"
+    cyan: "#d75f00"
+    green: "#8700af"
+    magenta: "#005faf"
+    red: "#bcbcbc"
+    white: "#444444"
+    yellow: "#d70087"

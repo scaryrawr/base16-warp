@@ -1,25 +1,26 @@
-name: SAGA # by https://github.com/SAGAtheme/SAGA
-accent: '#c9fff7'
-cursor: '#c9fff7'
-background: '#05080a'
-foreground: '#dce2f7'
+name: "SAGA" 
+author: "https://github.com/SAGAtheme/SAGA"
+accent: "#c9fff7"
+cursor: "#c9fff7"
+background: "#05080a"
+foreground: "#dce2f7"
 details: darker
 terminal_colors:
   bright:
-    black: '#141f27'
-    blue: '#192630'
-    cyan: '#f6dddd'
-    green: '#0a1014'
-    magenta: '#f8eae7'
-    red: '#fbcbae'
-    white: '#ccd3fe'
-    yellow: '#0f181e'
+    black: "#141f27"
+    blue: "#192630"
+    cyan: "#f6dddd"
+    green: "#0a1014"
+    magenta: "#f8eae7"
+    red: "#fbcbae"
+    white: "#ccd3fe"
+    yellow: "#0f181e"
   normal:
-    black: '#05080a'
-    blue: '#c9fff7'
-    cyan: '#c5edc1'
-    green: '#f7ddff'
-    magenta: '#dcc3f9'
-    red: '#ffd4e9'
-    white: '#dce2f7'
-    yellow: '#fbebc8'
+    black: "#05080a"
+    blue: "#c9fff7"
+    cyan: "#c5edc1"
+    green: "#f7ddff"
+    magenta: "#dcc3f9"
+    red: "#ffd4e9"
+    white: "#dce2f7"
+    yellow: "#fbebc8"

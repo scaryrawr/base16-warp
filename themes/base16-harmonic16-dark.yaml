@@ -1,25 +1,26 @@
-name: Harmonic16 Dark # by Jannik Siebert (https://github.com/janniks)
-accent: '#8b56bf'
-cursor: '#8b56bf'
-background: '#0b1c2c'
-foreground: '#cbd6e2'
+name: "Harmonic16 Dark" 
+author: "Jannik Siebert (https://github.com/janniks)"
+accent: "#8b56bf"
+cursor: "#8b56bf"
+background: "#0b1c2c"
+foreground: "#cbd6e2"
 details: darker
 terminal_colors:
   bright:
-    black: '#627e99'
-    blue: '#aabcce'
-    cyan: '#bf5656'
-    green: '#223b54'
-    magenta: '#e5ebf1'
-    red: '#bfbf56'
-    white: '#f7f9fb'
-    yellow: '#405c79'
+    black: "#627e99"
+    blue: "#aabcce"
+    cyan: "#bf5656"
+    green: "#223b54"
+    magenta: "#e5ebf1"
+    red: "#bfbf56"
+    white: "#f7f9fb"
+    yellow: "#405c79"
   normal:
-    black: '#0b1c2c'
-    blue: '#8b56bf'
-    cyan: '#568bbf'
-    green: '#56bf8b'
-    magenta: '#bf568b'
-    red: '#bf8b56'
-    white: '#cbd6e2'
-    yellow: '#8bbf56'
+    black: "#0b1c2c"
+    blue: "#8b56bf"
+    cyan: "#568bbf"
+    green: "#56bf8b"
+    magenta: "#bf568b"
+    red: "#bf8b56"
+    white: "#cbd6e2"
+    yellow: "#8bbf56"

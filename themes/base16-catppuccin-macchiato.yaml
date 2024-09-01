@@ -1,25 +1,26 @@
-name: Catppuccin Macchiato # by https://github.com/catppuccin/catppuccin
-accent: '#8aadf4'
-cursor: '#8aadf4'
-background: '#24273a'
-foreground: '#cad3f5'
+name: "Catppuccin Macchiato" 
+author: "https://github.com/catppuccin/catppuccin"
+accent: "#8aadf4"
+cursor: "#8aadf4"
+background: "#24273a"
+foreground: "#cad3f5"
 details: darker
 terminal_colors:
   bright:
-    black: '#494d64'
-    blue: '#5b6078'
-    cyan: '#f0c6c6'
-    green: '#1e2030'
-    magenta: '#f4dbd6'
-    red: '#f5a97f'
-    white: '#b7bdf8'
-    yellow: '#363a4f'
+    black: "#494d64"
+    blue: "#5b6078"
+    cyan: "#f0c6c6"
+    green: "#1e2030"
+    magenta: "#f4dbd6"
+    red: "#f5a97f"
+    white: "#b7bdf8"
+    yellow: "#363a4f"
   normal:
-    black: '#24273a'
-    blue: '#8aadf4'
-    cyan: '#8bd5ca'
-    green: '#a6da95'
-    magenta: '#c6a0f6'
-    red: '#ed8796'
-    white: '#cad3f5'
-    yellow: '#eed49f'
+    black: "#24273a"
+    blue: "#8aadf4"
+    cyan: "#8bd5ca"
+    green: "#a6da95"
+    magenta: "#c6a0f6"
+    red: "#ed8796"
+    white: "#cad3f5"
+    yellow: "#eed49f"

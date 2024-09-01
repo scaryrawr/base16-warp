@@ -1,25 +1,26 @@
-name: OneDark Dark # by olimorris (https://github.com/olimorris)
-accent: '#61afef'
-cursor: '#61afef'
-background: '#000000'
-foreground: '#abb2bf'
+name: "OneDark Dark" 
+author: "olimorris (https://github.com/olimorris)"
+accent: "#61afef"
+cursor: "#61afef"
+background: "#000000"
+foreground: "#abb2bf"
 details: darker
 terminal_colors:
   bright:
-    black: '#434852'
-    blue: '#565c64'
-    cyan: '#be5046'
-    green: '#1c1f24'
-    magenta: '#b6bdca'
-    red: '#d19a66'
-    white: '#c8ccd4'
-    yellow: '#2c313a'
+    black: "#434852"
+    blue: "#565c64"
+    cyan: "#be5046"
+    green: "#1c1f24"
+    magenta: "#b6bdca"
+    red: "#d19a66"
+    white: "#c8ccd4"
+    yellow: "#2c313a"
   normal:
-    black: '#000000'
-    blue: '#61afef'
-    cyan: '#2bbac5'
-    green: '#89ca78'
-    magenta: '#d55fde'
-    red: '#ef596f'
-    white: '#abb2bf'
-    yellow: '#e5c07b'
+    black: "#000000"
+    blue: "#61afef"
+    cyan: "#2bbac5"
+    green: "#89ca78"
+    magenta: "#d55fde"
+    red: "#ef596f"
+    white: "#abb2bf"
+    yellow: "#e5c07b"

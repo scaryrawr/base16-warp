@@ -1,25 +1,26 @@
-name: Tokyo City Terminal Dark # by Michaël Ball
-accent: '#539afc'
-cursor: '#539afc'
-background: '#171d23'
-foreground: '#d8e2ec'
+name: "Tokyo City Terminal Dark" 
+author: "Michaël Ball"
+accent: "#539afc"
+cursor: "#539afc"
+background: "#171d23"
+foreground: "#d8e2ec"
 details: darker
 terminal_colors:
   bright:
-    black: '#526270'
-    blue: '#b7c5d3'
-    cyan: '#dd9d82'
-    green: '#1d252c'
-    magenta: '#f6f6f8'
-    red: '#ff9e64'
-    white: '#fbfbfd'
-    yellow: '#28323a'
+    black: "#526270"
+    blue: "#b7c5d3"
+    cyan: "#dd9d82"
+    green: "#1d252c"
+    magenta: "#f6f6f8"
+    red: "#ff9e64"
+    white: "#fbfbfd"
+    yellow: "#28323a"
   normal:
-    black: '#171d23'
-    blue: '#539afc'
-    cyan: '#70e1e8'
-    green: '#8bd49c'
-    magenta: '#b62d65'
-    red: '#d95468'
-    white: '#d8e2ec'
-    yellow: '#ebbf83'
+    black: "#171d23"
+    blue: "#539afc"
+    cyan: "#70e1e8"
+    green: "#8bd49c"
+    magenta: "#b62d65"
+    red: "#d95468"
+    white: "#d8e2ec"
+    yellow: "#ebbf83"

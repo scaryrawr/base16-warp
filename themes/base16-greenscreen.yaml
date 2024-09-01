@@ -1,25 +1,26 @@
-name: Green Screen # by Chris Kempson (http://chriskempson.com)
-accent: '#009900'
-cursor: '#009900'
-background: '#001100'
-foreground: '#00bb00'
+name: "Green Screen" 
+author: "Chris Kempson (http://chriskempson.com)"
+accent: "#009900"
+cursor: "#009900"
+background: "#001100"
+foreground: "#00bb00"
 details: darker
 terminal_colors:
   bright:
-    black: '#007700'
-    blue: '#009900'
-    cyan: '#005500'
-    green: '#003300'
-    magenta: '#00dd00'
-    red: '#009900'
-    white: '#00ff00'
-    yellow: '#005500'
+    black: "#007700"
+    blue: "#009900"
+    cyan: "#005500"
+    green: "#003300"
+    magenta: "#00dd00"
+    red: "#009900"
+    white: "#00ff00"
+    yellow: "#005500"
   normal:
-    black: '#001100'
-    blue: '#009900'
-    cyan: '#005500'
-    green: '#00bb00'
-    magenta: '#00bb00'
-    red: '#007700'
-    white: '#00bb00'
-    yellow: '#007700'
+    black: "#001100"
+    blue: "#009900"
+    cyan: "#005500"
+    green: "#00bb00"
+    magenta: "#00bb00"
+    red: "#007700"
+    white: "#00bb00"
+    yellow: "#007700"

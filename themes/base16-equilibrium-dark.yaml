@@ -1,25 +1,26 @@
-name: Equilibrium Dark # by Carlo Abelli
-accent: '#008dd1'
-cursor: '#008dd1'
-background: '#0c1118'
-foreground: '#afaba2'
+name: "Equilibrium Dark" 
+author: "Carlo Abelli"
+accent: "#008dd1"
+cursor: "#008dd1"
+background: "#0c1118"
+foreground: "#afaba2"
 details: darker
 terminal_colors:
   bright:
-    black: '#7b776e'
-    blue: '#949088'
-    cyan: '#e3488e'
-    green: '#181c22'
-    magenta: '#cac6bd'
-    red: '#df5923'
-    white: '#e7e2d9'
-    yellow: '#22262d'
+    black: "#7b776e"
+    blue: "#949088"
+    cyan: "#e3488e"
+    green: "#181c22"
+    magenta: "#cac6bd"
+    red: "#df5923"
+    white: "#e7e2d9"
+    yellow: "#22262d"
   normal:
-    black: '#0c1118'
-    blue: '#008dd1'
-    cyan: '#00948b'
-    green: '#7f8b00'
-    magenta: '#6a7fd2'
-    red: '#f04339'
-    white: '#afaba2'
-    yellow: '#bb8801'
+    black: "#0c1118"
+    blue: "#008dd1"
+    cyan: "#00948b"
+    green: "#7f8b00"
+    magenta: "#6a7fd2"
+    red: "#f04339"
+    white: "#afaba2"
+    yellow: "#bb8801"

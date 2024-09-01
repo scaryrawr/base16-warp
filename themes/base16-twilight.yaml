@@ -1,25 +1,26 @@
-name: Twilight # by David Hart (https://github.com/hartbit)
-accent: '#7587a6'
-cursor: '#7587a6'
-background: '#1e1e1e'
-foreground: '#a7a7a7'
+name: "Twilight" 
+author: "David Hart (https://github.com/hartbit)"
+accent: "#7587a6"
+cursor: "#7587a6"
+background: "#1e1e1e"
+foreground: "#a7a7a7"
 details: darker
 terminal_colors:
   bright:
-    black: '#5f5a60'
-    blue: '#838184'
-    cyan: '#9b703f'
-    green: '#323537'
-    magenta: '#c3c3c3'
-    red: '#cda869'
-    white: '#ffffff'
-    yellow: '#464b50'
+    black: "#5f5a60"
+    blue: "#838184"
+    cyan: "#9b703f"
+    green: "#323537"
+    magenta: "#c3c3c3"
+    red: "#cda869"
+    white: "#ffffff"
+    yellow: "#464b50"
   normal:
-    black: '#1e1e1e'
-    blue: '#7587a6'
-    cyan: '#afc4db'
-    green: '#8f9d6a'
-    magenta: '#9b859d'
-    red: '#cf6a4c'
-    white: '#a7a7a7'
-    yellow: '#f9ee98'
+    black: "#1e1e1e"
+    blue: "#7587a6"
+    cyan: "#afc4db"
+    green: "#8f9d6a"
+    magenta: "#9b859d"
+    red: "#cf6a4c"
+    white: "#a7a7a7"
+    yellow: "#f9ee98"

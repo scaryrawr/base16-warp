@@ -1,25 +1,26 @@
-name: Everforest Dark Hard # by Sainnhe Park (https://github.com/sainnhe)
-accent: '#7fbbb3'
-cursor: '#7fbbb3'
-background: '#272e33'
-foreground: '#d3c6aa'
+name: "Everforest Dark Hard" 
+author: "Sainnhe Park (https://github.com/sainnhe)"
+accent: "#7fbbb3"
+cursor: "#7fbbb3"
+background: "#272e33"
+foreground: "#d3c6aa"
 details: darker
 terminal_colors:
   bright:
-    black: '#859289'
-    blue: '#9da9a0'
-    cyan: '#9da9a0'
-    green: '#2e383c'
-    magenta: '#edeada'
-    red: '#e69875'
-    white: '#fffbef'
-    yellow: '#414b50'
+    black: "#859289"
+    blue: "#9da9a0"
+    cyan: "#9da9a0"
+    green: "#2e383c"
+    magenta: "#edeada"
+    red: "#e69875"
+    white: "#fffbef"
+    yellow: "#414b50"
   normal:
-    black: '#272e33'
-    blue: '#7fbbb3'
-    cyan: '#83c092'
-    green: '#a7c080'
-    magenta: '#d699b6'
-    red: '#e67e80'
-    white: '#d3c6aa'
-    yellow: '#dbbc7f'
+    black: "#272e33"
+    blue: "#7fbbb3"
+    cyan: "#83c092"
+    green: "#a7c080"
+    magenta: "#d699b6"
+    red: "#e67e80"
+    white: "#d3c6aa"
+    yellow: "#dbbc7f"

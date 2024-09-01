@@ -1,25 +1,26 @@
-name: Da One Sea # by NNB (https://github.com/NNBnh)
-accent: '#6bb8ff'
-cursor: '#6bb8ff'
-background: '#22273d'
-foreground: '#ffffff'
+name: "Da One Sea" 
+author: "NNB (https://github.com/NNBnh)"
+accent: "#6bb8ff"
+cursor: "#6bb8ff"
+background: "#22273d"
+foreground: "#ffffff"
 details: darker
 terminal_colors:
   bright:
-    black: '#878d96'
-    blue: '#c8c8c8'
-    cyan: '#b3684f'
-    green: '#374059'
-    magenta: '#ffffff'
-    red: '#ffc387'
-    white: '#ffffff'
-    yellow: '#525866'
+    black: "#878d96"
+    blue: "#c8c8c8"
+    cyan: "#b3684f"
+    green: "#374059"
+    magenta: "#ffffff"
+    red: "#ffc387"
+    white: "#ffffff"
+    yellow: "#525866"
   normal:
-    black: '#22273d'
-    blue: '#6bb8ff'
-    cyan: '#8af5ff'
-    green: '#98c379'
-    magenta: '#e799ff'
-    red: '#fa7883'
-    white: '#ffffff'
-    yellow: '#ff9470'
+    black: "#22273d"
+    blue: "#6bb8ff"
+    cyan: "#8af5ff"
+    green: "#98c379"
+    magenta: "#e799ff"
+    red: "#fa7883"
+    white: "#ffffff"
+    yellow: "#ff9470"

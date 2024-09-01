@@ -1,25 +1,26 @@
-name: Pasque # by Gabriel Fontes (https://github.com/Misterio77)
-accent: '#8e7dc6'
-cursor: '#8e7dc6'
-background: '#271c3a'
-foreground: '#dedcdf'
+name: "Pasque" 
+author: "Gabriel Fontes (https://github.com/Misterio77)"
+accent: "#8e7dc6"
+cursor: "#8e7dc6"
+background: "#271c3a"
+foreground: "#dedcdf"
 details: darker
 terminal_colors:
   bright:
-    black: '#5d5766'
-    blue: '#bebcbf'
-    cyan: '#59325c'
-    green: '#100323'
-    magenta: '#edeaef'
-    red: '#918889'
-    white: '#bbaadd'
-    yellow: '#3e2d5c'
+    black: "#5d5766"
+    blue: "#bebcbf"
+    cyan: "#59325c"
+    green: "#100323"
+    magenta: "#edeaef"
+    red: "#918889"
+    white: "#bbaadd"
+    yellow: "#3e2d5c"
   normal:
-    black: '#271c3a'
-    blue: '#8e7dc6'
-    cyan: '#7263aa'
-    green: '#c6914b'
-    magenta: '#953b9d'
-    red: '#a92258'
-    white: '#dedcdf'
-    yellow: '#804ead'
+    black: "#271c3a"
+    blue: "#8e7dc6"
+    cyan: "#7263aa"
+    green: "#c6914b"
+    magenta: "#953b9d"
+    red: "#a92258"
+    white: "#dedcdf"
+    yellow: "#804ead"

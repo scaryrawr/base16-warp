@@ -1,25 +1,26 @@
-name: Silk Dark # by Gabriel Fontes (https://github.com/Misterio77)
-accent: '#46bddd'
-cursor: '#46bddd'
-background: '#0e3c46'
-foreground: '#c7dbdd'
+name: "Silk Dark" 
+author: "Gabriel Fontes (https://github.com/Misterio77)"
+accent: "#46bddd"
+cursor: "#46bddd"
+background: "#0e3c46"
+foreground: "#c7dbdd"
 details: darker
 terminal_colors:
   bright:
-    black: '#587073'
-    blue: '#9dc8cd'
-    cyan: '#9b647b'
-    green: '#1d494e'
-    magenta: '#cbf2f7'
-    red: '#fcab74'
-    white: '#d2faff'
-    yellow: '#2a5054'
+    black: "#587073"
+    blue: "#9dc8cd"
+    cyan: "#9b647b"
+    green: "#1d494e"
+    magenta: "#cbf2f7"
+    red: "#fcab74"
+    white: "#d2faff"
+    yellow: "#2a5054"
   normal:
-    black: '#0e3c46'
-    blue: '#46bddd'
-    cyan: '#3fb2b9'
-    green: '#73d8ad'
-    magenta: '#756b8a'
-    red: '#fb6953'
-    white: '#c7dbdd'
-    yellow: '#fce380'
+    black: "#0e3c46"
+    blue: "#46bddd"
+    cyan: "#3fb2b9"
+    green: "#73d8ad"
+    magenta: "#756b8a"
+    red: "#fb6953"
+    white: "#c7dbdd"
+    yellow: "#fce380"

@@ -1,25 +1,26 @@
-name: Oxocarbon Dark # by shaunsingh/IBM
-accent: '#42be65'
-cursor: '#42be65'
-background: '#161616'
-foreground: '#f2f4f8'
+name: "Oxocarbon Dark" 
+author: "shaunsingh/IBM"
+accent: "#42be65"
+cursor: "#42be65"
+background: "#161616"
+foreground: "#f2f4f8"
 details: darker
 terminal_colors:
   bright:
-    black: '#525252'
-    blue: '#dde1e6'
-    cyan: '#82cfff'
-    green: '#262626'
-    magenta: '#ffffff'
-    red: '#78a9ff'
-    white: '#08bdba'
-    yellow: '#393939'
+    black: "#525252"
+    blue: "#dde1e6"
+    cyan: "#82cfff"
+    green: "#262626"
+    magenta: "#ffffff"
+    red: "#78a9ff"
+    white: "#08bdba"
+    yellow: "#393939"
   normal:
-    black: '#161616'
-    blue: '#42be65'
-    cyan: '#ff7eb6'
-    green: '#33b1ff'
-    magenta: '#be95ff'
-    red: '#3ddbd9'
-    white: '#f2f4f8'
-    yellow: '#ee5396'
+    black: "#161616"
+    blue: "#42be65"
+    cyan: "#ff7eb6"
+    green: "#33b1ff"
+    magenta: "#be95ff"
+    red: "#3ddbd9"
+    white: "#f2f4f8"
+    yellow: "#ee5396"

@@ -1,25 +1,26 @@
-name: Blue Forest # by alonsodomin (https://github.com/alonsodomin)
-accent: '#a2cff5'
-cursor: '#a2cff5'
-background: '#141f2e'
-foreground: '#ffcc33'
+name: "Blue Forest" 
+author: "alonsodomin (https://github.com/alonsodomin)"
+accent: "#a2cff5"
+cursor: "#a2cff5"
+background: "#141f2e"
+foreground: "#ffcc33"
 details: darker
 terminal_colors:
   bright:
-    black: '#a0ffa0'
-    blue: '#1e5c1e'
-    cyan: '#e7e7e7'
-    green: '#1e5c1e'
-    magenta: '#91ccff'
-    red: '#ff8080'
-    white: '#375780'
-    yellow: '#273e5c'
+    black: "#a0ffa0"
+    blue: "#1e5c1e"
+    cyan: "#e7e7e7"
+    green: "#1e5c1e"
+    magenta: "#91ccff"
+    red: "#ff8080"
+    white: "#375780"
+    yellow: "#273e5c"
   normal:
-    black: '#141f2e'
-    blue: '#a2cff5'
-    cyan: '#80ff80'
-    green: '#80ff80'
-    magenta: '#0099ff'
-    red: '#fffab1'
-    white: '#ffcc33'
-    yellow: '#91ccff'
+    black: "#141f2e"
+    blue: "#a2cff5"
+    cyan: "#80ff80"
+    green: "#80ff80"
+    magenta: "#0099ff"
+    red: "#fffab1"
+    white: "#ffcc33"
+    yellow: "#91ccff"

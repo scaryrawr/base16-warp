@@ -1,25 +1,26 @@
-name: Atelier Seaside # by Bram de Haan (http://atelierbramdehaan.nl)
-accent: '#3d62f5'
-cursor: '#3d62f5'
-background: '#131513'
-foreground: '#8ca68c'
+name: "Atelier Seaside" 
+author: "Bram de Haan (http://atelierbramdehaan.nl)"
+accent: "#3d62f5"
+cursor: "#3d62f5"
+background: "#131513"
+foreground: "#8ca68c"
 details: darker
 terminal_colors:
   bright:
-    black: '#687d68'
-    blue: '#809980'
-    cyan: '#e619c3'
-    green: '#242924'
-    magenta: '#cfe8cf'
-    red: '#87711d'
-    white: '#f4fbf4'
-    yellow: '#5e6e5e'
+    black: "#687d68"
+    blue: "#809980"
+    cyan: "#e619c3"
+    green: "#242924"
+    magenta: "#cfe8cf"
+    red: "#87711d"
+    white: "#f4fbf4"
+    yellow: "#5e6e5e"
   normal:
-    black: '#131513'
-    blue: '#3d62f5'
-    cyan: '#1999b3'
-    green: '#29a329'
-    magenta: '#ad2bee'
-    red: '#e6193c'
-    white: '#8ca68c'
-    yellow: '#98981b'
+    black: "#131513"
+    blue: "#3d62f5"
+    cyan: "#1999b3"
+    green: "#29a329"
+    magenta: "#ad2bee"
+    red: "#e6193c"
+    white: "#8ca68c"
+    yellow: "#98981b"

@@ -1,25 +1,26 @@
-name: Colors # by mrmrs (http://clrs.cc)
-accent: '#0074d9'
-cursor: '#0074d9'
-background: '#111111'
-foreground: '#bbbbbb'
+name: "Colors" 
+author: "mrmrs (http://clrs.cc)"
+accent: "#0074d9"
+cursor: "#0074d9"
+background: "#111111"
+foreground: "#bbbbbb"
 details: darker
 terminal_colors:
   bright:
-    black: '#777777'
-    blue: '#999999'
-    cyan: '#85144b'
-    green: '#333333'
-    magenta: '#dddddd'
-    red: '#ff851b'
-    white: '#ffffff'
-    yellow: '#555555'
+    black: "#777777"
+    blue: "#999999"
+    cyan: "#85144b"
+    green: "#333333"
+    magenta: "#dddddd"
+    red: "#ff851b"
+    white: "#ffffff"
+    yellow: "#555555"
   normal:
-    black: '#111111'
-    blue: '#0074d9'
-    cyan: '#7fdbff'
-    green: '#2ecc40'
-    magenta: '#b10dc9'
-    red: '#ff4136'
-    white: '#bbbbbb'
-    yellow: '#ffdc00'
+    black: "#111111"
+    blue: "#0074d9"
+    cyan: "#7fdbff"
+    green: "#2ecc40"
+    magenta: "#b10dc9"
+    red: "#ff4136"
+    white: "#bbbbbb"
+    yellow: "#ffdc00"

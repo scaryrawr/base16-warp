@@ -1,25 +1,26 @@
-name: Dracula # by Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)
-accent: '#80bfff'
-cursor: '#80bfff'
-background: '#282a36'
-foreground: '#f8f8f2'
+name: "Dracula" 
+author: "Jamy Golden (http://github.com/JamyGolden), based on Dracula Theme (http://github.com/dracula)"
+accent: "#80bfff"
+cursor: "#80bfff"
+background: "#282a36"
+foreground: "#f8f8f2"
 details: darker
 terminal_colors:
   bright:
-    black: '#6272a4'
-    blue: '#9ea8c7'
-    cyan: '#bd93f9'
-    green: '#363447'
-    magenta: '#f0f1f4'
-    red: '#ffb86c'
-    white: '#ffffff'
-    yellow: '#44475a'
+    black: "#6272a4"
+    blue: "#9ea8c7"
+    cyan: "#bd93f9"
+    green: "#363447"
+    magenta: "#f0f1f4"
+    red: "#ffb86c"
+    white: "#ffffff"
+    yellow: "#44475a"
   normal:
-    black: '#282a36'
-    blue: '#80bfff'
-    cyan: '#8be9fd'
-    green: '#50fa7b'
-    magenta: '#ff79c6'
-    red: '#ff5555'
-    white: '#f8f8f2'
-    yellow: '#f1fa8c'
+    black: "#282a36"
+    blue: "#80bfff"
+    cyan: "#8be9fd"
+    green: "#50fa7b"
+    magenta: "#ff79c6"
+    red: "#ff5555"
+    white: "#f8f8f2"
+    yellow: "#f1fa8c"
