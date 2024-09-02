@@ -1,3 +1,9 @@
 default:
+  supported-systems: [base16]
+  extension: .yaml
+  output: themes
+
+base24:
+  supported-systems: [base24]
   extension: .yaml
   output: themes

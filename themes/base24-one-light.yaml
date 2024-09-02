@@ -1,0 +1,27 @@
+
+name: "Base24 One Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#cacace"
+cursor: "#cacace"
+background: "#e7e7e9"
+foreground: "#383a42"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#cacace"
+    blue: "#709af5"
+    cyan: "#01a7ef"
+    green: "#6db76c"
+    magenta: "#d02fcd"
+    red: "#ec2258"
+    white: "#090a0b"
+    yellow: "#febb2a"
+  normal:
+    black: "#dfdfe1"
+    blue: "#4078f2"
+    cyan: "#0184bc"
+    green: "#50a14f"
+    magenta: "#a626a4"
+    red: "#ca1243"
+    white: "#202227"
+    yellow: "#c18401"

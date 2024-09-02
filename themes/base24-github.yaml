@@ -1,0 +1,27 @@
+
+name: "Base24 Github" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#666666"
+cursor: "#666666"
+background: "#f4f4f4"
+foreground: "#d8d8d8"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#666666"
+    blue: "#2e6cba"
+    cyan: "#1cfafe"
+    green: "#87d5a2"
+    magenta: "#ffa29f"
+    red: "#de0000"
+    white: "#ffffff"
+    yellow: "#2e6cba"
+  normal:
+    black: "#3e3e3e"
+    blue: "#003e8a"
+    cyan: "#89d1ec"
+    green: "#07962a"
+    magenta: "#e94691"
+    red: "#970b16"
+    white: "#ffffff"
+    yellow: "#f8eec7"

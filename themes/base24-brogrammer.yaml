@@ -1,0 +1,27 @@
+
+name: "Base24 Brogrammer" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#2a3141"
+cursor: "#2a3141"
+background: "#131313"
+foreground: "#c1c8d7"
+details: darker
+terminal_colors:
+  bright:
+    black: "#2a3141"
+    blue: "#509bdc"
+    cyan: "#289af0"
+    green: "#1dd260"
+    magenta: "#524fb9"
+    red: "#de342e"
+    white: "#ffffff"
+    yellow: "#0f80d5"
+  normal:
+    black: "#1f1f1f"
+    blue: "#2a84d2"
+    cyan: "#0f80d5"
+    green: "#2cc55d"
+    magenta: "#4e59b7"
+    red: "#f71118"
+    white: "#e3e6ed"
+    yellow: "#ecb90f"

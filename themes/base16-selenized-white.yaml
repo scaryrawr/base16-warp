@@ -1,4 +1,4 @@
-name: "selenized-white" 
+name: "Base16 selenized-white" 
 author: "Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali"
 accent: "#0054cf"
 cursor: "#0054cf"

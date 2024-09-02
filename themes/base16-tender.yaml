@@ -1,4 +1,4 @@
-name: "tender" 
+name: "Base16 tender" 
 author: "Jacobo Tabernero (https://github/com/jacoborus/tender.vim)"
 accent: "#b3deef"
 cursor: "#b3deef"

@@ -1,0 +1,27 @@
+
+name: "Base24 Chalk" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#303030"
+cursor: "#303030"
+background: "#151515"
+foreground: "#d0d0d0"
+details: darker
+terminal_colors:
+  bright:
+    black: "#303030"
+    blue: "#6fc2ef"
+    cyan: "#12cfc0"
+    green: "#acc267"
+    magenta: "#e1a3ee"
+    red: "#fb9fb1"
+    white: "#f5f5f5"
+    yellow: "#ddb26f"
+  normal:
+    black: "#202020"
+    blue: "#5ab9ed"
+    cyan: "#10bcad"
+    green: "#a1bb54"
+    magenta: "#db8fea"
+    red: "#fa859c"
+    white: "#e0e0e0"
+    yellow: "#ea9971"

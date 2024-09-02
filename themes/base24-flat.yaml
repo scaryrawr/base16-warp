@@ -1,0 +1,27 @@
+
+name: "Base24 Flat" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#2e2e45"
+cursor: "#2e2e45"
+background: "#082845"
+foreground: "#8c939a"
+details: darker
+terminal_colors:
+  bright:
+    black: "#2e2e45"
+    blue: "#3c7dd2"
+    cyan: "#35b387"
+    green: "#32a548"
+    magenta: "#8230a7"
+    red: "#d4312e"
+    white: "#e7eced"
+    yellow: "#3c7dd2"
+  normal:
+    black: "#1d2845"
+    blue: "#3167ac"
+    cyan: "#2c9370"
+    green: "#2d9440"
+    magenta: "#781aa0"
+    red: "#a82320"
+    white: "#b0b6ba"
+    yellow: "#e58d11"

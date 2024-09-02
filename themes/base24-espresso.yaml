@@ -1,0 +1,27 @@
+
+name: "Base24 Espresso" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#535353"
+cursor: "#535353"
+background: "#262626"
+foreground: "#c7c7c5"
+details: darker
+terminal_colors:
+  bright:
+    black: "#535353"
+    blue: "#8ab7d9"
+    cyan: "#dcf3ff"
+    green: "#c2e075"
+    magenta: "#efb5f7"
+    red: "#f00c0c"
+    white: "#ffffff"
+    yellow: "#8ab7d9"
+  normal:
+    black: "#343434"
+    blue: "#6c99bb"
+    cyan: "#bed6ff"
+    green: "#a5c261"
+    magenta: "#d197d9"
+    red: "#d25151"
+    white: "#eeeeec"
+    yellow: "#ffc66d"
