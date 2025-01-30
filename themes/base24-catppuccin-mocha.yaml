@@ -1,0 +1,27 @@
+
+name: "Base24 Catppuccin Mocha" 
+author: "https://github.com/catppuccin/catppuccin"
+accent: "#313244"
+cursor: "#313244"
+background: "#1e1e2e"
+foreground: "#cdd6f4"
+details: darker
+terminal_colors:
+  bright:
+    black: "#313244"
+    blue: "#74c7ec"
+    cyan: "#89dceb"
+    green: "#a6e3a1"
+    magenta: "#f5c2e7"
+    red: "#eba0ac"
+    white: "#b4befe"
+    yellow: "#f9e2af"
+  normal:
+    black: "#181825"
+    blue: "#89b4fa"
+    cyan: "#94e2d5"
+    green: "#a6e3a1"
+    magenta: "#cba6f7"
+    red: "#f38ba8"
+    white: "#f5e0dc"
+    yellow: "#fab387"

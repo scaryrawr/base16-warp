@@ -1,0 +1,27 @@
+
+name: "Base24 Catppuccin Latte" 
+author: "https://github.com/catppuccin/catppuccin"
+accent: "#ccd0da"
+cursor: "#ccd0da"
+background: "#eff1f5"
+foreground: "#4c4f69"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#ccd0da"
+    blue: "#209fb5"
+    cyan: "#04a5e5"
+    green: "#40a02b"
+    magenta: "#ea76cb"
+    red: "#e64553"
+    white: "#7287fd"
+    yellow: "#df8e1d"
+  normal:
+    black: "#e6e9ef"
+    blue: "#1e66f5"
+    cyan: "#179299"
+    green: "#40a02b"
+    magenta: "#8839ef"
+    red: "#d20f39"
+    white: "#dc8a78"
+    yellow: "#fe640b"

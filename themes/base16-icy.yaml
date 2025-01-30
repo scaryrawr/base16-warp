@@ -4,7 +4,7 @@ accent: "#00bcd4"
 cursor: "#00bcd4"
 background: "#021012"
 foreground: "#095b67"
-details: lighter
+details: darker
 terminal_colors:
   bright:
     black: "#052e34"

@@ -1,0 +1,27 @@
+
+name: "Base24 Deep Oceanic Next" 
+author: "spearkkk (https://github.com/spearkkk)"
+accent: "#003640"
+cursor: "#003640"
+background: "#001c1f"
+foreground: "#d4e1e8"
+details: darker
+terminal_colors:
+  bright:
+    black: "#003640"
+    blue: "#5caeff"
+    cyan: "#4de3e3"
+    green: "#72e1a6"
+    magenta: "#b788ff"
+    red: "#ff6670"
+    white: "#f2f7f9"
+    yellow: "#f3b863"
+  normal:
+    black: "#002931"
+    blue: "#568ccf"
+    cyan: "#4fb7ae"
+    green: "#63b784"
+    magenta: "#8b66d6"
+    red: "#d3464d"
+    white: "#e0e9ef"
+    yellow: "#e37552"
