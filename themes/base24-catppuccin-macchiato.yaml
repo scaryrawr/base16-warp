@@ -1,0 +1,27 @@
+
+name: "Base24 Catppuccin Macchiato" 
+author: "https://github.com/catppuccin/catppuccin"
+accent: "#363a4f"
+cursor: "#363a4f"
+background: "#24273a"
+foreground: "#cad3f5"
+details: darker
+terminal_colors:
+  bright:
+    black: "#363a4f"
+    blue: "#7dc4e4"
+    cyan: "#91d7e3"
+    green: "#a6da95"
+    magenta: "#f5bde6"
+    red: "#ee99a0"
+    white: "#b7bdf8"
+    yellow: "#eed49f"
+  normal:
+    black: "#1e2030"
+    blue: "#8aadf4"
+    cyan: "#8bd5ca"
+    green: "#a6da95"
+    magenta: "#c6a0f6"
+    red: "#ed8796"
+    white: "#f4dbd6"
+    yellow: "#f5a97f"
