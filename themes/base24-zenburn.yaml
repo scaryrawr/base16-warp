@@ -1,0 +1,27 @@
+
+name: "Base24 Zenburn" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#709080"
+cursor: "#709080"
+background: "#3f3f3f"
+foreground: "#c1c9b9"
+details: darker
+terminal_colors:
+  bright:
+    black: "#709080"
+    blue: "#94bff3"
+    cyan: "#93e0e3"
+    green: "#c3bf9f"
+    magenta: "#ec93d3"
+    red: "#dca3a3"
+    white: "#ffffff"
+    yellow: "#94bff3"
+  normal:
+    black: "#4d4d4d"
+    blue: "#506070"
+    cyan: "#8cd0d3"
+    green: "#60b48a"
+    magenta: "#dc8cc3"
+    red: "#705050"
+    white: "#dcdccc"
+    yellow: "#f0dfaf"

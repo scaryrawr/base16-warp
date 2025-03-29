@@ -1,0 +1,27 @@
+
+name: "Base24 Medailion" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#5e5118"
+cursor: "#5e5118"
+background: "#1d1808"
+foreground: "#aea578"
+details: darker
+terminal_colors:
+  bright:
+    black: "#5e5118"
+    blue: "#abb8ff"
+    cyan: "#ffbb51"
+    green: "#b1c93a"
+    magenta: "#fe9fff"
+    red: "#ff9148"
+    white: "#fed597"
+    yellow: "#abb8ff"
+  normal:
+    black: "#000000"
+    blue: "#606baf"
+    cyan: "#906b25"
+    green: "#7c8a16"
+    magenta: "#8b5990"
+    red: "#b54c00"
+    white: "#c9c199"
+    yellow: "#d2bd25"

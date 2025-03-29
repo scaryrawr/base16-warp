@@ -1,0 +1,27 @@
+
+name: "Base24 Lab Fox" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#454545"
+cursor: "#454545"
+background: "#2e2e2e"
+foreground: "#cfd0d0"
+details: darker
+terminal_colors:
+  bright:
+    black: "#454545"
+    blue: "#db501f"
+    cyan: "#7d53e7"
+    green: "#52e9a8"
+    magenta: "#441090"
+    red: "#ff6517"
+    white: "#feffff"
+    yellow: "#db501f"
+  normal:
+    black: "#2e2e2e"
+    blue: "#db3b21"
+    cyan: "#6e49cb"
+    green: "#3eb383"
+    magenta: "#380d75"
+    red: "#fc6d26"
+    white: "#feffff"
+    yellow: "#fca121"

@@ -1,0 +1,26 @@
+name: "Base16 Valua" 
+author: "Nonetrix (https://github.com/nonetrix)"
+accent: "#4ed2d2"
+cursor: "#4ed2d2"
+background: "#131f1f"
+foreground: "#98c1a3"
+details: darker
+terminal_colors:
+  bright:
+    black: "#3e5c53"
+    blue: "#6d9877"
+    cyan: "#c05a8f"
+    green: "#213132"
+    magenta: "#a5cbb9"
+    red: "#e6b466"
+    white: "#aacbcb"
+    yellow: "#273d3c"
+  normal:
+    black: "#131f1f"
+    blue: "#4ed2d2"
+    cyan: "#76dbd2"
+    green: "#59d678"
+    magenta: "#a874e0"
+    red: "#d7586e"
+    white: "#98c1a3"
+    yellow: "#dfe754"

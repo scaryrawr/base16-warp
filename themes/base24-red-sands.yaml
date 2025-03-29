@@ -1,0 +1,27 @@
+
+name: "Base24 Red Sands" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#79241e"
+foreground: "#a1a1a1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#0071ae"
+    cyan: "#55ffff"
+    green: "#00bb00"
+    magenta: "#ff55ff"
+    red: "#bb0000"
+    white: "#ffffff"
+    yellow: "#0071ae"
+  normal:
+    black: "#000000"
+    blue: "#0071ff"
+    cyan: "#00bbbb"
+    green: "#00bb00"
+    magenta: "#bb00bb"
+    red: "#ff3f00"
+    white: "#bbbbbb"
+    yellow: "#e7b000"

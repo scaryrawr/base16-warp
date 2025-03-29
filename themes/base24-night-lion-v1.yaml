@@ -1,0 +1,27 @@
+
+name: "Base24 Night Lion V1" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#000000"
+foreground: "#a1a1a1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#5555ff"
+    cyan: "#55ffff"
+    green: "#55ff55"
+    magenta: "#ff55ff"
+    red: "#ff5555"
+    white: "#ffffff"
+    yellow: "#5555ff"
+  normal:
+    black: "#4c4c4c"
+    blue: "#266ad7"
+    cyan: "#00d9df"
+    green: "#5ede8f"
+    magenta: "#bb00bb"
+    red: "#bb0000"
+    white: "#bbbbbb"
+    yellow: "#f2f067"

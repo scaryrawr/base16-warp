@@ -1,0 +1,27 @@
+
+name: "Base24 Crayon Pony Fish" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#3c2a2e"
+cursor: "#3c2a2e"
+background: "#140607"
+foreground: "#5d484e"
+details: darker
+terminal_colors:
+  bright:
+    black: "#3c2a2e"
+    blue: "#cfc9ff"
+    cyan: "#ffceae"
+    green: "#8dff56"
+    magenta: "#fb6cb9"
+    red: "#c5245c"
+    white: "#af949d"
+    yellow: "#cfc9ff"
+  normal:
+    black: "#2a1a1c"
+    blue: "#8b87af"
+    cyan: "#e8a766"
+    green: "#579523"
+    magenta: "#682e50"
+    red: "#90002a"
+    white: "#685259"
+    yellow: "#aa301b"

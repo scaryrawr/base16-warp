@@ -1,0 +1,27 @@
+
+name: "Base24 Rippedcasts" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#666666"
+cursor: "#666666"
+background: "#2b2b2b"
+foreground: "#a8a8a8"
+details: darker
+terminal_colors:
+  bright:
+    black: "#666666"
+    blue: "#86bdc9"
+    cyan: "#8c9bc3"
+    green: "#bcee68"
+    magenta: "#e500e5"
+    red: "#eecbad"
+    white: "#e5e5e5"
+    yellow: "#86bdc9"
+  normal:
+    black: "#000000"
+    blue: "#75a5b0"
+    cyan: "#59647e"
+    green: "#a7ff60"
+    magenta: "#ff73fd"
+    red: "#cdaf95"
+    white: "#bfbfbf"
+    yellow: "#bfbb1f"

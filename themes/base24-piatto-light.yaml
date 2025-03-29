@@ -1,0 +1,27 @@
+
+name: "Base24 Piatto Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#3f3f3f"
+cursor: "#3f3f3f"
+background: "#ffffff"
+foreground: "#cfcfcf"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#3f3f3f"
+    blue: "#3c5ea8"
+    cyan: "#829429"
+    green: "#829429"
+    magenta: "#a454b2"
+    red: "#db3365"
+    white: "#f2f2f2"
+    yellow: "#3c5ea8"
+  normal:
+    black: "#414141"
+    blue: "#3c5ea8"
+    cyan: "#66781e"
+    green: "#66781e"
+    magenta: "#a454b2"
+    red: "#b23771"
+    white: "#ffffff"
+    yellow: "#cd6f34"

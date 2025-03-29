@@ -1,0 +1,27 @@
+
+name: "Base24 Japanesque" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#585a58"
+cursor: "#585a58"
+background: "#1d1d1d"
+foreground: "#d0d2ce"
+details: darker
+terminal_colors:
+  bright:
+    black: "#585a58"
+    blue: "#135879"
+    cyan: "#76bbca"
+    green: "#767e2b"
+    magenta: "#5f4190"
+    red: "#d18ea6"
+    white: "#b1b5ae"
+    yellow: "#135879"
+  normal:
+    black: "#343835"
+    blue: "#4c99d3"
+    cyan: "#389aac"
+    green: "#7bb75b"
+    magenta: "#a57fc4"
+    red: "#ce3e60"
+    white: "#f9faf6"
+    yellow: "#e8b32a"

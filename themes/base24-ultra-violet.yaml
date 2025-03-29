@@ -1,0 +1,27 @@
+
+name: "Base24 Ultra Violet" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#626566"
+cursor: "#626566"
+background: "#242728"
+foreground: "#c1c2c2"
+details: darker
+terminal_colors:
+  bright:
+    black: "#626566"
+    blue: "#7febff"
+    cyan: "#68fcd2"
+    green: "#deff8b"
+    magenta: "#e681ff"
+    red: "#fb57b4"
+    white: "#f9f9f4"
+    yellow: "#7febff"
+  normal:
+    black: "#232628"
+    blue: "#47dffb"
+    cyan: "#0effbb"
+    green: "#b5ff00"
+    magenta: "#d630ff"
+    red: "#ff0090"
+    white: "#e1e1e1"
+    yellow: "#fff727"

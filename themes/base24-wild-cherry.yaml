@@ -1,0 +1,27 @@
+
+name: "Base24 Wild Cherry" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#009cc9"
+cursor: "#009cc9"
+background: "#1f1626"
+foreground: "#bfe1d8"
+details: darker
+terminal_colors:
+  bright:
+    black: "#009cc9"
+    blue: "#2f8bb9"
+    cyan: "#ff919d"
+    green: "#f4dba5"
+    magenta: "#ae636b"
+    red: "#da6bab"
+    white: "#e4838d"
+    yellow: "#2f8bb9"
+  normal:
+    black: "#000506"
+    blue: "#883cdc"
+    cyan: "#c1b8b7"
+    green: "#2ab250"
+    magenta: "#ececec"
+    red: "#d94085"
+    white: "#fff8dd"
+    yellow: "#ffd16f"

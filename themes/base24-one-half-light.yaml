@@ -1,0 +1,27 @@
+
+name: "Base24 One Half Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#4f525d"
+cursor: "#4f525d"
+background: "#fafafa"
+foreground: "#cfd0d2"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#4f525d"
+    blue: "#61afef"
+    cyan: "#56b5c1"
+    green: "#98c379"
+    magenta: "#c577dd"
+    red: "#df6c75"
+    white: "#ffffff"
+    yellow: "#61afef"
+  normal:
+    black: "#373942"
+    blue: "#0084bc"
+    cyan: "#0996b3"
+    green: "#4fa14f"
+    magenta: "#a625a4"
+    red: "#e45649"
+    white: "#fafafa"
+    yellow: "#c08400"

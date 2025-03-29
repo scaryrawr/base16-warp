@@ -1,0 +1,27 @@
+
+name: "Base24 Oceanic Material" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#767676"
+cursor: "#767676"
+background: "#1c262b"
+foreground: "#989898"
+details: darker
+terminal_colors:
+  bright:
+    black: "#767676"
+    blue: "#53a4f3"
+    cyan: "#42c6d9"
+    green: "#70be71"
+    magenta: "#a94dbb"
+    red: "#dc5b60"
+    white: "#fffefe"
+    yellow: "#53a4f3"
+  normal:
+    black: "#000000"
+    blue: "#1d80ef"
+    cyan: "#16aec9"
+    green: "#3fa33f"
+    magenta: "#8800a0"
+    red: "#ee2a29"
+    white: "#a4a4a4"
+    yellow: "#fee92e"

@@ -1,0 +1,27 @@
+
+name: "Base24 Red Planet" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#676767"
+cursor: "#676767"
+background: "#222222"
+foreground: "#a4998c"
+details: darker
+terminal_colors:
+  bright:
+    black: "#676767"
+    blue: "#60827e"
+    cyan: "#38add8"
+    green: "#869985"
+    magenta: "#de4873"
+    red: "#b55242"
+    white: "#d6bfb8"
+    yellow: "#60827e"
+  normal:
+    black: "#201f1f"
+    blue: "#69809e"
+    cyan: "#5b8390"
+    green: "#728271"
+    magenta: "#896492"
+    red: "#8c3432"
+    white: "#b9aa99"
+    yellow: "#e8bf6a"

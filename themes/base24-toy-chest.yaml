@@ -1,0 +1,27 @@
+
+name: "Base24 Toy Chest" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#326889"
+cursor: "#326889"
+background: "#23364a"
+foreground: "#27b684"
+details: darker
+terminal_colors:
+  bright:
+    black: "#326889"
+    blue: "#33a5d9"
+    cyan: "#41c3ad"
+    green: "#30cf7b"
+    magenta: "#ad6bdc"
+    red: "#dd5943"
+    white: "#d4d4d4"
+    yellow: "#33a5d9"
+  normal:
+    black: "#2c3f57"
+    blue: "#325d96"
+    cyan: "#35a08f"
+    green: "#199171"
+    magenta: "#8a5ddb"
+    red: "#be2d26"
+    white: "#23d082"
+    yellow: "#da8e26"

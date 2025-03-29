@@ -1,0 +1,27 @@
+
+name: "Base24 Seafoam Pastel" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#8a8a8a"
+cursor: "#8a8a8a"
+background: "#243434"
+foreground: "#cacaca"
+details: darker
+terminal_colors:
+  bright:
+    black: "#8a8a8a"
+    blue: "#79c3cf"
+    cyan: "#ade0e0"
+    green: "#98d9aa"
+    magenta: "#d6b2a1"
+    red: "#cf9379"
+    white: "#e0e0e0"
+    yellow: "#79c3cf"
+  normal:
+    black: "#757575"
+    blue: "#4d7b82"
+    cyan: "#719393"
+    green: "#718c61"
+    magenta: "#8a7167"
+    red: "#825d4d"
+    white: "#e0e0e0"
+    yellow: "#ada16d"

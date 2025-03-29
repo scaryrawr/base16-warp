@@ -1,0 +1,27 @@
+
+name: "Base24 Dimmed Monokai" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#888987"
+cursor: "#888987"
+background: "#1e1e1e"
+foreground: "#acafac"
+details: darker
+terminal_colors:
+  bright:
+    black: "#888987"
+    blue: "#176ce3"
+    cyan: "#2d6f6c"
+    green: "#0e712e"
+    magenta: "#fb0067"
+    red: "#fb001e"
+    white: "#fcffb8"
+    yellow: "#176ce3"
+  normal:
+    black: "#3a3c43"
+    blue: "#4e76a1"
+    cyan: "#568ea3"
+    green: "#869a3a"
+    magenta: "#855b8d"
+    red: "#be3e48"
+    white: "#b8bcb9"
+    yellow: "#c4a535"

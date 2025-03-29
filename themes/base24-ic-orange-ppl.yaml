@@ -1,0 +1,27 @@
+
+name: "Base24 IC-Orange-PPL" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#6a4e29"
+cursor: "#6a4e29"
+background: "#262626"
+foreground: "#d9a971"
+details: darker
+terminal_colors:
+  bright:
+    black: "#6a4e29"
+    blue: "#ffbd54"
+    cyan: "#c59752"
+    green: "#f6ff3f"
+    magenta: "#fc874f"
+    red: "#ff8b67"
+    white: "#f9f9fe"
+    yellow: "#ffbd54"
+  normal:
+    black: "#000000"
+    blue: "#bd6c00"
+    cyan: "#f79400"
+    green: "#a3a900"
+    magenta: "#fb5d00"
+    red: "#c03900"
+    white: "#ffc88a"
+    yellow: "#caae00"

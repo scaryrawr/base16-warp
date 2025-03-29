@@ -1,0 +1,27 @@
+
+name: "Base24 ayu" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#323232"
+cursor: "#323232"
+background: "#0f1419"
+foreground: "#cbcbcb"
+details: darker
+terminal_colors:
+  bright:
+    black: "#323232"
+    blue: "#68d5ff"
+    cyan: "#c7fffd"
+    green: "#eafe84"
+    magenta: "#ffa3aa"
+    red: "#ff6565"
+    white: "#ffffff"
+    yellow: "#68d5ff"
+  normal:
+    black: "#000000"
+    blue: "#36a3d9"
+    cyan: "#95e6cb"
+    green: "#b8cc52"
+    magenta: "#f07178"
+    red: "#ff3333"
+    white: "#ffffff"
+    yellow: "#e7c547"

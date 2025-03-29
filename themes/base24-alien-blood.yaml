@@ -1,0 +1,27 @@
+
+name: "Base24 Alien Blood" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#3c4711"
+cursor: "#3c4711"
+background: "#0f160f"
+foreground: "#5a6f5c"
+details: darker
+terminal_colors:
+  bright:
+    black: "#3c4711"
+    blue: "#00a9df"
+    cyan: "#00dfc3"
+    green: "#18e000"
+    magenta: "#0058df"
+    red: "#df8008"
+    white: "#73f990"
+    yellow: "#00a9df"
+  normal:
+    black: "#112615"
+    blue: "#2f697f"
+    cyan: "#317f76"
+    green: "#2f7e25"
+    magenta: "#47577e"
+    red: "#7f2b26"
+    white: "#647d75"
+    yellow: "#707f23"

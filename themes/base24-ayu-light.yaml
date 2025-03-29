@@ -1,0 +1,27 @@
+
+name: "Base24 Ayu Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#323232"
+cursor: "#323232"
+background: "#fafafa"
+foreground: "#cbcbcb"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#323232"
+    blue: "#73d8ff"
+    cyan: "#7ff1cb"
+    green: "#b8e532"
+    magenta: "#ffa3aa"
+    red: "#ff6565"
+    white: "#ffffff"
+    yellow: "#73d8ff"
+  normal:
+    black: "#000000"
+    blue: "#41a6d9"
+    cyan: "#4dbf99"
+    green: "#86b300"
+    magenta: "#f07178"
+    red: "#ff3333"
+    white: "#ffffff"
+    yellow: "#f29718"

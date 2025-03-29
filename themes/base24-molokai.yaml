@@ -1,0 +1,27 @@
+
+name: "Base24 Molokai" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#121212"
+foreground: "#a1a1a1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#00afff"
+    cyan: "#50cdfe"
+    green: "#b0e05e"
+    magenta: "#af87ff"
+    red: "#f5669c"
+    white: "#ffffff"
+    yellow: "#00afff"
+  normal:
+    black: "#121212"
+    blue: "#0f7fcf"
+    cyan: "#42a7cf"
+    green: "#97e123"
+    magenta: "#8700ff"
+    red: "#fa2573"
+    white: "#bbbbbb"
+    yellow: "#dfd460"

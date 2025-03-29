@@ -1,0 +1,27 @@
+
+name: "Base24 Nocturnal Winter" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#7f7f7f"
+cursor: "#7f7f7f"
+background: "#0d0d17"
+foreground: "#dcdcdc"
+details: darker
+terminal_colors:
+  bright:
+    black: "#7f7f7f"
+    blue: "#6095fe"
+    cyan: "#0ae78d"
+    green: "#0ae78d"
+    magenta: "#ff78a2"
+    red: "#f16c85"
+    white: "#ffffff"
+    yellow: "#6095fe"
+  normal:
+    black: "#4c4c4c"
+    blue: "#3081df"
+    cyan: "#09c87a"
+    green: "#08cd7d"
+    magenta: "#fe2a6c"
+    red: "#f12d52"
+    white: "#fbfbfb"
+    yellow: "#f5f079"

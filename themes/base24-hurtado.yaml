@@ -1,0 +1,27 @@
+
+name: "Base24 Hurtado" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#252525"
+cursor: "#252525"
+background: "#000000"
+foreground: "#a1a1a1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#252525"
+    blue: "#89bdff"
+    cyan: "#85e9fe"
+    green: "#a5df55"
+    magenta: "#bf00c0"
+    red: "#d41c00"
+    white: "#dbdbdb"
+    yellow: "#89bdff"
+  normal:
+    black: "#575757"
+    blue: "#486387"
+    cyan: "#85e9fe"
+    green: "#a5df55"
+    magenta: "#fc5ef0"
+    red: "#ff1b00"
+    white: "#cbcbcb"
+    yellow: "#fbe74a"

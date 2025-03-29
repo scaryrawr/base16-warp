@@ -1,0 +1,27 @@
+
+name: "Base24 Builtin Pastel Dark" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#7c7c7c"
+cursor: "#7c7c7c"
+background: "#000000"
+foreground: "#d1d1d1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#7c7c7c"
+    blue: "#b5dcfe"
+    cyan: "#dfdffe"
+    green: "#ceffab"
+    magenta: "#ff9cfe"
+    red: "#ffb6b0"
+    white: "#ffffff"
+    yellow: "#b5dcfe"
+  normal:
+    black: "#4e4e4e"
+    blue: "#96cafd"
+    cyan: "#c6c4fd"
+    green: "#a7ff60"
+    magenta: "#ff73fd"
+    red: "#ff6b60"
+    white: "#eeeeee"
+    yellow: "#ffffb6"

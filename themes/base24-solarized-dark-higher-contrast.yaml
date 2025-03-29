@@ -1,0 +1,27 @@
+
+name: "Base24 Solarized Dark Higher Contrast" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#006388"
+cursor: "#006388"
+background: "#001e26"
+foreground: "#aec2ba"
+details: darker
+terminal_colors:
+  bright:
+    black: "#006388"
+    blue: "#178dc7"
+    cyan: "#00b29e"
+    green: "#50ee84"
+    magenta: "#e14d8e"
+    red: "#f4153b"
+    white: "#fcf4dc"
+    yellow: "#178dc7"
+  normal:
+    black: "#002731"
+    blue: "#2075c7"
+    cyan: "#259185"
+    green: "#6bbe6c"
+    magenta: "#c61b6e"
+    red: "#d01b24"
+    white: "#e9e2cb"
+    yellow: "#a57705"

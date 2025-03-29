@@ -1,0 +1,27 @@
+
+name: "Base24 Pandora" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#3e5548"
+cursor: "#3e5548"
+background: "#131d42"
+foreground: "#b8beba"
+details: darker
+terminal_colors:
+  bright:
+    black: "#3e5548"
+    blue: "#23d7d7"
+    cyan: "#00ede1"
+    green: "#74cd68"
+    magenta: "#ff37ff"
+    red: "#ff3242"
+    white: "#ffffff"
+    yellow: "#23d7d7"
+  normal:
+    black: "#000000"
+    blue: "#338f86"
+    cyan: "#23d7d7"
+    green: "#74af68"
+    magenta: "#9413e5"
+    red: "#ff4242"
+    white: "#e1e1e1"
+    yellow: "#ffad29"

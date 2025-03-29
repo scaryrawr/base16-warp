@@ -1,0 +1,27 @@
+
+name: "Base24 Later This Evening" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#444747"
+cursor: "#444747"
+background: "#212121"
+foreground: "#3e3f3f"
+details: darker
+terminal_colors:
+  bright:
+    black: "#444747"
+    blue: "#6599d5"
+    cyan: "#5fbfad"
+    green: "#aabb39"
+    magenta: "#aa52d5"
+    red: "#d3222e"
+    white: "#c0c2c2"
+    yellow: "#6599d5"
+  normal:
+    black: "#2b2b2b"
+    blue: "#a0b9d5"
+    cyan: "#91beb6"
+    green: "#afba66"
+    magenta: "#bf92d5"
+    red: "#d35a5f"
+    white: "#3b3c3c"
+    yellow: "#e5d289"

@@ -1,0 +1,27 @@
+
+name: "Base24 Sundried" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#4d4d47"
+cursor: "#4d4d47"
+background: "#1a1818"
+foreground: "#a9a9a7"
+details: darker
+terminal_colors:
+  bright:
+    black: "#4d4d47"
+    blue: "#7898f7"
+    cyan: "#fad384"
+    green: "#128c20"
+    magenta: "#fc89a0"
+    red: "#aa000c"
+    white: "#fffefe"
+    yellow: "#7898f7"
+  normal:
+    black: "#302b2a"
+    blue: "#485a98"
+    cyan: "#9c814e"
+    green: "#577644"
+    magenta: "#854551"
+    red: "#a6463d"
+    white: "#c8c8c8"
+    yellow: "#9c5f2a"

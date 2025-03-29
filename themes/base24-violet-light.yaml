@@ -1,0 +1,27 @@
+
+name: "Base24 Violet Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#45484b"
+cursor: "#45484b"
+background: "#fcf4dc"
+foreground: "#afaea9"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#45484b"
+    blue: "#2075c7"
+    cyan: "#259185"
+    green: "#728903"
+    magenta: "#c61b6e"
+    red: "#bd3612"
+    white: "#c8c5bd"
+    yellow: "#2075c7"
+  normal:
+    black: "#56595c"
+    blue: "#2e8bce"
+    cyan: "#32a198"
+    green: "#85981c"
+    magenta: "#d13a82"
+    red: "#c94c22"
+    white: "#d3d0c9"
+    yellow: "#b4881d"

@@ -1,0 +1,27 @@
+
+name: "Base24 Fish Tank" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#6c5a30"
+cursor: "#6c5a30"
+background: "#222436"
+foreground: "#ccc9c9"
+details: darker
+terminal_colors:
+  bright:
+    black: "#6c5a30"
+    blue: "#b1bdf9"
+    cyan: "#a4bc86"
+    green: "#daffa8"
+    magenta: "#fda4cc"
+    red: "#d94a8a"
+    white: "#f6ffec"
+    yellow: "#b1bdf9"
+  normal:
+    black: "#03063c"
+    blue: "#525fb8"
+    cyan: "#968662"
+    green: "#abf157"
+    magenta: "#976f81"
+    red: "#c60049"
+    white: "#eceffc"
+    yellow: "#fdcd5e"

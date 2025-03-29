@@ -1,0 +1,27 @@
+
+name: "Base24 Jackie Brown" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#666666"
+cursor: "#666666"
+background: "#2c1c15"
+foreground: "#a8a8a8"
+details: darker
+terminal_colors:
+  bright:
+    black: "#666666"
+    blue: "#0000ff"
+    cyan: "#00e5e5"
+    green: "#86a83e"
+    magenta: "#e500e5"
+    red: "#e50000"
+    white: "#e5e5e5"
+    yellow: "#0000ff"
+  normal:
+    black: "#2c1d16"
+    blue: "#246db2"
+    cyan: "#00acee"
+    green: "#2baf2b"
+    magenta: "#cf5ec0"
+    red: "#ef5734"
+    white: "#bfbfbf"
+    yellow: "#bdbe00"

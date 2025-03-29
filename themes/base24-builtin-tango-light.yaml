@@ -1,0 +1,27 @@
+
+name: "Base24 Builtin Tango Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#545753"
+cursor: "#545753"
+background: "#ffffff"
+foreground: "#b3b7b0"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#545753"
+    blue: "#719ecf"
+    cyan: "#34e2e2"
+    green: "#8ae234"
+    magenta: "#ad7ea7"
+    red: "#ef2828"
+    white: "#ededec"
+    yellow: "#719ecf"
+  normal:
+    black: "#000000"
+    blue: "#3464a4"
+    cyan: "#05989a"
+    green: "#4e9a05"
+    magenta: "#74507a"
+    red: "#cc0000"
+    white: "#d3d7cf"
+    yellow: "#c4a000"

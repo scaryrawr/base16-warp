@@ -1,0 +1,27 @@
+
+name: "Base24 Spiderman" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#505354"
+cursor: "#505354"
+background: "#1b1d1e"
+foreground: "#d3d3cd"
+details: darker
+terminal_colors:
+  bright:
+    black: "#505354"
+    blue: "#1d4fff"
+    cyan: "#6083ff"
+    green: "#ff3238"
+    magenta: "#737bff"
+    red: "#ff0325"
+    white: "#fefff9"
+    yellow: "#1d4fff"
+  normal:
+    black: "#1b1d1e"
+    blue: "#2b3fff"
+    cyan: "#3255ff"
+    green: "#e22828"
+    magenta: "#2435db"
+    red: "#e60712"
+    white: "#fffef6"
+    yellow: "#e24655"

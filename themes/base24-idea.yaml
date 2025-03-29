@@ -1,0 +1,27 @@
+
+name: "Base24 Idea" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#fffefe"
+cursor: "#fffefe"
+background: "#202020"
+foreground: "#515151"
+details: darker
+terminal_colors:
+  bright:
+    black: "#fffefe"
+    blue: "#6c9bed"
+    cyan: "#248886"
+    green: "#98b61b"
+    magenta: "#fc7efe"
+    red: "#fc6f72"
+    white: "#171717"
+    yellow: "#6c9bed"
+  normal:
+    black: "#acacac"
+    blue: "#437ee6"
+    cyan: "#248886"
+    green: "#98b61b"
+    magenta: "#9d73b0"
+    red: "#fb5255"
+    white: "#171717"
+    yellow: "#ccb343"

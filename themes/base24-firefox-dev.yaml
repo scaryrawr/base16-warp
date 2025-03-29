@@ -1,0 +1,27 @@
+
+name: "Base24 Firefox Dev" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#001e26"
+cursor: "#001e26"
+background: "#0e1011"
+foreground: "#a5acae"
+details: darker
+terminal_colors:
+  bright:
+    black: "#001e26"
+    blue: "#006fc0"
+    cyan: "#005794"
+    green: "#1d9000"
+    magenta: "#a200da"
+    red: "#e1003f"
+    white: "#e2e2e2"
+    yellow: "#006fc0"
+  normal:
+    black: "#002731"
+    blue: "#359ddf"
+    cyan: "#4b73a2"
+    green: "#5eb83c"
+    magenta: "#d75cff"
+    red: "#e63853"
+    white: "#dcdcdc"
+    yellow: "#a57705"

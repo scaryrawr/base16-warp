@@ -1,0 +1,27 @@
+
+name: "Base24 Square" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#141414"
+cursor: "#141414"
+background: "#1a1a1a"
+foreground: "#bababa"
+details: darker
+terminal_colors:
+  bright:
+    black: "#141414"
+    blue: "#b6defb"
+    cyan: "#d7d9fc"
+    green: "#c3f786"
+    magenta: "#ad7fa8"
+    red: "#f99286"
+    white: "#e2e2e2"
+    yellow: "#b6defb"
+  normal:
+    black: "#050505"
+    blue: "#a9cdeb"
+    cyan: "#c9caec"
+    green: "#b6377d"
+    magenta: "#75507b"
+    red: "#e9897c"
+    white: "#f2f2f2"
+    yellow: "#ecebbe"

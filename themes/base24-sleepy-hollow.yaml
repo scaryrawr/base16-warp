@@ -1,0 +1,27 @@
+
+name: "Base24 Sleepy Hollow" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#4e4b60"
+cursor: "#4e4b60"
+background: "#121213"
+foreground: "#968684"
+details: darker
+terminal_colors:
+  bright:
+    black: "#4e4b60"
+    blue: "#8085ef"
+    cyan: "#a4dbe7"
+    green: "#d6b04e"
+    magenta: "#e1c2ba"
+    red: "#d9443e"
+    white: "#d1c7a9"
+    yellow: "#8085ef"
+  normal:
+    black: "#572000"
+    blue: "#5e62b4"
+    cyan: "#8eaea9"
+    green: "#90773e"
+    magenta: "#a07c7b"
+    red: "#b93934"
+    white: "#af9a91"
+    yellow: "#b45600"

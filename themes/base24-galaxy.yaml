@@ -1,0 +1,27 @@
+
+name: "Base24 Galaxy" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#1c2836"
+foreground: "#a1a1a1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#589cf5"
+    cyan: "#3978bb"
+    green: "#34bb99"
+    magenta: "#e75598"
+    red: "#fa8b8e"
+    white: "#ffffff"
+    yellow: "#589cf5"
+  normal:
+    black: "#000000"
+    blue: "#589cf5"
+    cyan: "#1e9ee6"
+    green: "#20af89"
+    magenta: "#934d95"
+    red: "#f9555f"
+    white: "#bbbbbb"
+    yellow: "#fdf029"

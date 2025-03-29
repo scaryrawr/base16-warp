@@ -1,0 +1,27 @@
+
+name: "Base24 Royal" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#312d3c"
+cursor: "#312d3c"
+background: "#100814"
+foreground: "#49425a"
+details: darker
+terminal_colors:
+  bright:
+    black: "#312d3c"
+    blue: "#8fb9f9"
+    cyan: "#abd3eb"
+    green: "#2cd845"
+    magenta: "#a479e2"
+    red: "#d4346c"
+    white: "#9d8bbd"
+    yellow: "#8fb9f9"
+  normal:
+    black: "#241f2a"
+    blue: "#6480af"
+    cyan: "#8aaabd"
+    green: "#23801c"
+    magenta: "#664d96"
+    red: "#90274b"
+    white: "#514965"
+    yellow: "#b49d27"

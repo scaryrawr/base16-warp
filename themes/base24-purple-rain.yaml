@@ -1,0 +1,27 @@
+
+name: "Base24 Purple Rain" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#20084a"
+foreground: "#d3d4d4"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#00a5ff"
+    cyan: "#74fcf3"
+    green: "#b8e36d"
+    magenta: "#ab7aef"
+    red: "#ff4250"
+    white: "#feffff"
+    yellow: "#00a5ff"
+  normal:
+    black: "#000000"
+    blue: "#00a1f9"
+    cyan: "#00ddef"
+    green: "#9ae204"
+    magenta: "#805bb5"
+    red: "#ff260d"
+    white: "#feffff"
+    yellow: "#ffc400"

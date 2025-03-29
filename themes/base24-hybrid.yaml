@@ -1,0 +1,27 @@
+
+name: "Base24 Hybrid" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#1d1e21"
+cursor: "#1d1e21"
+background: "#161718"
+foreground: "#8f9190"
+details: darker
+terminal_colors:
+  bright:
+    black: "#1d1e21"
+    blue: "#4b6b88"
+    cyan: "#4d7b73"
+    green: "#788331"
+    magenta: "#6e4f79"
+    red: "#8c2d32"
+    white: "#5a6169"
+    yellow: "#4b6b88"
+  normal:
+    black: "#2a2e33"
+    blue: "#6d90b0"
+    cyan: "#7fbeb3"
+    green: "#b3be5a"
+    magenta: "#a07eab"
+    red: "#b74d50"
+    white: "#b5b8b6"
+    yellow: "#e3b55e"

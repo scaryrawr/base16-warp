@@ -1,0 +1,27 @@
+
+name: "Base24 Spacedust" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#674c31"
+cursor: "#674c31"
+background: "#0a1e24"
+foreground: "#cdc7a6"
+details: darker
+terminal_colors:
+  bright:
+    black: "#674c31"
+    blue: "#67a0cd"
+    cyan: "#83a6b3"
+    green: "#adcab8"
+    magenta: "#ff8a39"
+    red: "#ff8a39"
+    white: "#fefff0"
+    yellow: "#67a0cd"
+  normal:
+    black: "#6e5246"
+    blue: "#0e548b"
+    cyan: "#06afc7"
+    green: "#5cab96"
+    magenta: "#e35a00"
+    red: "#e35a00"
+    white: "#f0f1ce"
+    yellow: "#e3cd7b"

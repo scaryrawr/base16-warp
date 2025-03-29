@@ -1,0 +1,27 @@
+
+name: "Base24 Mathias" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#000000"
+foreground: "#cacaca"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#5555ff"
+    cyan: "#55ffff"
+    green: "#55ff55"
+    magenta: "#ff55ff"
+    red: "#ff5555"
+    white: "#ffffff"
+    yellow: "#5555ff"
+  normal:
+    black: "#000000"
+    blue: "#c48dff"
+    cyan: "#67d9f0"
+    green: "#a6e32d"
+    magenta: "#fa2573"
+    red: "#e52222"
+    white: "#f2f2f2"
+    yellow: "#fc951e"

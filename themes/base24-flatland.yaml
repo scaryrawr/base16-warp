@@ -1,0 +1,27 @@
+
+name: "Base24 Flatland" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#1c1d19"
+cursor: "#1c1d19"
+background: "#1c1e20"
+foreground: "#c5c6c4"
+details: darker
+terminal_colors:
+  bright:
+    black: "#1c1d19"
+    blue: "#61b8d0"
+    cyan: "#d53864"
+    green: "#a7d32c"
+    magenta: "#695abb"
+    red: "#d12a24"
+    white: "#fefffe"
+    yellow: "#61b8d0"
+  normal:
+    black: "#1c1d19"
+    blue: "#4f96be"
+    cyan: "#d53864"
+    green: "#9ed264"
+    magenta: "#695abb"
+    red: "#f18238"
+    white: "#fefffe"
+    yellow: "#f3ef6d"

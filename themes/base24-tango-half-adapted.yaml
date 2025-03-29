@@ -1,0 +1,27 @@
+
+name: "Base24 Tango Half Adapted" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#797c75"
+cursor: "#797c75"
+background: "#fffefe"
+foreground: "#c6cac1"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#797c75"
+    blue: "#75beff"
+    cyan: "#00f6fa"
+    green: "#8af600"
+    magenta: "#d798d0"
+    red: "#ff0012"
+    white: "#f3f3f1"
+    yellow: "#75beff"
+  normal:
+    black: "#000000"
+    blue: "#008df5"
+    cyan: "#00bdc3"
+    green: "#4cc300"
+    magenta: "#a86bb2"
+    red: "#ff0000"
+    white: "#e0e4db"
+    yellow: "#e2bf00"

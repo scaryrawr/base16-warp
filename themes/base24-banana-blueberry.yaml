@@ -1,0 +1,27 @@
+
+name: "Base24 Banana Blueberry" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#485161"
+cursor: "#485161"
+background: "#191322"
+foreground: "#c6c9cd"
+details: darker
+terminal_colors:
+  bright:
+    black: "#485161"
+    blue: "#91fff3"
+    cyan: "#bcf2fe"
+    green: "#97c378"
+    magenta: "#da70d5"
+    red: "#fd9ea1"
+    white: "#feffff"
+    yellow: "#91fff3"
+  normal:
+    black: "#16141e"
+    blue: "#22e8df"
+    cyan: "#55b6c1"
+    green: "#00bc9b"
+    magenta: "#dc3969"
+    red: "#ff6a7e"
+    white: "#f1f1f1"
+    yellow: "#e5c62f"

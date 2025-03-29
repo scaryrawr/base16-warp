@@ -1,0 +1,27 @@
+
+name: "Base24 Shades Of Purple" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#676767"
+cursor: "#676767"
+background: "#1e1d40"
+foreground: "#afafaf"
+details: darker
+terminal_colors:
+  bright:
+    black: "#676767"
+    blue: "#6871ff"
+    cyan: "#79e7fa"
+    green: "#42d425"
+    magenta: "#ff76ff"
+    red: "#f9291b"
+    white: "#feffff"
+    yellow: "#6871ff"
+  normal:
+    black: "#000000"
+    blue: "#6943ff"
+    cyan: "#00c5c7"
+    green: "#3ad900"
+    magenta: "#ff2b70"
+    red: "#d90429"
+    white: "#c7c7c7"
+    yellow: "#ffe700"

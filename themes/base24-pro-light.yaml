@@ -1,0 +1,27 @@
+
+name: "Base24 Pro Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#9f9f9f"
+cursor: "#9f9f9f"
+background: "#feffff"
+foreground: "#cccccc"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#9f9f9f"
+    blue: "#0081ff"
+    cyan: "#60f6f8"
+    green: "#61ee56"
+    magenta: "#ff7dfe"
+    red: "#ff6640"
+    white: "#f1f1f1"
+    yellow: "#0081ff"
+  normal:
+    black: "#000000"
+    blue: "#3a75ff"
+    cyan: "#4ed1dd"
+    green: "#50d048"
+    magenta: "#ec65e7"
+    red: "#e4492b"
+    white: "#dcdcdc"
+    yellow: "#c5c340"

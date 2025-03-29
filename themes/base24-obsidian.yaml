@@ -1,0 +1,27 @@
+
+name: "Base24 Obsidian" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#273032"
+foreground: "#a1a1a1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#a0d6ff"
+    cyan: "#55ffff"
+    green: "#92c763"
+    magenta: "#ff55ff"
+    red: "#ff0003"
+    white: "#ffffff"
+    yellow: "#a0d6ff"
+  normal:
+    black: "#000000"
+    blue: "#399bda"
+    cyan: "#00bbbb"
+    green: "#00bb00"
+    magenta: "#bb00bb"
+    red: "#a50001"
+    white: "#bbbbbb"
+    yellow: "#fecc22"

@@ -1,0 +1,27 @@
+
+name: "Base24 Warm Neon" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#fdfcfc"
+cursor: "#fdfcfc"
+background: "#3f3f3f"
+foreground: "#dcc9ba"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#fdfcfc"
+    blue: "#7a90d5"
+    cyan: "#5ed1e4"
+    green: "#9bc08f"
+    magenta: "#f674b9"
+    red: "#e86f71"
+    white: "#d8c8bb"
+    yellow: "#7a90d5"
+  normal:
+    black: "#000000"
+    blue: "#4260c5"
+    cyan: "#29bad3"
+    green: "#38b139"
+    magenta: "#f81ffb"
+    red: "#e24345"
+    white: "#d0b8a3"
+    yellow: "#dae145"

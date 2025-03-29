@@ -1,0 +1,27 @@
+
+name: "Base24 Bluloco Dark" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#60697a"
+cursor: "#60697a"
+background: "#1e2027"
+foreground: "#b1bac9"
+details: darker
+terminal_colors:
+  bright:
+    black: "#60697a"
+    blue: "#189ffd"
+    cyan: "#4fabad"
+    green: "#37bc58"
+    magenta: "#fb57f6"
+    red: "#fb496d"
+    white: "#fefefe"
+    yellow: "#189ffd"
+  normal:
+    black: "#494f5c"
+    blue: "#285afe"
+    cyan: "#366f99"
+    green: "#23974a"
+    magenta: "#8c62fd"
+    red: "#f71041"
+    white: "#ccd5e4"
+    yellow: "#fc7e57"

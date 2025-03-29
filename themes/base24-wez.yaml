@@ -1,0 +1,27 @@
+
+name: "Base24 Wez" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#000000"
+foreground: "#aeaeae"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#5555ff"
+    cyan: "#55ffff"
+    green: "#55ff55"
+    magenta: "#ff55ff"
+    red: "#ff5555"
+    white: "#ffffff"
+    yellow: "#5555ff"
+  normal:
+    black: "#000000"
+    blue: "#5455cb"
+    cyan: "#7acaca"
+    green: "#55cc55"
+    magenta: "#cc55cc"
+    red: "#cc5555"
+    white: "#cccccc"
+    yellow: "#cdcd55"

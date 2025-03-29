@@ -1,0 +1,27 @@
+
+name: "Base24 Purplepeter" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#100b22"
+cursor: "#100b22"
+background: "#2a1a4a"
+foreground: "#c38e69"
+details: darker
+terminal_colors:
+  bright:
+    black: "#100b22"
+    blue: "#79daed"
+    cyan: "#a0a0d6"
+    green: "#b4bd8e"
+    magenta: "#b991d4"
+    red: "#f89f92"
+    white: "#b9aed3"
+    yellow: "#79daed"
+  normal:
+    black: "#0a041f"
+    blue: "#66d9ef"
+    cyan: "#b98cff"
+    green: "#98b481"
+    magenta: "#e68ecd"
+    red: "#ff786c"
+    white: "#ffba81"
+    yellow: "#efdeab"
