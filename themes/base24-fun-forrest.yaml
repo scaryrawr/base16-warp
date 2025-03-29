@@ -1,0 +1,27 @@
+
+name: "Base24 Fun Forrest" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#7e6954"
+cursor: "#7e6954"
+background: "#241200"
+foreground: "#c5ab60"
+details: darker
+terminal_colors:
+  bright:
+    black: "#7e6954"
+    blue: "#7cc9ce"
+    cyan: "#e6a96b"
+    green: "#bfc659"
+    magenta: "#d16349"
+    red: "#e4591b"
+    white: "#ffe9a3"
+    yellow: "#7cc9ce"
+  normal:
+    black: "#000000"
+    blue: "#4698a2"
+    cyan: "#d98112"
+    green: "#909b00"
+    magenta: "#8c4231"
+    red: "#d5252b"
+    white: "#ddc165"
+    yellow: "#bd8a13"

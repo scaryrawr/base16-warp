@@ -1,0 +1,27 @@
+
+name: "Base24 Elementary" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#4a4a4a"
+cursor: "#4a4a4a"
+background: "#181818"
+foreground: "#c5c5c5"
+details: darker
+terminal_colors:
+  bright:
+    black: "#4a4a4a"
+    blue: "#0855fe"
+    cyan: "#3ea7fc"
+    green: "#6ac118"
+    magenta: "#fb004f"
+    red: "#fb1b18"
+    white: "#8c00eb"
+    yellow: "#0855fe"
+  normal:
+    black: "#242424"
+    blue: "#053a8c"
+    cyan: "#2594e0"
+    green: "#59a413"
+    magenta: "#e40038"
+    red: "#d61b15"
+    white: "#eeeeee"
+    yellow: "#fdb40b"

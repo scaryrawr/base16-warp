@@ -1,0 +1,27 @@
+
+name: "Base24 Soft Server" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#666c6b"
+cursor: "#666c6b"
+background: "#242626"
+foreground: "#8c9594"
+details: darker
+terminal_colors:
+  bright:
+    black: "#666c6b"
+    blue: "#62b1df"
+    cyan: "#64e39c"
+    green: "#bfde54"
+    magenta: "#5f6ede"
+    red: "#dc5b5f"
+    white: "#d1dfde"
+    yellow: "#62b1df"
+  normal:
+    black: "#000000"
+    blue: "#6a8fa3"
+    cyan: "#6ba48f"
+    green: "#99a569"
+    magenta: "#6971a3"
+    red: "#a16869"
+    white: "#99a3a2"
+    yellow: "#a29069"

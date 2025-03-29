@@ -1,0 +1,27 @@
+
+name: "Base24 Sea Shells" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#424b52"
+cursor: "#424b52"
+background: "#08131a"
+foreground: "#b79c7e"
+details: darker
+terminal_colors:
+  bright:
+    black: "#424b52"
+    blue: "#1bbcdd"
+    cyan: "#86abb3"
+    green: "#618c98"
+    magenta: "#bbe3ee"
+    red: "#d38677"
+    white: "#fee3cd"
+    yellow: "#1bbcdd"
+  normal:
+    black: "#17384c"
+    blue: "#1e4950"
+    cyan: "#50a3b5"
+    green: "#027c9b"
+    magenta: "#68d3f1"
+    red: "#d15023"
+    white: "#deb88d"
+    yellow: "#fca02f"

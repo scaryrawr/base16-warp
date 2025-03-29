@@ -1,0 +1,27 @@
+
+name: "Base24 Rebecca" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#666699"
+cursor: "#666699"
+background: "#292a44"
+foreground: "#c3c3d4"
+details: darker
+terminal_colors:
+  bright:
+    black: "#666699"
+    blue: "#69bffa"
+    cyan: "#8bfce1"
+    green: "#00e9c0"
+    magenta: "#c07ff8"
+    red: "#ff91cd"
+    white: "#f3f2f8"
+    yellow: "#69bffa"
+  normal:
+    black: "#12131d"
+    blue: "#7aa5ff"
+    cyan: "#56d3c1"
+    green: "#04dbb4"
+    magenta: "#be9bf8"
+    red: "#dd7655"
+    white: "#e3e2e8"
+    yellow: "#f2e7b7"

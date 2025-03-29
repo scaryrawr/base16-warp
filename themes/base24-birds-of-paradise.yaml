@@ -1,0 +1,27 @@
+
+name: "Base24 Birds Of Paradise" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#9a6b49"
+cursor: "#9a6b49"
+background: "#2a1e1d"
+foreground: "#cdbe9b"
+details: darker
+terminal_colors:
+  bright:
+    black: "#9a6b49"
+    blue: "#b8d3ed"
+    cyan: "#92ced6"
+    green: "#94d7ba"
+    magenta: "#d09dca"
+    red: "#e84526"
+    white: "#fff9d4"
+    yellow: "#b8d3ed"
+  normal:
+    black: "#573d25"
+    blue: "#5a86ac"
+    cyan: "#74a5ac"
+    green: "#6ba08a"
+    magenta: "#ab80a6"
+    red: "#be2d26"
+    white: "#dfdab7"
+    yellow: "#e99c29"

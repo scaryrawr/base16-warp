@@ -1,0 +1,27 @@
+
+name: "Base24 Laser" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#8e8e8e"
+cursor: "#8e8e8e"
+background: "#030d18"
+foreground: "#d8d8d8"
+details: darker
+terminal_colors:
+  bright:
+    black: "#8e8e8e"
+    blue: "#f92883"
+    cyan: "#e5e6fe"
+    green: "#d6fcb9"
+    magenta: "#ffb1fe"
+    red: "#ffc4bd"
+    white: "#feffff"
+    yellow: "#f92883"
+  normal:
+    black: "#616161"
+    blue: "#fed300"
+    cyan: "#d0d1fe"
+    green: "#b4fa72"
+    magenta: "#ff8ffd"
+    red: "#ff8272"
+    white: "#f1f1f1"
+    yellow: "#09b4bd"

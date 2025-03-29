@@ -1,0 +1,27 @@
+
+name: "Base24 Fideloper" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#092027"
+cursor: "#092027"
+background: "#282f32"
+foreground: "#b1b1a3"
+details: darker
+terminal_colors:
+  bright:
+    black: "#092027"
+    blue: "#7c84c4"
+    cyan: "#81908f"
+    green: "#d35f5a"
+    magenta: "#5b5db2"
+    red: "#d35f5a"
+    white: "#fcf4de"
+    yellow: "#7c84c4"
+  normal:
+    black: "#282f32"
+    blue: "#2e78c1"
+    cyan: "#309185"
+    green: "#edb7ab"
+    magenta: "#c0226e"
+    red: "#ca1d2c"
+    white: "#e9e2cd"
+    yellow: "#b7aa9a"

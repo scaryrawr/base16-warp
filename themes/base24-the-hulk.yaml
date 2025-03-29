@@ -1,0 +1,27 @@
+
+name: "Base24 The Hulk" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#505354"
+cursor: "#505354"
+background: "#1b1d1e"
+foreground: "#b6b6b1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#505354"
+    blue: "#4f6a95"
+    cyan: "#3f85a5"
+    green: "#48ff76"
+    magenta: "#72579d"
+    red: "#8dff2a"
+    white: "#e5e5e0"
+    yellow: "#4f6a95"
+  normal:
+    black: "#1b1d1e"
+    blue: "#2424f4"
+    cyan: "#378ca9"
+    green: "#13ce2f"
+    magenta: "#641e73"
+    red: "#259d1a"
+    white: "#d8d8d0"
+    yellow: "#62e456"

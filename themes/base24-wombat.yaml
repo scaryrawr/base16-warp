@@ -1,0 +1,27 @@
+
+name: "Base24 Wombat" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#313131"
+cursor: "#313131"
+background: "#171717"
+foreground: "#b2afa6"
+details: darker
+terminal_colors:
+  bright:
+    black: "#313131"
+    blue: "#a5c7ff"
+    cyan: "#b6fff9"
+    green: "#dcf88f"
+    magenta: "#ddaaff"
+    red: "#f58b7f"
+    white: "#fefffe"
+    yellow: "#a5c7ff"
+  normal:
+    black: "#000000"
+    blue: "#5da9f6"
+    cyan: "#82fff6"
+    green: "#b1e869"
+    magenta: "#e86aff"
+    red: "#ff605a"
+    white: "#ded9ce"
+    yellow: "#ead89c"

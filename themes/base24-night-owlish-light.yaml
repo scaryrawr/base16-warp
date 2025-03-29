@@ -1,0 +1,27 @@
+
+name: "Base24 Night Owlish Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#7a8181"
+cursor: "#7a8181"
+background: "#ffffff"
+foreground: "#7a8181"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#7a8181"
+    blue: "#5ca7e4"
+    cyan: "#00c990"
+    green: "#49d0c5"
+    magenta: "#697098"
+    red: "#f76e6e"
+    white: "#989fb1"
+    yellow: "#5ca7e4"
+  normal:
+    black: "#011627"
+    blue: "#4876d6"
+    cyan: "#08916a"
+    green: "#2aa298"
+    magenta: "#403f53"
+    red: "#d3423e"
+    white: "#7a8181"
+    yellow: "#daaa01"

@@ -1,0 +1,27 @@
+
+name: "Base24 Solarized Dark Patched" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#465a61"
+cursor: "#465a61"
+background: "#001e26"
+foreground: "#c0c0b0"
+details: darker
+terminal_colors:
+  bright:
+    black: "#465a61"
+    blue: "#708183"
+    cyan: "#81908f"
+    green: "#465a61"
+    magenta: "#5856b9"
+    red: "#bd3612"
+    white: "#fcf4dc"
+    yellow: "#708183"
+  normal:
+    black: "#002731"
+    blue: "#2075c7"
+    cyan: "#259185"
+    green: "#728905"
+    magenta: "#c61b6e"
+    red: "#d01b24"
+    white: "#e9e2cb"
+    yellow: "#a57705"

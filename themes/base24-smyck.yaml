@@ -1,0 +1,27 @@
+
+name: "Base24 Smyck" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#7a7a7a"
+cursor: "#7a7a7a"
+background: "#1b1b1b"
+foreground: "#969696"
+details: darker
+terminal_colors:
+  bright:
+    black: "#7a7a7a"
+    blue: "#8dcff0"
+    cyan: "#69d9cf"
+    green: "#c4f036"
+    magenta: "#f799ff"
+    red: "#d6837b"
+    white: "#f7f7f7"
+    yellow: "#8dcff0"
+  normal:
+    black: "#000000"
+    blue: "#62a3c4"
+    cyan: "#207383"
+    green: "#7da900"
+    magenta: "#b98acc"
+    red: "#b74131"
+    white: "#a0a0a0"
+    yellow: "#c4a400"

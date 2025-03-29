@@ -1,0 +1,27 @@
+
+name: "Base24 Unikitty" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#424242"
+cursor: "#424242"
+background: "#ff8cd9"
+foreground: "#b9b1b8"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#424242"
+    blue: "#0074ea"
+    cyan: "#79ebd5"
+    green: "#d2ffaf"
+    magenta: "#fdd5e5"
+    red: "#d81329"
+    white: "#fff2fd"
+    yellow: "#0074ea"
+  normal:
+    black: "#0c0c0c"
+    blue: "#145fcd"
+    cyan: "#6bd0bc"
+    green: "#bafc8b"
+    magenta: "#ff36a2"
+    red: "#a80f20"
+    white: "#e1d6e0"
+    yellow: "#eedf4b"

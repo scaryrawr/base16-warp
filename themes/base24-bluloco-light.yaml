@@ -1,0 +1,27 @@
+
+name: "Base24 Bluloco Light" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#dddee8"
+cursor: "#dddee8"
+background: "#f7f7f7"
+foreground: "#38383a"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#dddee8"
+    blue: "#1085d9"
+    cyan: "#5a7fac"
+    green: "#34b253"
+    magenta: "#c00cb2"
+    red: "#fb496d"
+    white: "#1c1d21"
+    yellow: "#1085d9"
+  normal:
+    black: "#cbccd4"
+    blue: "#1d44dd"
+    cyan: "#1e4d7a"
+    green: "#208839"
+    magenta: "#6d1bed"
+    red: "#c80d41"
+    white: "#000000"
+    yellow: "#d44d16"

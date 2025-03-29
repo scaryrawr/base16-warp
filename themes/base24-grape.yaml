@@ -1,0 +1,27 @@
+
+name: "Base24 Grape" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#58506a"
+cursor: "#58506a"
+background: "#161423"
+foreground: "#8c8a92"
+details: darker
+terminal_colors:
+  bright:
+    black: "#58506a"
+    blue: "#a9bbeb"
+    cyan: "#9ce3ea"
+    green: "#52a95d"
+    magenta: "#ac81c1"
+    red: "#f0719a"
+    white: "#a188f7"
+    yellow: "#a9bbeb"
+  normal:
+    black: "#2d283e"
+    blue: "#487cf4"
+    cyan: "#3added"
+    green: "#1fa91b"
+    magenta: "#8c35c8"
+    red: "#ec2160"
+    white: "#9e9ea0"
+    yellow: "#8ddc1f"

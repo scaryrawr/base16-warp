@@ -1,0 +1,27 @@
+
+name: "Base24 Treehouse" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#423625"
+cursor: "#423625"
+background: "#191919"
+foreground: "#695d47"
+details: darker
+terminal_colors:
+  bright:
+    black: "#423625"
+    blue: "#85cfec"
+    cyan: "#f07d14"
+    green: "#55f237"
+    magenta: "#e04b5a"
+    red: "#ed5c20"
+    white: "#ffc800"
+    yellow: "#85cfec"
+  normal:
+    black: "#321200"
+    blue: "#578499"
+    cyan: "#b2591d"
+    green: "#44a900"
+    magenta: "#96363c"
+    red: "#b1270e"
+    white: "#776b53"
+    yellow: "#a9810b"

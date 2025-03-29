@@ -1,0 +1,27 @@
+
+name: "Base24 Ollie" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#5a3625"
+cursor: "#5a3625"
+background: "#212024"
+foreground: "#7e7789"
+details: darker
+terminal_colors:
+  bright:
+    black: "#5a3625"
+    blue: "#4487ff"
+    cyan: "#1efaff"
+    green: "#3bff99"
+    magenta: "#ffc21c"
+    red: "#ff3d48"
+    white: "#5b6da7"
+    yellow: "#4487ff"
+  normal:
+    black: "#000000"
+    blue: "#2c56ab"
+    cyan: "#1fa5ab"
+    green: "#31ab60"
+    magenta: "#af8427"
+    red: "#ab2e30"
+    white: "#8a8dab"
+    yellow: "#ab4200"

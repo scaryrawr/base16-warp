@@ -1,0 +1,27 @@
+
+name: "Base24 Arthur" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#554444"
+cursor: "#554444"
+background: "#1c1c1c"
+foreground: "#a19083"
+details: darker
+terminal_colors:
+  bright:
+    black: "#554444"
+    blue: "#87ceeb"
+    cyan: "#b0c4de"
+    green: "#88aa22"
+    magenta: "#996600"
+    red: "#cc5533"
+    white: "#ddccbb"
+    yellow: "#87ceeb"
+  normal:
+    black: "#3d352a"
+    blue: "#6495ed"
+    cyan: "#b0c4de"
+    green: "#86af80"
+    magenta: "#deb887"
+    red: "#cd5c5c"
+    white: "#bbaa99"
+    yellow: "#e8ae5b"

@@ -1,0 +1,27 @@
+
+name: "Base24 Slate" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#ffffff"
+cursor: "#ffffff"
+background: "#212121"
+foreground: "#42d3e8"
+details: darker
+terminal_colors:
+  bright:
+    black: "#ffffff"
+    blue: "#79afd2"
+    cyan: "#8bdee0"
+    green: "#bdffa8"
+    magenta: "#c4a7d8"
+    red: "#ffccd8"
+    white: "#e0e0e0"
+    yellow: "#79afd2"
+  normal:
+    black: "#212121"
+    blue: "#254a49"
+    cyan: "#14ab9c"
+    green: "#80d778"
+    magenta: "#a380d3"
+    red: "#e1a7bf"
+    white: "#02c4e0"
+    yellow: "#c4c9bf"

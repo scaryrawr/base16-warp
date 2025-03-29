@@ -1,0 +1,27 @@
+
+name: "Base24 Material Dark" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#424242"
+cursor: "#424242"
+background: "#222221"
+foreground: "#c3c3c3"
+details: darker
+terminal_colors:
+  bright:
+    black: "#424242"
+    blue: "#53a4f3"
+    cyan: "#26bad1"
+    green: "#7aba39"
+    magenta: "#a94dbb"
+    red: "#e83a3f"
+    white: "#d8d8d8"
+    yellow: "#53a4f3"
+  normal:
+    black: "#212121"
+    blue: "#134eb2"
+    cyan: "#0e707c"
+    green: "#457b23"
+    magenta: "#550087"
+    red: "#b7141e"
+    white: "#eeeeee"
+    yellow: "#f5971d"

@@ -1,0 +1,27 @@
+
+name: "Base24 Idle Toes" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#535353"
+cursor: "#535353"
+background: "#323232"
+foreground: "#c7c7c5"
+details: darker
+terminal_colors:
+  bright:
+    black: "#535353"
+    blue: "#5eb7f7"
+    cyan: "#dcf4ff"
+    green: "#9dff90"
+    magenta: "#ff9dff"
+    red: "#f07070"
+    white: "#ffffff"
+    yellow: "#5eb7f7"
+  normal:
+    black: "#323232"
+    blue: "#4098ff"
+    cyan: "#bed6ff"
+    green: "#7fe173"
+    magenta: "#f57fff"
+    red: "#d25252"
+    white: "#eeeeec"
+    yellow: "#ffc66d"

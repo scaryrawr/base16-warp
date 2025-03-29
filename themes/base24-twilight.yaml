@@ -1,0 +1,27 @@
+
+name: "Base24 Twilight" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#262626"
+cursor: "#262626"
+background: "#141414"
+foreground: "#c8c8a7"
+details: darker
+terminal_colors:
+  bright:
+    black: "#262626"
+    blue: "#5a5d61"
+    cyan: "#8a989a"
+    green: "#cbd88c"
+    magenta: "#d0db8e"
+    red: "#dd7c4c"
+    white: "#feffd3"
+    yellow: "#5a5d61"
+  normal:
+    black: "#141414"
+    blue: "#444649"
+    cyan: "#778284"
+    green: "#afb979"
+    magenta: "#b4be7b"
+    red: "#c06c43"
+    white: "#feffd3"
+    yellow: "#c2a86c"

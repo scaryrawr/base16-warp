@@ -1,0 +1,27 @@
+
+name: "Base24 deep" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#535353"
+cursor: "#535353"
+background: "#080808"
+foreground: "#bcbcbc"
+details: darker
+terminal_colors:
+  bright:
+    black: "#535353"
+    blue: "#9fa8fe"
+    cyan: "#8cf9fe"
+    green: "#21fe17"
+    magenta: "#e099fe"
+    red: "#fb0006"
+    white: "#fffefe"
+    yellow: "#9fa8fe"
+  normal:
+    black: "#000000"
+    blue: "#5665fe"
+    cyan: "#4fd2d9"
+    green: "#1cd815"
+    magenta: "#af51d9"
+    red: "#d60005"
+    white: "#dfdfdf"
+    yellow: "#d9bc25"

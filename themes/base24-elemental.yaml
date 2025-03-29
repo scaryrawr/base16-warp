@@ -1,0 +1,27 @@
+
+name: "Base24 Elemental" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#545444"
+cursor: "#545444"
+background: "#21211c"
+foreground: "#756f68"
+details: darker
+terminal_colors:
+  bright:
+    black: "#545444"
+    blue: "#78d8d8"
+    cyan: "#58d598"
+    green: "#60e06f"
+    magenta: "#cd7c53"
+    red: "#df502a"
+    white: "#fff1e8"
+    yellow: "#78d8d8"
+  normal:
+    black: "#3c3b30"
+    blue: "#497f7d"
+    cyan: "#387f58"
+    green: "#479942"
+    magenta: "#7e4e2e"
+    red: "#97280f"
+    white: "#807974"
+    yellow: "#7f7110"

@@ -1,0 +1,27 @@
+
+name: "Base24 Desert" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#333333"
+foreground: "#cdbb9b"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#87ceff"
+    cyan: "#ffd700"
+    green: "#55ff55"
+    magenta: "#ff55ff"
+    red: "#ff5555"
+    white: "#ffffff"
+    yellow: "#87ceff"
+  normal:
+    black: "#4d4d4d"
+    blue: "#cd853f"
+    cyan: "#ffa0a0"
+    green: "#98fb98"
+    magenta: "#ffdead"
+    red: "#ff2b2b"
+    white: "#f5deb3"
+    yellow: "#f0e68c"

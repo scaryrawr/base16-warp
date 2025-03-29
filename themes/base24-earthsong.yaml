@@ -1,0 +1,27 @@
+
+name: "Base24 Earthsong" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#665e54"
+cursor: "#665e54"
+background: "#282420"
+foreground: "#c5ab93"
+details: darker
+terminal_colors:
+  bright:
+    black: "#665e54"
+    blue: "#5ed9ff"
+    cyan: "#83ef88"
+    green: "#97e035"
+    magenta: "#ff9168"
+    red: "#ff6459"
+    white: "#f6f6ec"
+    yellow: "#5ed9ff"
+  normal:
+    black: "#111417"
+    blue: "#1397b9"
+    cyan: "#4f9452"
+    green: "#84c44b"
+    magenta: "#d0623c"
+    red: "#c84134"
+    white: "#e5c5a9"
+    yellow: "#f4ae2e"

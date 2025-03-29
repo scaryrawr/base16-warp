@@ -1,0 +1,27 @@
+
+name: "Base24 Red Alert" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#262626"
+cursor: "#262626"
+background: "#762423"
+foreground: "#aaaaaa"
+details: darker
+terminal_colors:
+  bright:
+    black: "#262626"
+    blue: "#65a9f0"
+    cyan: "#b7dfdd"
+    green: "#aff08b"
+    magenta: "#ddb7df"
+    red: "#e02453"
+    white: "#ffffff"
+    yellow: "#65a9f0"
+  normal:
+    black: "#000000"
+    blue: "#479bed"
+    cyan: "#6bbeb8"
+    green: "#71be6b"
+    magenta: "#e878d6"
+    red: "#d52e4d"
+    white: "#d6d6d6"
+    yellow: "#beb86b"

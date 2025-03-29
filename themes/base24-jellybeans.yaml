@@ -1,0 +1,27 @@
+
+name: "Base24 Jellybeans" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#bdbdbd"
+cursor: "#bdbdbd"
+background: "#121212"
+foreground: "#d5d5d5"
+details: darker
+terminal_colors:
+  bright:
+    black: "#bdbdbd"
+    blue: "#b1d8f6"
+    cyan: "#1ab2a8"
+    green: "#bddeab"
+    magenta: "#fbdaff"
+    red: "#ffa1a1"
+    white: "#ffffff"
+    yellow: "#b1d8f6"
+  normal:
+    black: "#929292"
+    blue: "#97bedc"
+    cyan: "#00988e"
+    green: "#93b979"
+    magenta: "#e1c0fa"
+    red: "#e27373"
+    white: "#dedede"
+    yellow: "#ffba7b"

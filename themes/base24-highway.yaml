@@ -1,0 +1,27 @@
+
+name: "Base24 Highway" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#5c4f49"
+cursor: "#5c4f49"
+background: "#212224"
+foreground: "#c8c5c4"
+details: darker
+terminal_colors:
+  bright:
+    black: "#5c4f49"
+    blue: "#4fc2fd"
+    cyan: "#5c4f49"
+    green: "#b1d130"
+    magenta: "#de0070"
+    red: "#ef7d17"
+    white: "#fefffe"
+    yellow: "#4fc2fd"
+  normal:
+    black: "#000000"
+    blue: "#006ab3"
+    cyan: "#384563"
+    green: "#128033"
+    magenta: "#6a2674"
+    red: "#cf0d17"
+    white: "#ededed"
+    yellow: "#ffca3d"

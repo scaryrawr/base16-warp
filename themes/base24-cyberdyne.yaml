@@ -1,0 +1,27 @@
+
+name: "Base24 Cyberdyne" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#2d2d2d"
+cursor: "#2d2d2d"
+background: "#151144"
+foreground: "#c0c0c0"
+details: darker
+terminal_colors:
+  bright:
+    black: "#2d2d2d"
+    blue: "#c1e3fe"
+    cyan: "#e5e6fe"
+    green: "#d6fcb9"
+    magenta: "#ffb1fe"
+    red: "#ffc4bd"
+    white: "#feffff"
+    yellow: "#c1e3fe"
+  normal:
+    black: "#080808"
+    blue: "#0071cf"
+    cyan: "#6bffdc"
+    green: "#00c172"
+    magenta: "#ff8ffd"
+    red: "#ff8272"
+    white: "#f1f1f1"
+    yellow: "#d2a700"

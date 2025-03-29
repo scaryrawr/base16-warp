@@ -1,0 +1,27 @@
+
+name: "Base24 Monokai Vivid" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#828282"
+cursor: "#828282"
+background: "#121212"
+foreground: "#dfdfdf"
+details: darker
+terminal_colors:
+  bright:
+    black: "#828282"
+    blue: "#0442fe"
+    cyan: "#50cdfe"
+    green: "#b0e05e"
+    magenta: "#f200f5"
+    red: "#f5669c"
+    white: "#ffffff"
+    yellow: "#0442fe"
+  normal:
+    black: "#121212"
+    blue: "#0442fe"
+    cyan: "#01b6ed"
+    green: "#97e123"
+    magenta: "#f800f8"
+    red: "#fa2834"
+    white: "#fffefe"
+    yellow: "#fef20a"

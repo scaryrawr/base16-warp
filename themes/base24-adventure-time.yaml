@@ -1,0 +1,27 @@
+
+name: "Base24 Adventure Time" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#4e7bbf"
+cursor: "#4e7bbf"
+background: "#1e1c44"
+foreground: "#cdc3bf"
+details: darker
+terminal_colors:
+  bright:
+    black: "#4e7bbf"
+    blue: "#1896c6"
+    cyan: "#c8f9f3"
+    green: "#9dff6e"
+    magenta: "#9a5952"
+    red: "#fc5e59"
+    white: "#f5f4fb"
+    yellow: "#1896c6"
+  normal:
+    black: "#050404"
+    blue: "#0f49c6"
+    cyan: "#6fa497"
+    green: "#49b117"
+    magenta: "#665992"
+    red: "#bc0013"
+    white: "#f8dbc0"
+    yellow: "#e6741d"

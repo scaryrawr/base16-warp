@@ -1,0 +1,27 @@
+
+name: "Base24 Pro" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#666666"
+cursor: "#666666"
+background: "#000000"
+foreground: "#a8a8a8"
+details: darker
+terminal_colors:
+  bright:
+    black: "#666666"
+    blue: "#0000ff"
+    cyan: "#00e5e5"
+    green: "#00d900"
+    magenta: "#e500e5"
+    red: "#e50000"
+    white: "#e5e5e5"
+    yellow: "#0000ff"
+  normal:
+    black: "#000000"
+    blue: "#1f08db"
+    cyan: "#00a6b2"
+    green: "#00a600"
+    magenta: "#b200b2"
+    red: "#990000"
+    white: "#bfbfbf"
+    yellow: "#999900"

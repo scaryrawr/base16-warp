@@ -1,0 +1,27 @@
+
+name: "Base24 IC-Green-PPL" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#025c02"
+cursor: "#025c02"
+background: "#2c2c2c"
+foreground: "#add5b6"
+details: darker
+terminal_colors:
+  bright:
+    black: "#025c02"
+    blue: "#2efaeb"
+    cyan: "#3cfac8"
+    green: "#aefa86"
+    magenta: "#50fafa"
+    red: "#b4fa5c"
+    white: "#e0f1dc"
+    yellow: "#2efaeb"
+  normal:
+    black: "#014401"
+    blue: "#2ec3b9"
+    cyan: "#3ca078"
+    green: "#41a638"
+    magenta: "#50a096"
+    red: "#fe2635"
+    white: "#e6fef2"
+    yellow: "#76a830"

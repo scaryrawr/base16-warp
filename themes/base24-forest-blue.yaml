@@ -1,0 +1,27 @@
+
+name: "Base24 Forest Blue" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#3d3d3d"
+cursor: "#3d3d3d"
+background: "#051519"
+foreground: "#b8b1a9"
+details: darker
+terminal_colors:
+  bright:
+    black: "#3d3d3d"
+    blue: "#39a7a2"
+    cyan: "#6096bf"
+    green: "#6bb48d"
+    magenta: "#7e62b3"
+    red: "#fb3d66"
+    white: "#e2d8cd"
+    yellow: "#39a7a2"
+  normal:
+    black: "#333333"
+    blue: "#8ed0ce"
+    cyan: "#31658c"
+    green: "#92d3a2"
+    magenta: "#5e468c"
+    red: "#f8818e"
+    white: "#e2d8cd"
+    yellow: "#1a8d63"

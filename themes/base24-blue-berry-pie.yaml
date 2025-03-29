@@ -1,0 +1,27 @@
+
+name: "Base24 Blue Berry Pie" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#1f1637"
+cursor: "#1f1637"
+background: "#1c0b28"
+foreground: "#bbb2ad"
+details: darker
+terminal_colors:
+  bright:
+    black: "#1f1637"
+    blue: "#38163d"
+    cyan: "#5d5f71"
+    green: "#0a6b7e"
+    magenta: "#bc93b6"
+    red: "#c77171"
+    white: "#0a6b7e"
+    yellow: "#38163d"
+  normal:
+    black: "#0a4b61"
+    blue: "#90a5bc"
+    cyan: "#7e82cc"
+    green: "#5bb0b2"
+    magenta: "#9d53a7"
+    red: "#99236d"
+    white: "#f0e7d5"
+    yellow: "#e9b8a7"

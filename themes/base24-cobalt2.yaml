@@ -1,0 +1,27 @@
+
+name: "Base24 Cobalt2" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#122637"
+foreground: "#a1a1a1"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#5555ff"
+    cyan: "#6ae3f9"
+    green: "#3bcf1d"
+    magenta: "#ff55ff"
+    red: "#f40d17"
+    white: "#ffffff"
+    yellow: "#5555ff"
+  normal:
+    black: "#000000"
+    blue: "#1460d2"
+    cyan: "#00bbbb"
+    green: "#37dd21"
+    magenta: "#ff005d"
+    red: "#ff0000"
+    white: "#bbbbbb"
+    yellow: "#fee409"

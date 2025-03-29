@@ -1,0 +1,27 @@
+
+name: "Base24 Gruvbox Dark" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#7f7060"
+cursor: "#7f7060"
+background: "#1d1d1d"
+foreground: "#91816c"
+details: darker
+terminal_colors:
+  bright:
+    black: "#7f7060"
+    blue: "#709585"
+    cyan: "#7db568"
+    green: "#a9b01d"
+    magenta: "#c76f89"
+    red: "#f63028"
+    white: "#e5d3a2"
+    yellow: "#709585"
+  normal:
+    black: "#1d1d1d"
+    blue: "#377274"
+    cyan: "#568d57"
+    green: "#868715"
+    magenta: "#9f4b73"
+    red: "#be0e17"
+    white: "#978771"
+    yellow: "#cc871a"

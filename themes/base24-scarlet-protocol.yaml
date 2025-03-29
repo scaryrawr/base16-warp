@@ -1,0 +1,27 @@
+
+name: "Base24 Scarlet Protocol" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#676767"
+cursor: "#676767"
+background: "#1b153c"
+foreground: "#afafaf"
+details: darker
+terminal_colors:
+  bright:
+    black: "#676767"
+    blue: "#6871ff"
+    cyan: "#5ffdff"
+    green: "#5ff967"
+    magenta: "#bc35eb"
+    red: "#ff6d67"
+    white: "#feffff"
+    yellow: "#6871ff"
+  normal:
+    black: "#101116"
+    blue: "#0271b6"
+    cyan: "#00c5c7"
+    green: "#00dc84"
+    magenta: "#c930c7"
+    red: "#ff0051"
+    white: "#c7c7c7"
+    yellow: "#faf945"

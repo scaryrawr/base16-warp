@@ -1,0 +1,27 @@
+
+name: "Base24 CLRS" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#545753"
+cursor: "#545753"
+background: "#ffffff"
+foreground: "#9a9b9a"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#545753"
+    blue: "#156ffe"
+    cyan: "#39d5ce"
+    green: "#2cc631"
+    magenta: "#e800b0"
+    red: "#fb0416"
+    white: "#ededec"
+    yellow: "#156ffe"
+  normal:
+    black: "#000000"
+    blue: "#125ccf"
+    cyan: "#32c2c0"
+    green: "#32895c"
+    magenta: "#9f00bc"
+    red: "#f72729"
+    white: "#b2b2b2"
+    yellow: "#f96f1c"

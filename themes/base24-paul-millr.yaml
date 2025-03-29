@@ -1,0 +1,27 @@
+
+name: "Base24 Paul Millr" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#666666"
+cursor: "#666666"
+background: "#000000"
+foreground: "#a5a5a5"
+details: darker
+terminal_colors:
+  bright:
+    black: "#666666"
+    blue: "#709aed"
+    cyan: "#79dff2"
+    green: "#66ff66"
+    magenta: "#db67e6"
+    red: "#ff0080"
+    white: "#ffffff"
+    yellow: "#709aed"
+  normal:
+    black: "#2a2a2a"
+    blue: "#386bd7"
+    cyan: "#66ccff"
+    green: "#79ff0f"
+    magenta: "#b349be"
+    red: "#ff0000"
+    white: "#bbbbbb"
+    yellow: "#e7bf00"

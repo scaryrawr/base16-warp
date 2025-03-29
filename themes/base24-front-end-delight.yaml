@@ -1,0 +1,27 @@
+
+name: "Base24 Front End Delight" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#5eac6c"
+cursor: "#5eac6c"
+background: "#1b1b1d"
+foreground: "#98ac9c"
+details: darker
+terminal_colors:
+  bright:
+    black: "#5eac6c"
+    blue: "#3393c9"
+    cyan: "#4ebce5"
+    green: "#74eb4c"
+    magenta: "#e75e4e"
+    red: "#f64319"
+    white: "#8b735a"
+    yellow: "#3393c9"
+  normal:
+    black: "#242426"
+    blue: "#2c70b7"
+    cyan: "#3ba0a5"
+    green: "#565746"
+    magenta: "#f02d4e"
+    red: "#f8501a"
+    white: "#acacac"
+    yellow: "#f9761d"

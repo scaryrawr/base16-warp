@@ -1,0 +1,27 @@
+
+name: "Base24 Lavandula" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#372c46"
+cursor: "#372c46"
+background: "#050014"
+foreground: "#645d6f"
+details: darker
+terminal_colors:
+  bright:
+    black: "#372c46"
+    blue: "#8e86df"
+    cyan: "#9ad3df"
+    green: "#52e0c4"
+    magenta: "#a675df"
+    red: "#df5066"
+    white: "#8c91fa"
+    yellow: "#8e86df"
+  normal:
+    black: "#230045"
+    blue: "#4f4a7f"
+    cyan: "#57767f"
+    green: "#337e6f"
+    magenta: "#593f7e"
+    red: "#7c1525"
+    white: "#736e7d"
+    yellow: "#7f6f49"

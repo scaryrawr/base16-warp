@@ -1,0 +1,27 @@
+
+name: "Base24 Shaman" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#374350"
+cursor: "#374350"
+background: "#001014"
+foreground: "#3d5053"
+details: darker
+terminal_colors:
+  bright:
+    black: "#374350"
+    blue: "#61d4b9"
+    cyan: "#98cf28"
+    green: "#2aea5e"
+    magenta: "#1298ff"
+    red: "#ff4242"
+    white: "#58fad6"
+    yellow: "#61d4b9"
+  normal:
+    black: "#012026"
+    blue: "#449985"
+    cyan: "#5c7e19"
+    green: "#00a940"
+    magenta: "#00599c"
+    red: "#b12f2c"
+    white: "#405554"
+    yellow: "#5d8aa9"
