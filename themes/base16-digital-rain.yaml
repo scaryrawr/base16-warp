@@ -1,0 +1,26 @@
+name: "Base16 Digital Rain" 
+author: "Nathan Byrd (https://github.com/cognitivegears)"
+accent: "#5482af"
+cursor: "#5482af"
+background: "#000000"
+foreground: "#00ff00"
+details: darker
+terminal_colors:
+  bright:
+    black: "#7c8d7c"
+    blue: "#919893"
+    cyan: "#b37c5e"
+    green: "#4a806c"
+    magenta: "#c4cec4"
+    red: "#c86428"
+    white: "#d8e2dc"
+    yellow: "#4a8d7e"
+  normal:
+    black: "#000000"
+    blue: "#5482af"
+    cyan: "#468c78"
+    green: "#64c83c"
+    magenta: "#9472b4"
+    red: "#c85a46"
+    white: "#00ff00"
+    yellow: "#a67a50"

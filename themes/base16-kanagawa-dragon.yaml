@@ -1,0 +1,26 @@
+name: "Base16 Kanagawa Dragon" 
+author: "Tommaso Laurenzi (https://github.com/rebelot)"
+accent: "#8ba4b0"
+cursor: "#8ba4b0"
+background: "#0d0c0c"
+foreground: "#c5c9c5"
+details: darker
+terminal_colors:
+  bright:
+    black: "#737c73"
+    blue: "#a6a69c"
+    cyan: "#a292a3"
+    green: "#1d1c19"
+    magenta: "#7a8382"
+    red: "#b98d7b"
+    white: "#c5c9c5"
+    yellow: "#282727"
+  normal:
+    black: "#0d0c0c"
+    blue: "#8ba4b0"
+    cyan: "#8ea4a2"
+    green: "#87a987"
+    magenta: "#8992a7"
+    red: "#c4746e"
+    white: "#c5c9c5"
+    yellow: "#c4b28a"

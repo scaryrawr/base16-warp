@@ -1,0 +1,27 @@
+
+name: "Base24 Embarcadero" 
+author: "Thomas Leon Highbaugh"
+accent: "#616568"
+cursor: "#616568"
+background: "#252a2f"
+foreground: "#bcbdc0"
+details: darker
+terminal_colors:
+  bright:
+    black: "#616568"
+    blue: "#80b0f0"
+    cyan: "#40c0c0"
+    green: "#a0d0a0"
+    magenta: "#c090f0"
+    red: "#f57d9a"
+    white: "#f8f8f8"
+    yellow: "#eb824d"
+  normal:
+    black: "#43474c"
+    blue: "#4080d0"
+    cyan: "#02efef"
+    green: "#20c290"
+    magenta: "#a070d0"
+    red: "#ed5d86"
+    white: "#dadbdb"
+    yellow: "#ffcb3d"
