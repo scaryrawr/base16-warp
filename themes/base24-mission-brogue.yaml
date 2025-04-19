@@ -1,0 +1,27 @@
+
+name: "Base24 Mission Brogue" 
+author: "Thomas Leon Highbaugh"
+accent: "#4d606f"
+cursor: "#4d606f"
+background: "#283139"
+foreground: "#93a5b4"
+details: darker
+terminal_colors:
+  bright:
+    black: "#4d606f"
+    blue: "#c3d9fd"
+    cyan: "#b2f0fd"
+    green: "#b5e090"
+    magenta: "#e3c3e6"
+    red: "#f6bfbf"
+    white: "#e7ebee"
+    yellow: "#e0b88a"
+  normal:
+    black: "#3b4954"
+    blue: "#a2c5fd"
+    cyan: "#93dfec"
+    green: "#8cd4b0"
+    magenta: "#ccb7db"
+    red: "#efa9a9"
+    white: "#abb9c4"
+    yellow: "#f2db78"

@@ -1,0 +1,27 @@
+
+name: "Base24 Github Dark" 
+author: "Tinted Theming (https://github.com/tinted-theming)"
+accent: "#484f58"
+cursor: "#484f58"
+background: "#161b22"
+foreground: "#c9d1d9"
+details: darker
+terminal_colors:
+  bright:
+    black: "#484f58"
+    blue: "#58a6ff"
+    cyan: "#33b3ae"
+    green: "#3fb950"
+    magenta: "#bc8cff"
+    red: "#ff7b72"
+    white: "#ffffff"
+    yellow: "#bb8009"
+  normal:
+    black: "#30363d"
+    blue: "#388bfd"
+    cyan: "#2a9d9a"
+    green: "#2ea043"
+    magenta: "#a371f7"
+    red: "#f85149"
+    white: "#f0f6fc"
+    yellow: "#db6d28"
