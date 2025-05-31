@@ -7,8 +7,8 @@ foreground: "#cacaca"
 details: darker
 terminal_colors:
   bright:
-    black: "#4c4c4c"
-    blue: "#ac8a8c"
+    black: "#393939"
+    blue: "#4c4c4c"
     cyan: "#ac8a8c"
     green: "#191919"
     magenta: "#e7e7e7"
