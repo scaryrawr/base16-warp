@@ -30,7 +30,7 @@ jobs:
             git add themes
             git commit -m "fix: update themes"
             git push -u origin $new_branch
-            gh pr create -B main --title 'Update color themes' --body 'Created by Github action' -a scaryrawr
+            gh pr create -B main --title 'Update color themes' --body 'Created by Github action' -a "${{ github.repository_owner }}"
           )
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
