@@ -1,0 +1,26 @@
+name: "Base16 Penumbra Dark" 
+author: "Zachary Weiss (https://github.com/zacharyweiss)"
+accent: "#5794d0"
+cursor: "#5794d0"
+background: "#24272b"
+foreground: "#bebebe"
+details: darker
+terminal_colors:
+  bright:
+    black: "#636363"
+    blue: "#8f8f8f"
+    cyan: "#bc73a4"
+    green: "#303338"
+    magenta: "#fff7ed"
+    red: "#ba823a"
+    white: "#fffdfb"
+    yellow: "#3e4044"
+  normal:
+    black: "#24272b"
+    blue: "#5794d0"
+    cyan: "#00a2af"
+    green: "#47a477"
+    magenta: "#9481cc"
+    red: "#ca736c"
+    white: "#bebebe"
+    yellow: "#8d9741"

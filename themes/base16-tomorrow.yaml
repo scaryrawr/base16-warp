@@ -3,18 +3,18 @@ author: "Chris Kempson (http://chriskempson.com)"
 accent: "#4271ae"
 cursor: "#4271ae"
 background: "#ffffff"
-foreground: "#4d4d4c"
+foreground: "#373b41"
 details: lighter
 terminal_colors:
   bright:
-    black: "#8e908c"
+    black: "#b4b7b4"
     blue: "#969896"
     cyan: "#a3685a"
     green: "#e0e0e0"
     magenta: "#282a2e"
     red: "#f5871f"
     white: "#1d1f21"
-    yellow: "#d6d6d6"
+    yellow: "#c5c8c6"
   normal:
     black: "#ffffff"
     blue: "#4271ae"
@@ -22,5 +22,5 @@ terminal_colors:
     green: "#718c00"
     magenta: "#8959a8"
     red: "#c82829"
-    white: "#4d4d4c"
+    white: "#373b41"
     yellow: "#eab700"

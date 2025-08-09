@@ -1,0 +1,27 @@
+
+name: "Base24 Space Gray Eighties" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#555555"
+cursor: "#555555"
+background: "#212121"
+foreground: "#c7c6c2"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#4d83d0"
+    cyan: "#83e8e4"
+    green: "#93d393"
+    magenta: "#ff55ff"
+    red: "#ff6973"
+    white: "#ffffff"
+    yellow: "#4d83d0"
+  normal:
+    black: "#15171c"
+    blue: "#5485c0"
+    cyan: "#57c2c0"
+    green: "#80a763"
+    magenta: "#bf83c0"
+    red: "#ec5f67"
+    white: "#eeece7"
+    yellow: "#fdc253"

@@ -1,0 +1,26 @@
+name: "Base16 Penumbra Light" 
+author: "Zachary Weiss (https://github.com/zacharyweiss)"
+accent: "#5794d0"
+cursor: "#5794d0"
+background: "#fffdfb"
+foreground: "#636363"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#bebebe"
+    blue: "#8f8f8f"
+    cyan: "#bc73a4"
+    green: "#fff7ed"
+    magenta: "#303338"
+    red: "#ba823a"
+    white: "#24272b"
+    yellow: "#f2e6d4"
+  normal:
+    black: "#fffdfb"
+    blue: "#5794d0"
+    cyan: "#00a2af"
+    green: "#47a477"
+    magenta: "#9481cc"
+    red: "#ca736c"
+    white: "#636363"
+    yellow: "#8d9741"

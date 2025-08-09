@@ -1,0 +1,26 @@
+name: "Base16 0x96f" 
+author: "Filip Janevski (https://0x96f.dev/theme)"
+accent: "#49cae4"
+cursor: "#49cae4"
+background: "#262427"
+foreground: "#fcfcfc"
+details: darker
+terminal_colors:
+  bright:
+    black: "#676567"
+    blue: "#7c7b7d"
+    cyan: "#ff8787"
+    green: "#3b393c"
+    magenta: "#eae9eb"
+    red: "#fc9d6f"
+    white: "#fcfcfc"
+    yellow: "#514f52"
+  normal:
+    black: "#262427"
+    blue: "#49cae4"
+    cyan: "#aee8f4"
+    green: "#bcdf59"
+    magenta: "#a093e2"
+    red: "#ff7272"
+    white: "#fcfcfc"
+    yellow: "#ffca58"

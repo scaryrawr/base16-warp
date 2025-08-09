@@ -1,0 +1,26 @@
+name: "Base16 Chicago Day" 
+author: "Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;"
+accent: "#522398"
+cursor: "#522398"
+background: "#e8f0ea"
+foreground: "#364c40"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#8a9a91"
+    blue: "#4b5a51"
+    cyan: "#62361b"
+    green: "#d1e0d7"
+    magenta: "#2a3b32"
+    red: "#f9461c"
+    white: "#1e2a24"
+    yellow: "#b9d0c3"
+  normal:
+    black: "#e8f0ea"
+    blue: "#522398"
+    cyan: "#00a1de"
+    green: "#009b3a"
+    magenta: "#e27ea6"
+    red: "#c60c30"
+    white: "#364c40"
+    yellow: "#968400"

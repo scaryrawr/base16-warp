@@ -1,0 +1,27 @@
+
+name: "Base24 Thayer Bright" 
+author: "FredHappyface (https://github.com/fredHappyface)"
+accent: "#505354"
+cursor: "#505354"
+background: "#1b1d1e"
+foreground: "#adada9"
+details: darker
+terminal_colors:
+  bright:
+    black: "#505354"
+    blue: "#3f78ff"
+    cyan: "#23ced4"
+    green: "#b6e354"
+    magenta: "#9e6ffe"
+    red: "#ff5995"
+    white: "#f8f8f2"
+    yellow: "#3f78ff"
+  normal:
+    black: "#1b1d1e"
+    blue: "#2656d6"
+    cyan: "#37c8b4"
+    green: "#4df740"
+    magenta: "#8c54fe"
+    red: "#f92672"
+    white: "#ccccc6"
+    yellow: "#f3fd21"
