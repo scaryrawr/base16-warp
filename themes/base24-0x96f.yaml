@@ -1,0 +1,27 @@
+
+name: "Base24 0x96f" 
+author: "Filip Janevski (https://0x96f.dev/theme)"
+accent: "#514f52"
+cursor: "#514f52"
+background: "#262427"
+foreground: "#fcfcfc"
+details: darker
+terminal_colors:
+  bright:
+    black: "#514f52"
+    blue: "#64d2e8"
+    cyan: "#baebf6"
+    green: "#c6e472"
+    magenta: "#aea3e6"
+    red: "#ff8787"
+    white: "#fcfcfc"
+    yellow: "#ffca58"
+  normal:
+    black: "#3b393c"
+    blue: "#49cae4"
+    cyan: "#aee8f4"
+    green: "#bcdf59"
+    magenta: "#a093e2"
+    red: "#ff7272"
+    white: "#eae9eb"
+    yellow: "#fc9d6f"

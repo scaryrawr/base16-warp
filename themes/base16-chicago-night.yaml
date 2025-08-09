@@ -1,0 +1,26 @@
+name: "Base16 Chicago Night" 
+author: "Wendell, Ryan &lt;ryanjwendell@gmail.com&gt;"
+accent: "#522398"
+cursor: "#522398"
+background: "#1e2a24"
+foreground: "#a7b8af"
+details: darker
+terminal_colors:
+  bright:
+    black: "#5f7368"
+    blue: "#8a9a91"
+    cyan: "#62361b"
+    green: "#2a3b32"
+    magenta: "#c1cdc7"
+    red: "#f9461c"
+    white: "#dbe3de"
+    yellow: "#364c40"
+  normal:
+    black: "#1e2a24"
+    blue: "#522398"
+    cyan: "#00a1de"
+    green: "#009b3a"
+    magenta: "#e27ea6"
+    red: "#c60c30"
+    white: "#a7b8af"
+    yellow: "#f9e300"

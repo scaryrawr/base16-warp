@@ -1,0 +1,27 @@
+
+name: "Base24 Mountain" 
+author: "Stefan Weigl-Bosker (https://github.com/sweiglbosker), based on Mountain Theme (https://github.com/mountain-theme/Mountain)"
+accent: "#262626"
+cursor: "#262626"
+background: "#0f0f0f"
+foreground: "#cacaca"
+details: darker
+terminal_colors:
+  bright:
+    black: "#262626"
+    blue: "#a39ec4"
+    cyan: "#9ec3c4"
+    green: "#9ec49f"
+    magenta: "#c49ec4"
+    red: "#c49ea0"
+    white: "#f0f0f0"
+    yellow: "#aca98a"
+  normal:
+    black: "#191919"
+    blue: "#8f8aac"
+    cyan: "#8aabac"
+    green: "#8aac8b"
+    magenta: "#ac8aac"
+    red: "#ac8a8c"
+    white: "#e7e7e7"
+    yellow: "#c6a679"

@@ -1,0 +1,26 @@
+name: "Base16 Charcoal Light" 
+author: "Mubin Muhammad (https://github.com/mubin6th)"
+accent: "#120f09"
+cursor: "#120f09"
+background: "#d6b891"
+foreground: "#35291d"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#887254"
+    blue: "#1e1812"
+    cyan: "#66553f"
+    green: "#c0a179"
+    magenta: "#413325"
+    red: "#120f09"
+    white: "#d6b891"
+    yellow: "#a28662"
+  normal:
+    black: "#d6b891"
+    blue: "#120f09"
+    cyan: "#413325"
+    green: "#120f09"
+    magenta: "#292016"
+    red: "#413325"
+    white: "#35291d"
+    yellow: "#292016"

@@ -1,0 +1,26 @@
+name: "Base16 Linux VT" 
+author: "j-c-m (https://github.com/j-c-m/)"
+accent: "#5555ff"
+cursor: "#5555ff"
+background: "#000000"
+foreground: "#aaaaaa"
+details: darker
+terminal_colors:
+  bright:
+    black: "#555555"
+    blue: "#888888"
+    cyan: "#aa5500"
+    green: "#333333"
+    magenta: "#cccccc"
+    red: "#ff5555"
+    white: "#ffffff"
+    yellow: "#444444"
+  normal:
+    black: "#000000"
+    blue: "#5555ff"
+    cyan: "#00aaaa"
+    green: "#00aa00"
+    magenta: "#ff55ff"
+    red: "#aa0000"
+    white: "#aaaaaa"
+    yellow: "#ffff55"

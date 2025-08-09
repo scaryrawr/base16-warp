@@ -1,0 +1,26 @@
+name: "Base16 Penumbra Light Contrast Plus" 
+author: "Zachary Weiss (https://github.com/zacharyweiss)"
+accent: "#61a3e6"
+cursor: "#61a3e6"
+background: "#fffdfb"
+foreground: "#636363"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#cecece"
+    blue: "#9e9e9e"
+    cyan: "#d080b6"
+    green: "#fff7ed"
+    magenta: "#24272b"
+    red: "#ce9042"
+    white: "#181b1f"
+    yellow: "#f2e6d4"
+  normal:
+    black: "#fffdfb"
+    blue: "#61a3e6"
+    cyan: "#00b3c2"
+    green: "#50b584"
+    magenta: "#a48fe1"
+    red: "#df7f78"
+    white: "#636363"
+    yellow: "#9ca748"
